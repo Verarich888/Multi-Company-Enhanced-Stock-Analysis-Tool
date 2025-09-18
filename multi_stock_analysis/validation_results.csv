@@ -1,0 +1,177 @@
+test,status,max_difference,ticker,details
+SMA vs Pandas (window=5),Passed,0.0,AAPL,
+Runs Analysis,Passed,,AAPL,Basic validation
+Daily Returns,Passed,,AAPL,Basic validation
+Max Profit,Passed,,AAPL,Basic validation
+SMA vs Pandas (window=5),Passed,0.0,MSFT,
+Runs Analysis,Passed,,MSFT,Basic validation
+Daily Returns,Passed,,MSFT,Basic validation
+Max Profit,Passed,,MSFT,Basic validation
+SMA vs Pandas (window=5),Passed,0.0,GOOGL,
+Runs Analysis,Passed,,GOOGL,Basic validation
+Daily Returns,Passed,,GOOGL,Basic validation
+Max Profit,Passed,,GOOGL,Basic validation
+SMA vs Pandas (window=5),Passed,0.0,AMZN,
+Runs Analysis,Passed,,AMZN,Basic validation
+Daily Returns,Passed,,AMZN,Basic validation
+Max Profit,Passed,,AMZN,Basic validation
+SMA vs Pandas (window=5),Passed,0.0,TSLA,
+Runs Analysis,Passed,,TSLA,Basic validation
+Daily Returns,Passed,,TSLA,Basic validation
+Max Profit,Passed,,TSLA,Basic validation
+SMA vs Pandas (window=5),Passed,0.0,NVDA,
+Runs Analysis,Passed,,NVDA,Basic validation
+Daily Returns,Passed,,NVDA,Basic validation
+Max Profit,Passed,,NVDA,Basic validation
+SMA vs Pandas (window=5),Passed,0.0,META,
+Runs Analysis,Passed,,META,Basic validation
+Daily Returns,Passed,,META,Basic validation
+Max Profit,Passed,,META,Basic validation
+SMA vs Pandas (window=5),Passed,0.0,NFLX,
+Runs Analysis,Passed,,NFLX,Basic validation
+Daily Returns,Passed,,NFLX,Basic validation
+Max Profit,Passed,,NFLX,Basic validation
+SMA vs Pandas (window=5),Passed,0.0,JPM,
+Runs Analysis,Passed,,JPM,Basic validation
+Daily Returns,Passed,,JPM,Basic validation
+Max Profit,Passed,,JPM,Basic validation
+SMA vs Pandas (window=5),Passed,0.0,BAC,
+Runs Analysis,Passed,,BAC,Basic validation
+Daily Returns,Passed,,BAC,Basic validation
+Max Profit,Passed,,BAC,Basic validation
+SMA vs Pandas (window=5),Passed,0.0,GS,
+Runs Analysis,Passed,,GS,Basic validation
+Daily Returns,Passed,,GS,Basic validation
+Max Profit,Passed,,GS,Basic validation
+SMA vs Pandas (window=5),Passed,0.0,MS,
+Runs Analysis,Passed,,MS,Basic validation
+Daily Returns,Passed,,MS,Basic validation
+Max Profit,Passed,,MS,Basic validation
+SMA vs Pandas (window=5),Passed,0.0,C,
+Runs Analysis,Passed,,C,Basic validation
+Daily Returns,Passed,,C,Basic validation
+Max Profit,Passed,,C,Basic validation
+SMA vs Pandas (window=5),Passed,0.0,V,
+Runs Analysis,Passed,,V,Basic validation
+Daily Returns,Passed,,V,Basic validation
+Max Profit,Passed,,V,Basic validation
+SMA vs Pandas (window=5),Passed,0.0,MA,
+Runs Analysis,Passed,,MA,Basic validation
+Daily Returns,Passed,,MA,Basic validation
+Max Profit,Passed,,MA,Basic validation
+SMA vs Pandas (window=5),Passed,0.0,PYPL,
+Runs Analysis,Passed,,PYPL,Basic validation
+Daily Returns,Passed,,PYPL,Basic validation
+Max Profit,Passed,,PYPL,Basic validation
+SMA vs Pandas (window=5),Passed,0.0,JNJ,
+Runs Analysis,Passed,,JNJ,Basic validation
+Daily Returns,Passed,,JNJ,Basic validation
+Max Profit,Passed,,JNJ,Basic validation
+SMA vs Pandas (window=5),Passed,0.0,PFE,
+Runs Analysis,Passed,,PFE,Basic validation
+Daily Returns,Passed,,PFE,Basic validation
+Max Profit,Passed,,PFE,Basic validation
+SMA vs Pandas (window=5),Passed,0.0,MRK,
+Runs Analysis,Passed,,MRK,Basic validation
+Daily Returns,Passed,,MRK,Basic validation
+Max Profit,Passed,,MRK,Basic validation
+SMA vs Pandas (window=5),Passed,0.0,UNH,
+Runs Analysis,Passed,,UNH,Basic validation
+Daily Returns,Passed,,UNH,Basic validation
+Max Profit,Passed,,UNH,Basic validation
+SMA vs Pandas (window=5),Passed,0.0,ABBV,
+Runs Analysis,Passed,,ABBV,Basic validation
+Daily Returns,Passed,,ABBV,Basic validation
+Max Profit,Passed,,ABBV,Basic validation
+SMA vs Pandas (window=5),Passed,0.0,WMT,
+Runs Analysis,Passed,,WMT,Basic validation
+Daily Returns,Passed,,WMT,Basic validation
+Max Profit,Passed,,WMT,Basic validation
+SMA vs Pandas (window=5),Passed,0.0,COST,
+Runs Analysis,Passed,,COST,Basic validation
+Daily Returns,Passed,,COST,Basic validation
+Max Profit,Passed,,COST,Basic validation
+SMA vs Pandas (window=5),Passed,0.0,PG,
+Runs Analysis,Passed,,PG,Basic validation
+Daily Returns,Passed,,PG,Basic validation
+Max Profit,Passed,,PG,Basic validation
+SMA vs Pandas (window=5),Passed,0.0,KO,
+Runs Analysis,Passed,,KO,Basic validation
+Daily Returns,Passed,,KO,Basic validation
+Max Profit,Passed,,KO,Basic validation
+SMA vs Pandas (window=5),Passed,0.0,PEP,
+Runs Analysis,Passed,,PEP,Basic validation
+Daily Returns,Passed,,PEP,Basic validation
+Max Profit,Passed,,PEP,Basic validation
+SMA vs Pandas (window=5),Passed,0.0,MCD,
+Runs Analysis,Passed,,MCD,Basic validation
+Daily Returns,Passed,,MCD,Basic validation
+Max Profit,Passed,,MCD,Basic validation
+SMA vs Pandas (window=5),Passed,0.0,TGT,
+Runs Analysis,Passed,,TGT,Basic validation
+Daily Returns,Passed,,TGT,Basic validation
+Max Profit,Passed,,TGT,Basic validation
+SMA vs Pandas (window=5),Passed,0.0,XOM,
+Runs Analysis,Passed,,XOM,Basic validation
+Daily Returns,Passed,,XOM,Basic validation
+Max Profit,Passed,,XOM,Basic validation
+SMA vs Pandas (window=5),Passed,0.0,CVX,
+Runs Analysis,Passed,,CVX,Basic validation
+Daily Returns,Passed,,CVX,Basic validation
+Max Profit,Passed,,CVX,Basic validation
+SMA vs Pandas (window=5),Passed,0.0,COP,
+Runs Analysis,Passed,,COP,Basic validation
+Daily Returns,Passed,,COP,Basic validation
+Max Profit,Passed,,COP,Basic validation
+SMA vs Pandas (window=5),Passed,0.0,BA,
+Runs Analysis,Passed,,BA,Basic validation
+Daily Returns,Passed,,BA,Basic validation
+Max Profit,Passed,,BA,Basic validation
+SMA vs Pandas (window=5),Passed,0.0,CAT,
+Runs Analysis,Passed,,CAT,Basic validation
+Daily Returns,Passed,,CAT,Basic validation
+Max Profit,Passed,,CAT,Basic validation
+SMA vs Pandas (window=5),Passed,0.0,GE,
+Runs Analysis,Passed,,GE,Basic validation
+Daily Returns,Passed,,GE,Basic validation
+Max Profit,Passed,,GE,Basic validation
+SMA vs Pandas (window=5),Passed,0.0,MMM,
+Runs Analysis,Passed,,MMM,Basic validation
+Daily Returns,Passed,,MMM,Basic validation
+Max Profit,Passed,,MMM,Basic validation
+SMA vs Pandas (window=5),Passed,0.0,DIS,
+Runs Analysis,Passed,,DIS,Basic validation
+Daily Returns,Passed,,DIS,Basic validation
+Max Profit,Passed,,DIS,Basic validation
+SMA vs Pandas (window=5),Passed,0.0,CMCSA,
+Runs Analysis,Passed,,CMCSA,Basic validation
+Daily Returns,Passed,,CMCSA,Basic validation
+Max Profit,Passed,,CMCSA,Basic validation
+SMA vs Pandas (window=5),Passed,0.0,T,
+Runs Analysis,Passed,,T,Basic validation
+Daily Returns,Passed,,T,Basic validation
+Max Profit,Passed,,T,Basic validation
+SMA vs Pandas (window=5),Passed,0.0,VZ,
+Runs Analysis,Passed,,VZ,Basic validation
+Daily Returns,Passed,,VZ,Basic validation
+Max Profit,Passed,,VZ,Basic validation
+SMA vs Pandas (window=5),Passed,0.0,ORCL,
+Runs Analysis,Passed,,ORCL,Basic validation
+Daily Returns,Passed,,ORCL,Basic validation
+Max Profit,Passed,,ORCL,Basic validation
+SMA vs Pandas (window=5),Passed,0.0,ADBE,
+Runs Analysis,Passed,,ADBE,Basic validation
+Daily Returns,Passed,,ADBE,Basic validation
+Max Profit,Passed,,ADBE,Basic validation
+SMA vs Pandas (window=5),Passed,0.0,CRM,
+Runs Analysis,Passed,,CRM,Basic validation
+Daily Returns,Passed,,CRM,Basic validation
+Max Profit,Passed,,CRM,Basic validation
+SMA vs Pandas (window=5),Passed,0.0,INTC,
+Runs Analysis,Passed,,INTC,Basic validation
+Daily Returns,Passed,,INTC,Basic validation
+Max Profit,Passed,,INTC,Basic validation
+SMA vs Pandas (window=5),Passed,0.0,AMD,
+Runs Analysis,Passed,,AMD,Basic validation
+Daily Returns,Passed,,AMD,Basic validation
+Max Profit,Passed,,AMD,Basic validation
