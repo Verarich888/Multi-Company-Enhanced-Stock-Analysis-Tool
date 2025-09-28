@@ -1109,7 +1109,6 @@ def main():
         'NFLX',  # Netflix
 
         # Financials
-        'BRK.B', # Berkshire Hathaway
         'JPM',   # JPMorgan Chase
         'BAC',   # Bank of America
         'GS',    # Goldman Sachs

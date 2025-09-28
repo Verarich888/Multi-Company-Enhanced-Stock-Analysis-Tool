@@ -75,12 +75,7 @@ class StockAnalysisHTMLGenerator:
     <div id="overview-section" class="section active-section">
         <h2>📈 Portfolio Overview</h2>
         {self._generate_portfolio_summary_html()}
-        
-        <!-- Quick Stats Chart -->
-        <div class="chart-container">
-            <canvas id="portfolioChart" width="400" height="200"></canvas>
-        </div>
-        
+               
         <!-- Interactive Summary Cards -->
         <div class="interactive-summary">
             {self._generate_interactive_summary()}
@@ -121,19 +116,10 @@ class StockAnalysisHTMLGenerator:
     
     <!-- Charts Section -->
     <div id="charts-section" class="section">
-        <h2>📊 Interactive Charts</h2>
-        
-        <div class="chart-tabs">
-            <button class="tab-btn active" onclick="showChart('returns')">Returns Comparison</button>
-            <button class="tab-btn" onclick="showChart('risk-return')">Risk vs Return</button>
-            <button class="tab-btn" onclick="showChart('correlation')">Correlation Heatmap</button>
-            <button class="tab-btn" onclick="showChart('performance')">Performance Over Time</button>
-        </div>
-        
+        <h2>📊 Interactive Charts</h2>        
         <div class="chart-container">
             <canvas id="returnsChart" class="chart-canvas active-chart"></canvas>
             <canvas id="riskReturnChart" class="chart-canvas"></canvas>
-            <canvas id="correlationChart" class="chart-canvas"></canvas>
             <canvas id="performanceChart" class="chart-canvas"></canvas>
         </div>
         
@@ -1202,7 +1188,6 @@ class StockAnalysisHTMLGenerator:
         function initializeCharts() {{
             createReturnsChart();
             createRiskReturnChart();
-            createCorrelationChart();
             createPerformanceChart();
             createPortfolioChart();
         }}

@@ -818,3 +818,2542 @@
 2025-09-18 22:55:16,964 - INFO - Generating comprehensive HTML report
 2025-09-18 22:55:16,964 - INFO - Generating comprehensive interactive HTML report
 2025-09-18 22:55:17,053 - INFO - Saved enhanced interactive report to multi_stock_analysis/comprehensive_report.html
+2025-09-18 23:51:51,561 - INFO - Loading data for 45 stocks with period: 1y
+2025-09-18 23:51:51,562 - INFO - Fetching data for AAPL
+2025-09-18 23:51:52,017 - INFO - Successfully loaded 251 rows for AAPL
+2025-09-18 23:51:52,018 - INFO - Fetching data for MSFT
+2025-09-18 23:51:52,134 - INFO - Successfully loaded 251 rows for MSFT
+2025-09-18 23:51:52,134 - INFO - Fetching data for GOOGL
+2025-09-18 23:51:52,221 - INFO - Successfully loaded 251 rows for GOOGL
+2025-09-18 23:51:52,221 - INFO - Fetching data for AMZN
+2025-09-18 23:51:52,306 - INFO - Successfully loaded 251 rows for AMZN
+2025-09-18 23:51:52,307 - INFO - Fetching data for TSLA
+2025-09-18 23:51:52,386 - INFO - Successfully loaded 251 rows for TSLA
+2025-09-18 23:51:52,387 - INFO - Fetching data for NVDA
+2025-09-18 23:51:52,499 - INFO - Successfully loaded 251 rows for NVDA
+2025-09-18 23:51:52,499 - INFO - Fetching data for META
+2025-09-18 23:51:52,588 - INFO - Successfully loaded 251 rows for META
+2025-09-18 23:51:52,588 - INFO - Fetching data for NFLX
+2025-09-18 23:51:52,678 - INFO - Successfully loaded 251 rows for NFLX
+2025-09-18 23:51:52,678 - INFO - Fetching data for BRK.B
+2025-09-18 23:51:53,318 - ERROR - 
+1 Failed download:
+2025-09-18 23:51:53,318 - ERROR - ['BRK.B']: YFPricesMissingError('possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")')
+2025-09-18 23:51:53,321 - WARNING - No data received for BRK.B
+2025-09-18 23:51:53,321 - INFO - Fetching data for JPM
+2025-09-18 23:51:53,514 - INFO - Successfully loaded 251 rows for JPM
+2025-09-18 23:51:53,514 - INFO - Fetching data for BAC
+2025-09-18 23:51:53,657 - INFO - Successfully loaded 251 rows for BAC
+2025-09-18 23:51:53,658 - INFO - Fetching data for GS
+2025-09-18 23:51:53,766 - INFO - Successfully loaded 251 rows for GS
+2025-09-18 23:51:53,767 - INFO - Fetching data for MS
+2025-09-18 23:51:53,890 - INFO - Successfully loaded 251 rows for MS
+2025-09-18 23:51:53,890 - INFO - Fetching data for C
+2025-09-18 23:51:54,027 - INFO - Successfully loaded 251 rows for C
+2025-09-18 23:51:54,027 - INFO - Fetching data for V
+2025-09-18 23:51:54,145 - INFO - Successfully loaded 251 rows for V
+2025-09-18 23:51:54,146 - INFO - Fetching data for MA
+2025-09-18 23:51:54,259 - INFO - Successfully loaded 251 rows for MA
+2025-09-18 23:51:54,260 - INFO - Fetching data for PYPL
+2025-09-18 23:51:54,335 - INFO - Successfully loaded 251 rows for PYPL
+2025-09-18 23:51:54,335 - INFO - Fetching data for JNJ
+2025-09-18 23:51:54,516 - INFO - Successfully loaded 251 rows for JNJ
+2025-09-18 23:51:54,517 - INFO - Fetching data for PFE
+2025-09-18 23:51:54,688 - INFO - Successfully loaded 251 rows for PFE
+2025-09-18 23:51:54,688 - INFO - Fetching data for MRK
+2025-09-18 23:51:54,846 - INFO - Successfully loaded 251 rows for MRK
+2025-09-18 23:51:54,847 - INFO - Fetching data for UNH
+2025-09-18 23:51:54,972 - INFO - Successfully loaded 251 rows for UNH
+2025-09-18 23:51:54,972 - INFO - Fetching data for ABBV
+2025-09-18 23:51:55,063 - INFO - Successfully loaded 251 rows for ABBV
+2025-09-18 23:51:55,063 - INFO - Fetching data for WMT
+2025-09-18 23:51:55,220 - INFO - Successfully loaded 251 rows for WMT
+2025-09-18 23:51:55,220 - INFO - Fetching data for COST
+2025-09-18 23:51:55,323 - INFO - Successfully loaded 251 rows for COST
+2025-09-18 23:51:55,323 - INFO - Fetching data for PG
+2025-09-18 23:51:55,484 - INFO - Successfully loaded 251 rows for PG
+2025-09-18 23:51:55,485 - INFO - Fetching data for KO
+2025-09-18 23:51:55,686 - INFO - Successfully loaded 251 rows for KO
+2025-09-18 23:51:55,686 - INFO - Fetching data for PEP
+2025-09-18 23:51:55,855 - INFO - Successfully loaded 251 rows for PEP
+2025-09-18 23:51:55,855 - INFO - Fetching data for MCD
+2025-09-18 23:51:56,062 - INFO - Successfully loaded 251 rows for MCD
+2025-09-18 23:51:56,062 - INFO - Fetching data for TGT
+2025-09-18 23:51:56,206 - INFO - Successfully loaded 251 rows for TGT
+2025-09-18 23:51:56,206 - INFO - Fetching data for XOM
+2025-09-18 23:51:56,381 - INFO - Successfully loaded 251 rows for XOM
+2025-09-18 23:51:56,381 - INFO - Fetching data for CVX
+2025-09-18 23:51:56,573 - INFO - Successfully loaded 251 rows for CVX
+2025-09-18 23:51:56,573 - INFO - Fetching data for COP
+2025-09-18 23:51:56,715 - INFO - Successfully loaded 251 rows for COP
+2025-09-18 23:51:56,715 - INFO - Fetching data for BA
+2025-09-18 23:51:56,891 - INFO - Successfully loaded 248 rows for BA
+2025-09-18 23:51:56,891 - INFO - Fetching data for CAT
+2025-09-18 23:51:57,079 - INFO - Successfully loaded 251 rows for CAT
+2025-09-18 23:51:57,079 - INFO - Fetching data for GE
+2025-09-18 23:51:57,220 - INFO - Successfully loaded 251 rows for GE
+2025-09-18 23:51:57,220 - INFO - Fetching data for MMM
+2025-09-18 23:51:57,370 - INFO - Successfully loaded 251 rows for MMM
+2025-09-18 23:51:57,370 - INFO - Fetching data for DIS
+2025-09-18 23:51:57,515 - INFO - Successfully loaded 251 rows for DIS
+2025-09-18 23:51:57,515 - INFO - Fetching data for CMCSA
+2025-09-18 23:51:57,626 - INFO - Successfully loaded 251 rows for CMCSA
+2025-09-18 23:51:57,626 - INFO - Fetching data for T
+2025-09-18 23:51:57,748 - INFO - Successfully loaded 251 rows for T
+2025-09-18 23:51:57,748 - INFO - Fetching data for VZ
+2025-09-18 23:51:57,883 - INFO - Successfully loaded 251 rows for VZ
+2025-09-18 23:51:57,884 - INFO - Fetching data for ORCL
+2025-09-18 23:51:57,999 - INFO - Successfully loaded 251 rows for ORCL
+2025-09-18 23:51:57,999 - INFO - Fetching data for ADBE
+2025-09-18 23:51:58,097 - INFO - Successfully loaded 251 rows for ADBE
+2025-09-18 23:51:58,098 - INFO - Fetching data for CRM
+2025-09-18 23:51:58,180 - INFO - Successfully loaded 251 rows for CRM
+2025-09-18 23:51:58,180 - INFO - Fetching data for INTC
+2025-09-18 23:51:58,281 - INFO - Successfully loaded 251 rows for INTC
+2025-09-18 23:51:58,282 - INFO - Fetching data for AMD
+2025-09-18 23:51:58,368 - INFO - Successfully loaded 251 rows for AMD
+2025-09-18 23:51:58,722 - INFO - Saved combined daily data: 11041 rows
+2025-09-18 23:51:58,723 - WARNING - Failed to load data for: ['BRK.B']
+2025-09-18 23:51:58,723 - INFO - Starting comprehensive analysis for all stocks
+2025-09-18 23:51:58,723 - INFO - Analyzing AAPL
+2025-09-18 23:51:58,730 - INFO - Analyzing MSFT
+2025-09-18 23:51:58,736 - INFO - Analyzing GOOGL
+2025-09-18 23:51:58,746 - INFO - Analyzing AMZN
+2025-09-18 23:51:58,752 - INFO - Analyzing TSLA
+2025-09-18 23:51:58,759 - INFO - Analyzing NVDA
+2025-09-18 23:51:58,767 - INFO - Analyzing META
+2025-09-18 23:51:58,776 - INFO - Analyzing NFLX
+2025-09-18 23:51:58,783 - INFO - Analyzing JPM
+2025-09-18 23:51:58,791 - INFO - Analyzing BAC
+2025-09-18 23:51:58,797 - INFO - Analyzing GS
+2025-09-18 23:51:58,805 - INFO - Analyzing MS
+2025-09-18 23:51:58,812 - INFO - Analyzing C
+2025-09-18 23:51:58,819 - INFO - Analyzing V
+2025-09-18 23:51:58,826 - INFO - Analyzing MA
+2025-09-18 23:51:58,835 - INFO - Analyzing PYPL
+2025-09-18 23:51:58,843 - INFO - Analyzing JNJ
+2025-09-18 23:51:58,849 - INFO - Analyzing PFE
+2025-09-18 23:51:58,857 - INFO - Analyzing MRK
+2025-09-18 23:51:58,864 - INFO - Analyzing UNH
+2025-09-18 23:51:58,870 - INFO - Analyzing ABBV
+2025-09-18 23:51:58,877 - INFO - Analyzing WMT
+2025-09-18 23:51:58,883 - INFO - Analyzing COST
+2025-09-18 23:51:58,889 - INFO - Analyzing PG
+2025-09-18 23:51:58,896 - INFO - Analyzing KO
+2025-09-18 23:51:58,904 - INFO - Analyzing PEP
+2025-09-18 23:51:58,912 - INFO - Analyzing MCD
+2025-09-18 23:51:58,921 - INFO - Analyzing TGT
+2025-09-18 23:51:58,930 - INFO - Analyzing XOM
+2025-09-18 23:51:58,936 - INFO - Analyzing CVX
+2025-09-18 23:51:58,944 - INFO - Analyzing COP
+2025-09-18 23:51:58,949 - INFO - Analyzing BA
+2025-09-18 23:51:58,957 - INFO - Analyzing CAT
+2025-09-18 23:51:58,964 - INFO - Analyzing GE
+2025-09-18 23:51:58,976 - INFO - Analyzing MMM
+2025-09-18 23:51:58,982 - INFO - Analyzing DIS
+2025-09-18 23:51:58,989 - INFO - Analyzing CMCSA
+2025-09-18 23:51:58,997 - INFO - Analyzing T
+2025-09-18 23:51:59,003 - INFO - Analyzing VZ
+2025-09-18 23:51:59,012 - INFO - Analyzing ORCL
+2025-09-18 23:51:59,018 - INFO - Analyzing ADBE
+2025-09-18 23:51:59,026 - INFO - Analyzing CRM
+2025-09-18 23:51:59,032 - INFO - Analyzing INTC
+2025-09-18 23:51:59,039 - INFO - Analyzing AMD
+2025-09-18 23:51:59,049 - INFO - Saved SMA analysis to multi_stock_analysis/sma_analysis.csv
+2025-09-18 23:51:59,051 - INFO - Saved runs analysis to multi_stock_analysis/runs_analysis.csv
+2025-09-18 23:51:59,053 - INFO - Saved returns analysis to multi_stock_analysis/returns_analysis.csv
+2025-09-18 23:51:59,055 - INFO - Saved profit analysis to multi_stock_analysis/profit_analysis.csv
+2025-09-18 23:51:59,111 - INFO - Saved correlation matrix to multi_stock_analysis/correlation_matrix.csv
+2025-09-18 23:51:59,113 - INFO - Saved portfolio summary to multi_stock_analysis/portfolio_summary.csv
+2025-09-18 23:51:59,114 - INFO - Running comprehensive validation tests
+2025-09-18 23:51:59,114 - INFO - Validating analysis for AAPL
+2025-09-18 23:51:59,116 - INFO - Validating analysis for MSFT
+2025-09-18 23:51:59,117 - INFO - Validating analysis for GOOGL
+2025-09-18 23:51:59,118 - INFO - Validating analysis for AMZN
+2025-09-18 23:51:59,119 - INFO - Validating analysis for TSLA
+2025-09-18 23:51:59,120 - INFO - Validating analysis for NVDA
+2025-09-18 23:51:59,122 - INFO - Validating analysis for META
+2025-09-18 23:51:59,124 - INFO - Validating analysis for NFLX
+2025-09-18 23:51:59,126 - INFO - Validating analysis for JPM
+2025-09-18 23:51:59,128 - INFO - Validating analysis for BAC
+2025-09-18 23:51:59,129 - INFO - Validating analysis for GS
+2025-09-18 23:51:59,130 - INFO - Validating analysis for MS
+2025-09-18 23:51:59,132 - INFO - Validating analysis for C
+2025-09-18 23:51:59,133 - INFO - Validating analysis for V
+2025-09-18 23:51:59,134 - INFO - Validating analysis for MA
+2025-09-18 23:51:59,135 - INFO - Validating analysis for PYPL
+2025-09-18 23:51:59,136 - INFO - Validating analysis for JNJ
+2025-09-18 23:51:59,137 - INFO - Validating analysis for PFE
+2025-09-18 23:51:59,139 - INFO - Validating analysis for MRK
+2025-09-18 23:51:59,140 - INFO - Validating analysis for UNH
+2025-09-18 23:51:59,141 - INFO - Validating analysis for ABBV
+2025-09-18 23:51:59,143 - INFO - Validating analysis for WMT
+2025-09-18 23:51:59,144 - INFO - Validating analysis for COST
+2025-09-18 23:51:59,146 - INFO - Validating analysis for PG
+2025-09-18 23:51:59,147 - INFO - Validating analysis for KO
+2025-09-18 23:51:59,148 - INFO - Validating analysis for PEP
+2025-09-18 23:51:59,149 - INFO - Validating analysis for MCD
+2025-09-18 23:51:59,151 - INFO - Validating analysis for TGT
+2025-09-18 23:51:59,152 - INFO - Validating analysis for XOM
+2025-09-18 23:51:59,153 - INFO - Validating analysis for CVX
+2025-09-18 23:51:59,154 - INFO - Validating analysis for COP
+2025-09-18 23:51:59,156 - INFO - Validating analysis for BA
+2025-09-18 23:51:59,157 - INFO - Validating analysis for CAT
+2025-09-18 23:51:59,158 - INFO - Validating analysis for GE
+2025-09-18 23:51:59,160 - INFO - Validating analysis for MMM
+2025-09-18 23:51:59,161 - INFO - Validating analysis for DIS
+2025-09-18 23:51:59,163 - INFO - Validating analysis for CMCSA
+2025-09-18 23:51:59,164 - INFO - Validating analysis for T
+2025-09-18 23:51:59,165 - INFO - Validating analysis for VZ
+2025-09-18 23:51:59,167 - INFO - Validating analysis for ORCL
+2025-09-18 23:51:59,168 - INFO - Validating analysis for ADBE
+2025-09-18 23:51:59,169 - INFO - Validating analysis for CRM
+2025-09-18 23:51:59,170 - INFO - Validating analysis for INTC
+2025-09-18 23:51:59,171 - INFO - Validating analysis for AMD
+2025-09-18 23:51:59,175 - INFO - Saved validation results to multi_stock_analysis/validation_results.csv
+2025-09-18 23:52:10,534 - INFO - Saved comprehensive dashboard to multi_stock_analysis/comprehensive_dashboard.png
+2025-09-18 23:52:10,534 - INFO - Creating individual chart for AAPL
+2025-09-18 23:52:12,919 - INFO - Saved AAPL chart to multi_stock_analysis/AAPL_detailed_analysis.png
+2025-09-18 23:52:12,919 - INFO - Creating individual chart for MSFT
+2025-09-18 23:52:15,877 - INFO - Saved MSFT chart to multi_stock_analysis/MSFT_detailed_analysis.png
+2025-09-18 23:52:15,877 - INFO - Creating individual chart for GOOGL
+2025-09-18 23:52:18,074 - INFO - Saved GOOGL chart to multi_stock_analysis/GOOGL_detailed_analysis.png
+2025-09-18 23:52:18,074 - INFO - Creating individual chart for AMZN
+2025-09-18 23:52:20,268 - INFO - Saved AMZN chart to multi_stock_analysis/AMZN_detailed_analysis.png
+2025-09-18 23:52:20,269 - INFO - Creating individual chart for TSLA
+2025-09-18 23:52:22,807 - INFO - Saved TSLA chart to multi_stock_analysis/TSLA_detailed_analysis.png
+2025-09-18 23:52:22,808 - INFO - Creating individual chart for NVDA
+2025-09-18 23:52:25,065 - INFO - Saved NVDA chart to multi_stock_analysis/NVDA_detailed_analysis.png
+2025-09-18 23:52:25,065 - INFO - Creating individual chart for META
+2025-09-18 23:52:27,350 - INFO - Saved META chart to multi_stock_analysis/META_detailed_analysis.png
+2025-09-18 23:52:27,350 - INFO - Creating individual chart for NFLX
+2025-09-18 23:52:29,936 - INFO - Saved NFLX chart to multi_stock_analysis/NFLX_detailed_analysis.png
+2025-09-18 23:52:29,937 - INFO - Creating individual chart for JPM
+2025-09-18 23:52:31,594 - INFO - Saved JPM chart to multi_stock_analysis/JPM_detailed_analysis.png
+2025-09-18 23:52:31,595 - INFO - Creating individual chart for BAC
+2025-09-18 23:52:33,811 - INFO - Saved BAC chart to multi_stock_analysis/BAC_detailed_analysis.png
+2025-09-18 23:52:33,811 - INFO - Creating individual chart for GS
+2025-09-18 23:52:36,195 - INFO - Saved GS chart to multi_stock_analysis/GS_detailed_analysis.png
+2025-09-18 23:52:36,195 - INFO - Creating individual chart for MS
+2025-09-18 23:52:38,848 - INFO - Saved MS chart to multi_stock_analysis/MS_detailed_analysis.png
+2025-09-18 23:52:38,848 - INFO - Creating individual chart for C
+2025-09-18 23:52:41,128 - INFO - Saved C chart to multi_stock_analysis/C_detailed_analysis.png
+2025-09-18 23:52:41,128 - INFO - Creating individual chart for V
+2025-09-18 23:52:43,388 - INFO - Saved V chart to multi_stock_analysis/V_detailed_analysis.png
+2025-09-18 23:52:43,388 - INFO - Creating individual chart for MA
+2025-09-18 23:52:45,901 - INFO - Saved MA chart to multi_stock_analysis/MA_detailed_analysis.png
+2025-09-18 23:52:45,902 - INFO - Creating individual chart for PYPL
+2025-09-18 23:52:48,245 - INFO - Saved PYPL chart to multi_stock_analysis/PYPL_detailed_analysis.png
+2025-09-18 23:52:48,246 - INFO - Creating individual chart for JNJ
+2025-09-18 23:52:51,145 - INFO - Saved JNJ chart to multi_stock_analysis/JNJ_detailed_analysis.png
+2025-09-18 23:52:51,146 - INFO - Creating individual chart for PFE
+2025-09-18 23:52:53,389 - INFO - Saved PFE chart to multi_stock_analysis/PFE_detailed_analysis.png
+2025-09-18 23:52:53,390 - INFO - Creating individual chart for MRK
+2025-09-18 23:52:55,778 - INFO - Saved MRK chart to multi_stock_analysis/MRK_detailed_analysis.png
+2025-09-18 23:52:55,779 - INFO - Creating individual chart for UNH
+2025-09-18 23:52:58,122 - INFO - Saved UNH chart to multi_stock_analysis/UNH_detailed_analysis.png
+2025-09-18 23:52:58,122 - INFO - Creating individual chart for ABBV
+2025-09-18 23:53:00,553 - INFO - Saved ABBV chart to multi_stock_analysis/ABBV_detailed_analysis.png
+2025-09-18 23:53:00,554 - INFO - Creating individual chart for WMT
+2025-09-18 23:53:02,203 - INFO - Saved WMT chart to multi_stock_analysis/WMT_detailed_analysis.png
+2025-09-18 23:53:02,203 - INFO - Creating individual chart for COST
+2025-09-18 23:53:05,239 - INFO - Saved COST chart to multi_stock_analysis/COST_detailed_analysis.png
+2025-09-18 23:53:05,239 - INFO - Creating individual chart for PG
+2025-09-18 23:53:07,487 - INFO - Saved PG chart to multi_stock_analysis/PG_detailed_analysis.png
+2025-09-18 23:53:07,488 - INFO - Creating individual chart for KO
+2025-09-18 23:53:09,792 - INFO - Saved KO chart to multi_stock_analysis/KO_detailed_analysis.png
+2025-09-18 23:53:09,793 - INFO - Creating individual chart for PEP
+2025-09-18 23:53:12,065 - INFO - Saved PEP chart to multi_stock_analysis/PEP_detailed_analysis.png
+2025-09-18 23:53:12,066 - INFO - Creating individual chart for MCD
+2025-09-18 23:53:14,298 - INFO - Saved MCD chart to multi_stock_analysis/MCD_detailed_analysis.png
+2025-09-18 23:53:14,299 - INFO - Creating individual chart for TGT
+2025-09-18 23:53:16,654 - INFO - Saved TGT chart to multi_stock_analysis/TGT_detailed_analysis.png
+2025-09-18 23:53:16,654 - INFO - Creating individual chart for XOM
+2025-09-18 23:53:18,978 - INFO - Saved XOM chart to multi_stock_analysis/XOM_detailed_analysis.png
+2025-09-18 23:53:18,978 - INFO - Creating individual chart for CVX
+2025-09-18 23:53:21,376 - INFO - Saved CVX chart to multi_stock_analysis/CVX_detailed_analysis.png
+2025-09-18 23:53:21,377 - INFO - Creating individual chart for COP
+2025-09-18 23:53:24,439 - INFO - Saved COP chart to multi_stock_analysis/COP_detailed_analysis.png
+2025-09-18 23:53:24,440 - INFO - Creating individual chart for BA
+2025-09-18 23:53:26,728 - INFO - Saved BA chart to multi_stock_analysis/BA_detailed_analysis.png
+2025-09-18 23:53:26,729 - INFO - Creating individual chart for CAT
+2025-09-18 23:53:29,028 - INFO - Saved CAT chart to multi_stock_analysis/CAT_detailed_analysis.png
+2025-09-18 23:53:29,029 - INFO - Creating individual chart for GE
+2025-09-18 23:53:31,325 - INFO - Saved GE chart to multi_stock_analysis/GE_detailed_analysis.png
+2025-09-18 23:53:31,326 - INFO - Creating individual chart for MMM
+2025-09-18 23:53:33,603 - INFO - Saved MMM chart to multi_stock_analysis/MMM_detailed_analysis.png
+2025-09-18 23:53:33,604 - INFO - Creating individual chart for DIS
+2025-09-18 23:53:35,326 - INFO - Saved DIS chart to multi_stock_analysis/DIS_detailed_analysis.png
+2025-09-18 23:53:35,327 - INFO - Creating individual chart for CMCSA
+2025-09-18 23:53:37,569 - INFO - Saved CMCSA chart to multi_stock_analysis/CMCSA_detailed_analysis.png
+2025-09-18 23:53:37,570 - INFO - Creating individual chart for T
+2025-09-18 23:53:39,937 - INFO - Saved T chart to multi_stock_analysis/T_detailed_analysis.png
+2025-09-18 23:53:39,938 - INFO - Creating individual chart for VZ
+2025-09-18 23:53:42,222 - INFO - Saved VZ chart to multi_stock_analysis/VZ_detailed_analysis.png
+2025-09-18 23:53:42,223 - INFO - Creating individual chart for ORCL
+2025-09-18 23:53:45,499 - INFO - Saved ORCL chart to multi_stock_analysis/ORCL_detailed_analysis.png
+2025-09-18 23:53:45,500 - INFO - Creating individual chart for ADBE
+2025-09-18 23:53:47,654 - INFO - Saved ADBE chart to multi_stock_analysis/ADBE_detailed_analysis.png
+2025-09-18 23:53:47,654 - INFO - Creating individual chart for CRM
+2025-09-18 23:53:50,091 - INFO - Saved CRM chart to multi_stock_analysis/CRM_detailed_analysis.png
+2025-09-18 23:53:50,092 - INFO - Creating individual chart for INTC
+2025-09-18 23:53:52,380 - INFO - Saved INTC chart to multi_stock_analysis/INTC_detailed_analysis.png
+2025-09-18 23:53:52,381 - INFO - Creating individual chart for AMD
+2025-09-18 23:53:54,713 - INFO - Saved AMD chart to multi_stock_analysis/AMD_detailed_analysis.png
+2025-09-18 23:53:54,714 - INFO - Generating comprehensive HTML report
+2025-09-18 23:53:54,715 - INFO - Generating comprehensive interactive HTML report
+2025-09-18 23:53:54,788 - INFO - Saved enhanced interactive report to multi_stock_analysis/comprehensive_report.html
+2025-09-19 00:50:55,332 - INFO - Loading data for 45 stocks with period: 1y
+2025-09-19 00:50:55,332 - INFO - Fetching data for AAPL
+2025-09-19 00:50:55,870 - INFO - Successfully loaded 251 rows for AAPL
+2025-09-19 00:50:55,870 - INFO - Fetching data for MSFT
+2025-09-19 00:50:56,009 - INFO - Successfully loaded 251 rows for MSFT
+2025-09-19 00:50:56,009 - INFO - Fetching data for GOOGL
+2025-09-19 00:50:56,097 - INFO - Successfully loaded 251 rows for GOOGL
+2025-09-19 00:50:56,098 - INFO - Fetching data for AMZN
+2025-09-19 00:50:56,171 - INFO - Successfully loaded 251 rows for AMZN
+2025-09-19 00:50:56,171 - INFO - Fetching data for TSLA
+2025-09-19 00:50:56,264 - INFO - Successfully loaded 251 rows for TSLA
+2025-09-19 00:50:56,264 - INFO - Fetching data for NVDA
+2025-09-19 00:50:56,353 - INFO - Successfully loaded 251 rows for NVDA
+2025-09-19 00:50:56,353 - INFO - Fetching data for META
+2025-09-19 00:50:56,451 - INFO - Successfully loaded 251 rows for META
+2025-09-19 00:50:56,451 - INFO - Fetching data for NFLX
+2025-09-19 00:50:56,533 - INFO - Successfully loaded 251 rows for NFLX
+2025-09-19 00:50:56,533 - INFO - Fetching data for BRK.B
+2025-09-19 00:50:57,159 - ERROR - 
+1 Failed download:
+2025-09-19 00:50:57,159 - ERROR - ['BRK.B']: YFPricesMissingError('possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")')
+2025-09-19 00:50:57,164 - WARNING - No data received for BRK.B
+2025-09-19 00:50:57,164 - INFO - Fetching data for JPM
+2025-09-19 00:50:57,319 - INFO - Successfully loaded 251 rows for JPM
+2025-09-19 00:50:57,319 - INFO - Fetching data for BAC
+2025-09-19 00:50:57,473 - INFO - Successfully loaded 251 rows for BAC
+2025-09-19 00:50:57,473 - INFO - Fetching data for GS
+2025-09-19 00:50:57,603 - INFO - Successfully loaded 251 rows for GS
+2025-09-19 00:50:57,603 - INFO - Fetching data for MS
+2025-09-19 00:50:57,765 - INFO - Successfully loaded 251 rows for MS
+2025-09-19 00:50:57,766 - INFO - Fetching data for C
+2025-09-19 00:50:57,897 - INFO - Successfully loaded 251 rows for C
+2025-09-19 00:50:57,897 - INFO - Fetching data for V
+2025-09-19 00:50:57,997 - INFO - Successfully loaded 251 rows for V
+2025-09-19 00:50:57,998 - INFO - Fetching data for MA
+2025-09-19 00:50:58,106 - INFO - Successfully loaded 251 rows for MA
+2025-09-19 00:50:58,106 - INFO - Fetching data for PYPL
+2025-09-19 00:50:58,188 - INFO - Successfully loaded 251 rows for PYPL
+2025-09-19 00:50:58,189 - INFO - Fetching data for JNJ
+2025-09-19 00:50:58,374 - INFO - Successfully loaded 251 rows for JNJ
+2025-09-19 00:50:58,374 - INFO - Fetching data for PFE
+2025-09-19 00:50:58,535 - INFO - Successfully loaded 251 rows for PFE
+2025-09-19 00:50:58,535 - INFO - Fetching data for MRK
+2025-09-19 00:50:58,683 - INFO - Successfully loaded 251 rows for MRK
+2025-09-19 00:50:58,684 - INFO - Fetching data for UNH
+2025-09-19 00:50:58,809 - INFO - Successfully loaded 251 rows for UNH
+2025-09-19 00:50:58,809 - INFO - Fetching data for ABBV
+2025-09-19 00:50:58,908 - INFO - Successfully loaded 251 rows for ABBV
+2025-09-19 00:50:58,908 - INFO - Fetching data for WMT
+2025-09-19 00:50:59,052 - INFO - Successfully loaded 251 rows for WMT
+2025-09-19 00:50:59,053 - INFO - Fetching data for COST
+2025-09-19 00:50:59,170 - INFO - Successfully loaded 251 rows for COST
+2025-09-19 00:50:59,171 - INFO - Fetching data for PG
+2025-09-19 00:50:59,357 - INFO - Successfully loaded 251 rows for PG
+2025-09-19 00:50:59,357 - INFO - Fetching data for KO
+2025-09-19 00:50:59,500 - INFO - Successfully loaded 251 rows for KO
+2025-09-19 00:50:59,500 - INFO - Fetching data for PEP
+2025-09-19 00:50:59,711 - INFO - Successfully loaded 251 rows for PEP
+2025-09-19 00:50:59,712 - INFO - Fetching data for MCD
+2025-09-19 00:50:59,885 - INFO - Successfully loaded 251 rows for MCD
+2025-09-19 00:50:59,885 - INFO - Fetching data for TGT
+2025-09-19 00:51:00,047 - INFO - Successfully loaded 251 rows for TGT
+2025-09-19 00:51:00,047 - INFO - Fetching data for XOM
+2025-09-19 00:51:00,203 - INFO - Successfully loaded 251 rows for XOM
+2025-09-19 00:51:00,204 - INFO - Fetching data for CVX
+2025-09-19 00:51:00,481 - INFO - Successfully loaded 251 rows for CVX
+2025-09-19 00:51:00,481 - INFO - Fetching data for COP
+2025-09-19 00:51:00,647 - INFO - Successfully loaded 251 rows for COP
+2025-09-19 00:51:00,648 - INFO - Fetching data for BA
+2025-09-19 00:51:00,810 - INFO - Successfully loaded 248 rows for BA
+2025-09-19 00:51:00,811 - INFO - Fetching data for CAT
+2025-09-19 00:51:01,041 - INFO - Successfully loaded 251 rows for CAT
+2025-09-19 00:51:01,042 - INFO - Fetching data for GE
+2025-09-19 00:51:01,206 - INFO - Successfully loaded 251 rows for GE
+2025-09-19 00:51:01,206 - INFO - Fetching data for MMM
+2025-09-19 00:51:01,377 - INFO - Successfully loaded 251 rows for MMM
+2025-09-19 00:51:01,378 - INFO - Fetching data for DIS
+2025-09-19 00:51:01,543 - INFO - Successfully loaded 251 rows for DIS
+2025-09-19 00:51:01,543 - INFO - Fetching data for CMCSA
+2025-09-19 00:51:01,668 - INFO - Successfully loaded 251 rows for CMCSA
+2025-09-19 00:51:01,669 - INFO - Fetching data for T
+2025-09-19 00:51:01,801 - INFO - Successfully loaded 251 rows for T
+2025-09-19 00:51:01,801 - INFO - Fetching data for VZ
+2025-09-19 00:51:01,979 - INFO - Successfully loaded 251 rows for VZ
+2025-09-19 00:51:01,979 - INFO - Fetching data for ORCL
+2025-09-19 00:51:02,104 - INFO - Successfully loaded 251 rows for ORCL
+2025-09-19 00:51:02,104 - INFO - Fetching data for ADBE
+2025-09-19 00:51:02,208 - INFO - Successfully loaded 251 rows for ADBE
+2025-09-19 00:51:02,209 - INFO - Fetching data for CRM
+2025-09-19 00:51:02,311 - INFO - Successfully loaded 251 rows for CRM
+2025-09-19 00:51:02,311 - INFO - Fetching data for INTC
+2025-09-19 00:51:02,431 - INFO - Successfully loaded 251 rows for INTC
+2025-09-19 00:51:02,431 - INFO - Fetching data for AMD
+2025-09-19 00:51:02,521 - INFO - Successfully loaded 251 rows for AMD
+2025-09-19 00:51:03,768 - INFO - Saved combined daily data: 11041 rows
+2025-09-19 00:51:03,769 - WARNING - Failed to load data for: ['BRK.B']
+2025-09-19 00:51:03,770 - INFO - Starting comprehensive analysis for all stocks
+2025-09-19 00:51:03,770 - INFO - Analyzing AAPL
+2025-09-19 00:51:03,781 - INFO - Analyzing MSFT
+2025-09-19 00:51:03,792 - INFO - Analyzing GOOGL
+2025-09-19 00:51:03,802 - INFO - Analyzing AMZN
+2025-09-19 00:51:03,810 - INFO - Analyzing TSLA
+2025-09-19 00:51:03,820 - INFO - Analyzing NVDA
+2025-09-19 00:51:03,830 - INFO - Analyzing META
+2025-09-19 00:51:03,838 - INFO - Analyzing NFLX
+2025-09-19 00:51:03,847 - INFO - Analyzing JPM
+2025-09-19 00:51:03,857 - INFO - Analyzing BAC
+2025-09-19 00:51:03,866 - INFO - Analyzing GS
+2025-09-19 00:51:03,873 - INFO - Analyzing MS
+2025-09-19 00:51:03,883 - INFO - Analyzing C
+2025-09-19 00:51:03,890 - INFO - Analyzing V
+2025-09-19 00:51:03,899 - INFO - Analyzing MA
+2025-09-19 00:51:03,906 - INFO - Analyzing PYPL
+2025-09-19 00:51:03,918 - INFO - Analyzing JNJ
+2025-09-19 00:51:03,928 - INFO - Analyzing PFE
+2025-09-19 00:51:03,940 - INFO - Analyzing MRK
+2025-09-19 00:51:03,951 - INFO - Analyzing UNH
+2025-09-19 00:51:03,961 - INFO - Analyzing ABBV
+2025-09-19 00:51:03,970 - INFO - Analyzing WMT
+2025-09-19 00:51:03,983 - INFO - Analyzing COST
+2025-09-19 00:51:03,992 - INFO - Analyzing PG
+2025-09-19 00:51:04,003 - INFO - Analyzing KO
+2025-09-19 00:51:04,013 - INFO - Analyzing PEP
+2025-09-19 00:51:04,024 - INFO - Analyzing MCD
+2025-09-19 00:51:04,034 - INFO - Analyzing TGT
+2025-09-19 00:51:04,045 - INFO - Analyzing XOM
+2025-09-19 00:51:04,054 - INFO - Analyzing CVX
+2025-09-19 00:51:04,061 - INFO - Analyzing COP
+2025-09-19 00:51:04,072 - INFO - Analyzing BA
+2025-09-19 00:51:04,084 - INFO - Analyzing CAT
+2025-09-19 00:51:04,091 - INFO - Analyzing GE
+2025-09-19 00:51:04,103 - INFO - Analyzing MMM
+2025-09-19 00:51:04,114 - INFO - Analyzing DIS
+2025-09-19 00:51:04,126 - INFO - Analyzing CMCSA
+2025-09-19 00:51:04,136 - INFO - Analyzing T
+2025-09-19 00:51:04,144 - INFO - Analyzing VZ
+2025-09-19 00:51:04,158 - INFO - Analyzing ORCL
+2025-09-19 00:51:04,172 - INFO - Analyzing ADBE
+2025-09-19 00:51:04,188 - INFO - Analyzing CRM
+2025-09-19 00:51:04,201 - INFO - Analyzing INTC
+2025-09-19 00:51:04,213 - INFO - Analyzing AMD
+2025-09-19 00:51:04,229 - INFO - Saved SMA analysis to multi_stock_analysis/sma_analysis.csv
+2025-09-19 00:51:04,234 - INFO - Saved runs analysis to multi_stock_analysis/runs_analysis.csv
+2025-09-19 00:51:04,242 - INFO - Saved returns analysis to multi_stock_analysis/returns_analysis.csv
+2025-09-19 00:51:04,247 - INFO - Saved profit analysis to multi_stock_analysis/profit_analysis.csv
+2025-09-19 00:51:04,307 - INFO - Saved correlation matrix to multi_stock_analysis/correlation_matrix.csv
+2025-09-19 00:51:04,310 - INFO - Saved portfolio summary to multi_stock_analysis/portfolio_summary.csv
+2025-09-19 00:51:04,310 - INFO - Running comprehensive validation tests
+2025-09-19 00:51:04,310 - INFO - Validating analysis for AAPL
+2025-09-19 00:51:04,311 - INFO - Validating analysis for MSFT
+2025-09-19 00:51:04,313 - INFO - Validating analysis for GOOGL
+2025-09-19 00:51:04,315 - INFO - Validating analysis for AMZN
+2025-09-19 00:51:04,316 - INFO - Validating analysis for TSLA
+2025-09-19 00:51:04,317 - INFO - Validating analysis for NVDA
+2025-09-19 00:51:04,319 - INFO - Validating analysis for META
+2025-09-19 00:51:04,321 - INFO - Validating analysis for NFLX
+2025-09-19 00:51:04,323 - INFO - Validating analysis for JPM
+2025-09-19 00:51:04,324 - INFO - Validating analysis for BAC
+2025-09-19 00:51:04,325 - INFO - Validating analysis for GS
+2025-09-19 00:51:04,326 - INFO - Validating analysis for MS
+2025-09-19 00:51:04,328 - INFO - Validating analysis for C
+2025-09-19 00:51:04,329 - INFO - Validating analysis for V
+2025-09-19 00:51:04,330 - INFO - Validating analysis for MA
+2025-09-19 00:51:04,331 - INFO - Validating analysis for PYPL
+2025-09-19 00:51:04,332 - INFO - Validating analysis for JNJ
+2025-09-19 00:51:04,334 - INFO - Validating analysis for PFE
+2025-09-19 00:51:04,336 - INFO - Validating analysis for MRK
+2025-09-19 00:51:04,337 - INFO - Validating analysis for UNH
+2025-09-19 00:51:04,338 - INFO - Validating analysis for ABBV
+2025-09-19 00:51:04,339 - INFO - Validating analysis for WMT
+2025-09-19 00:51:04,340 - INFO - Validating analysis for COST
+2025-09-19 00:51:04,342 - INFO - Validating analysis for PG
+2025-09-19 00:51:04,343 - INFO - Validating analysis for KO
+2025-09-19 00:51:04,344 - INFO - Validating analysis for PEP
+2025-09-19 00:51:04,345 - INFO - Validating analysis for MCD
+2025-09-19 00:51:04,346 - INFO - Validating analysis for TGT
+2025-09-19 00:51:04,348 - INFO - Validating analysis for XOM
+2025-09-19 00:51:04,349 - INFO - Validating analysis for CVX
+2025-09-19 00:51:04,351 - INFO - Validating analysis for COP
+2025-09-19 00:51:04,353 - INFO - Validating analysis for BA
+2025-09-19 00:51:04,354 - INFO - Validating analysis for CAT
+2025-09-19 00:51:04,356 - INFO - Validating analysis for GE
+2025-09-19 00:51:04,357 - INFO - Validating analysis for MMM
+2025-09-19 00:51:04,358 - INFO - Validating analysis for DIS
+2025-09-19 00:51:04,359 - INFO - Validating analysis for CMCSA
+2025-09-19 00:51:04,360 - INFO - Validating analysis for T
+2025-09-19 00:51:04,361 - INFO - Validating analysis for VZ
+2025-09-19 00:51:04,363 - INFO - Validating analysis for ORCL
+2025-09-19 00:51:04,365 - INFO - Validating analysis for ADBE
+2025-09-19 00:51:04,367 - INFO - Validating analysis for CRM
+2025-09-19 00:51:04,369 - INFO - Validating analysis for INTC
+2025-09-19 00:51:04,371 - INFO - Validating analysis for AMD
+2025-09-19 00:51:04,375 - INFO - Saved validation results to multi_stock_analysis/validation_results.csv
+2025-09-19 00:51:14,550 - INFO - Saved comprehensive dashboard to multi_stock_analysis/comprehensive_dashboard.png
+2025-09-19 00:51:14,551 - INFO - Creating individual chart for AAPL
+2025-09-19 00:51:16,919 - INFO - Saved AAPL chart to multi_stock_analysis/AAPL_detailed_analysis.png
+2025-09-19 00:51:16,919 - INFO - Creating individual chart for MSFT
+2025-09-19 00:51:19,482 - INFO - Saved MSFT chart to multi_stock_analysis/MSFT_detailed_analysis.png
+2025-09-19 00:51:19,482 - INFO - Creating individual chart for GOOGL
+2025-09-19 00:51:21,746 - INFO - Saved GOOGL chart to multi_stock_analysis/GOOGL_detailed_analysis.png
+2025-09-19 00:51:21,747 - INFO - Creating individual chart for AMZN
+2025-09-19 00:51:23,973 - INFO - Saved AMZN chart to multi_stock_analysis/AMZN_detailed_analysis.png
+2025-09-19 00:51:23,974 - INFO - Creating individual chart for TSLA
+2025-09-19 00:51:26,614 - INFO - Saved TSLA chart to multi_stock_analysis/TSLA_detailed_analysis.png
+2025-09-19 00:51:26,614 - INFO - Creating individual chart for NVDA
+2025-09-19 00:51:29,023 - INFO - Saved NVDA chart to multi_stock_analysis/NVDA_detailed_analysis.png
+2025-09-19 00:51:29,023 - INFO - Creating individual chart for META
+2025-09-19 00:51:31,272 - INFO - Saved META chart to multi_stock_analysis/META_detailed_analysis.png
+2025-09-19 00:51:31,272 - INFO - Creating individual chart for NFLX
+2025-09-19 00:51:34,215 - INFO - Saved NFLX chart to multi_stock_analysis/NFLX_detailed_analysis.png
+2025-09-19 00:51:34,215 - INFO - Creating individual chart for JPM
+2025-09-19 00:51:36,509 - INFO - Saved JPM chart to multi_stock_analysis/JPM_detailed_analysis.png
+2025-09-19 00:51:36,510 - INFO - Creating individual chart for BAC
+2025-09-19 00:51:38,914 - INFO - Saved BAC chart to multi_stock_analysis/BAC_detailed_analysis.png
+2025-09-19 00:51:38,915 - INFO - Creating individual chart for GS
+2025-09-19 00:51:41,073 - INFO - Saved GS chart to multi_stock_analysis/GS_detailed_analysis.png
+2025-09-19 00:51:41,073 - INFO - Creating individual chart for MS
+2025-09-19 00:51:43,107 - INFO - Saved MS chart to multi_stock_analysis/MS_detailed_analysis.png
+2025-09-19 00:51:43,108 - INFO - Creating individual chart for C
+2025-09-19 00:51:45,360 - INFO - Saved C chart to multi_stock_analysis/C_detailed_analysis.png
+2025-09-19 00:51:45,361 - INFO - Creating individual chart for V
+2025-09-19 00:51:47,679 - INFO - Saved V chart to multi_stock_analysis/V_detailed_analysis.png
+2025-09-19 00:51:47,680 - INFO - Creating individual chart for MA
+2025-09-19 00:51:50,050 - INFO - Saved MA chart to multi_stock_analysis/MA_detailed_analysis.png
+2025-09-19 00:51:50,050 - INFO - Creating individual chart for PYPL
+2025-09-19 00:51:52,441 - INFO - Saved PYPL chart to multi_stock_analysis/PYPL_detailed_analysis.png
+2025-09-19 00:51:52,442 - INFO - Creating individual chart for JNJ
+2025-09-19 00:51:55,122 - INFO - Saved JNJ chart to multi_stock_analysis/JNJ_detailed_analysis.png
+2025-09-19 00:51:55,123 - INFO - Creating individual chart for PFE
+2025-09-19 00:51:57,316 - INFO - Saved PFE chart to multi_stock_analysis/PFE_detailed_analysis.png
+2025-09-19 00:51:57,317 - INFO - Creating individual chart for MRK
+2025-09-19 00:51:59,502 - INFO - Saved MRK chart to multi_stock_analysis/MRK_detailed_analysis.png
+2025-09-19 00:51:59,503 - INFO - Creating individual chart for UNH
+2025-09-19 00:52:01,773 - INFO - Saved UNH chart to multi_stock_analysis/UNH_detailed_analysis.png
+2025-09-19 00:52:01,774 - INFO - Creating individual chart for ABBV
+2025-09-19 00:52:04,077 - INFO - Saved ABBV chart to multi_stock_analysis/ABBV_detailed_analysis.png
+2025-09-19 00:52:04,077 - INFO - Creating individual chart for WMT
+2025-09-19 00:52:06,476 - INFO - Saved WMT chart to multi_stock_analysis/WMT_detailed_analysis.png
+2025-09-19 00:52:06,476 - INFO - Creating individual chart for COST
+2025-09-19 00:52:09,320 - INFO - Saved COST chart to multi_stock_analysis/COST_detailed_analysis.png
+2025-09-19 00:52:09,320 - INFO - Creating individual chart for PG
+2025-09-19 00:52:11,497 - INFO - Saved PG chart to multi_stock_analysis/PG_detailed_analysis.png
+2025-09-19 00:52:11,497 - INFO - Creating individual chart for KO
+2025-09-19 00:52:13,001 - INFO - Saved KO chart to multi_stock_analysis/KO_detailed_analysis.png
+2025-09-19 00:52:13,002 - INFO - Creating individual chart for PEP
+2025-09-19 00:52:15,181 - INFO - Saved PEP chart to multi_stock_analysis/PEP_detailed_analysis.png
+2025-09-19 00:52:15,182 - INFO - Creating individual chart for MCD
+2025-09-19 00:52:17,340 - INFO - Saved MCD chart to multi_stock_analysis/MCD_detailed_analysis.png
+2025-09-19 00:52:17,341 - INFO - Creating individual chart for TGT
+2025-09-19 00:52:19,612 - INFO - Saved TGT chart to multi_stock_analysis/TGT_detailed_analysis.png
+2025-09-19 00:52:19,613 - INFO - Creating individual chart for XOM
+2025-09-19 00:52:21,845 - INFO - Saved XOM chart to multi_stock_analysis/XOM_detailed_analysis.png
+2025-09-19 00:52:21,846 - INFO - Creating individual chart for CVX
+2025-09-19 00:52:24,110 - INFO - Saved CVX chart to multi_stock_analysis/CVX_detailed_analysis.png
+2025-09-19 00:52:24,111 - INFO - Creating individual chart for COP
+2025-09-19 00:52:27,090 - INFO - Saved COP chart to multi_stock_analysis/COP_detailed_analysis.png
+2025-09-19 00:52:27,091 - INFO - Creating individual chart for BA
+2025-09-19 00:52:29,327 - INFO - Saved BA chart to multi_stock_analysis/BA_detailed_analysis.png
+2025-09-19 00:52:29,328 - INFO - Creating individual chart for CAT
+2025-09-19 00:52:31,653 - INFO - Saved CAT chart to multi_stock_analysis/CAT_detailed_analysis.png
+2025-09-19 00:52:31,654 - INFO - Creating individual chart for GE
+2025-09-19 00:52:33,820 - INFO - Saved GE chart to multi_stock_analysis/GE_detailed_analysis.png
+2025-09-19 00:52:33,821 - INFO - Creating individual chart for MMM
+2025-09-19 00:52:36,060 - INFO - Saved MMM chart to multi_stock_analysis/MMM_detailed_analysis.png
+2025-09-19 00:52:36,060 - INFO - Creating individual chart for DIS
+2025-09-19 00:52:38,346 - INFO - Saved DIS chart to multi_stock_analysis/DIS_detailed_analysis.png
+2025-09-19 00:52:38,347 - INFO - Creating individual chart for CMCSA
+2025-09-19 00:52:40,586 - INFO - Saved CMCSA chart to multi_stock_analysis/CMCSA_detailed_analysis.png
+2025-09-19 00:52:40,587 - INFO - Creating individual chart for T
+2025-09-19 00:52:42,839 - INFO - Saved T chart to multi_stock_analysis/T_detailed_analysis.png
+2025-09-19 00:52:42,840 - INFO - Creating individual chart for VZ
+2025-09-19 00:52:44,377 - INFO - Saved VZ chart to multi_stock_analysis/VZ_detailed_analysis.png
+2025-09-19 00:52:44,378 - INFO - Creating individual chart for ORCL
+2025-09-19 00:52:47,519 - INFO - Saved ORCL chart to multi_stock_analysis/ORCL_detailed_analysis.png
+2025-09-19 00:52:47,520 - INFO - Creating individual chart for ADBE
+2025-09-19 00:52:49,705 - INFO - Saved ADBE chart to multi_stock_analysis/ADBE_detailed_analysis.png
+2025-09-19 00:52:49,706 - INFO - Creating individual chart for CRM
+2025-09-19 00:52:51,905 - INFO - Saved CRM chart to multi_stock_analysis/CRM_detailed_analysis.png
+2025-09-19 00:52:51,906 - INFO - Creating individual chart for INTC
+2025-09-19 00:52:54,324 - INFO - Saved INTC chart to multi_stock_analysis/INTC_detailed_analysis.png
+2025-09-19 00:52:54,325 - INFO - Creating individual chart for AMD
+2025-09-19 00:52:56,660 - INFO - Saved AMD chart to multi_stock_analysis/AMD_detailed_analysis.png
+2025-09-19 00:52:56,661 - INFO - Generating comprehensive HTML report
+2025-09-19 00:52:56,661 - INFO - Generating comprehensive interactive HTML report
+2025-09-19 00:52:56,735 - INFO - Saved enhanced interactive report to multi_stock_analysis/comprehensive_report.html
+2025-09-19 00:58:13,524 - INFO - Loading data for 45 stocks with period: 1y
+2025-09-19 00:58:13,525 - INFO - Fetching data for AAPL
+2025-09-19 00:58:14,012 - INFO - Successfully loaded 251 rows for AAPL
+2025-09-19 00:58:14,013 - INFO - Fetching data for MSFT
+2025-09-19 00:58:14,131 - INFO - Successfully loaded 251 rows for MSFT
+2025-09-19 00:58:14,132 - INFO - Fetching data for GOOGL
+2025-09-19 00:58:14,224 - INFO - Successfully loaded 251 rows for GOOGL
+2025-09-19 00:58:14,224 - INFO - Fetching data for AMZN
+2025-09-19 00:58:14,293 - INFO - Successfully loaded 251 rows for AMZN
+2025-09-19 00:58:14,293 - INFO - Fetching data for TSLA
+2025-09-19 00:58:14,372 - INFO - Successfully loaded 251 rows for TSLA
+2025-09-19 00:58:14,372 - INFO - Fetching data for NVDA
+2025-09-19 00:58:14,467 - INFO - Successfully loaded 251 rows for NVDA
+2025-09-19 00:58:14,467 - INFO - Fetching data for META
+2025-09-19 00:58:14,550 - INFO - Successfully loaded 251 rows for META
+2025-09-19 00:58:14,550 - INFO - Fetching data for NFLX
+2025-09-19 00:58:14,632 - INFO - Successfully loaded 251 rows for NFLX
+2025-09-19 00:58:14,632 - INFO - Fetching data for BRK.B
+2025-09-19 00:58:15,279 - ERROR - 
+1 Failed download:
+2025-09-19 00:58:15,279 - ERROR - ['BRK.B']: YFPricesMissingError('possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")')
+2025-09-19 00:58:15,281 - WARNING - No data received for BRK.B
+2025-09-19 00:58:15,282 - INFO - Fetching data for JPM
+2025-09-19 00:58:15,447 - INFO - Successfully loaded 251 rows for JPM
+2025-09-19 00:58:15,447 - INFO - Fetching data for BAC
+2025-09-19 00:58:15,572 - INFO - Successfully loaded 251 rows for BAC
+2025-09-19 00:58:15,572 - INFO - Fetching data for GS
+2025-09-19 00:58:15,692 - INFO - Successfully loaded 251 rows for GS
+2025-09-19 00:58:15,692 - INFO - Fetching data for MS
+2025-09-19 00:58:15,795 - INFO - Successfully loaded 251 rows for MS
+2025-09-19 00:58:15,795 - INFO - Fetching data for C
+2025-09-19 00:58:15,922 - INFO - Successfully loaded 251 rows for C
+2025-09-19 00:58:15,922 - INFO - Fetching data for V
+2025-09-19 00:58:16,028 - INFO - Successfully loaded 251 rows for V
+2025-09-19 00:58:16,028 - INFO - Fetching data for MA
+2025-09-19 00:58:16,129 - INFO - Successfully loaded 251 rows for MA
+2025-09-19 00:58:16,130 - INFO - Fetching data for PYPL
+2025-09-19 00:58:16,209 - INFO - Successfully loaded 251 rows for PYPL
+2025-09-19 00:58:16,209 - INFO - Fetching data for JNJ
+2025-09-19 00:58:16,386 - INFO - Successfully loaded 251 rows for JNJ
+2025-09-19 00:58:16,386 - INFO - Fetching data for PFE
+2025-09-19 00:58:16,566 - INFO - Successfully loaded 251 rows for PFE
+2025-09-19 00:58:16,566 - INFO - Fetching data for MRK
+2025-09-19 00:58:16,737 - INFO - Successfully loaded 251 rows for MRK
+2025-09-19 00:58:16,738 - INFO - Fetching data for UNH
+2025-09-19 00:58:16,874 - INFO - Successfully loaded 251 rows for UNH
+2025-09-19 00:58:16,875 - INFO - Fetching data for ABBV
+2025-09-19 00:58:16,969 - INFO - Successfully loaded 251 rows for ABBV
+2025-09-19 00:58:16,969 - INFO - Fetching data for WMT
+2025-09-19 00:58:17,096 - INFO - Successfully loaded 251 rows for WMT
+2025-09-19 00:58:17,097 - INFO - Fetching data for COST
+2025-09-19 00:58:17,229 - INFO - Successfully loaded 251 rows for COST
+2025-09-19 00:58:17,229 - INFO - Fetching data for PG
+2025-09-19 00:58:17,385 - INFO - Successfully loaded 251 rows for PG
+2025-09-19 00:58:17,385 - INFO - Fetching data for KO
+2025-09-19 00:58:17,541 - INFO - Successfully loaded 251 rows for KO
+2025-09-19 00:58:17,541 - INFO - Fetching data for PEP
+2025-09-19 00:58:17,710 - INFO - Successfully loaded 251 rows for PEP
+2025-09-19 00:58:17,710 - INFO - Fetching data for MCD
+2025-09-19 00:58:17,857 - INFO - Successfully loaded 251 rows for MCD
+2025-09-19 00:58:17,857 - INFO - Fetching data for TGT
+2025-09-19 00:58:17,991 - INFO - Successfully loaded 251 rows for TGT
+2025-09-19 00:58:17,992 - INFO - Fetching data for XOM
+2025-09-19 00:58:18,156 - INFO - Successfully loaded 251 rows for XOM
+2025-09-19 00:58:18,156 - INFO - Fetching data for CVX
+2025-09-19 00:58:18,371 - INFO - Successfully loaded 251 rows for CVX
+2025-09-19 00:58:18,372 - INFO - Fetching data for COP
+2025-09-19 00:58:18,514 - INFO - Successfully loaded 251 rows for COP
+2025-09-19 00:58:18,515 - INFO - Fetching data for BA
+2025-09-19 00:58:18,702 - INFO - Successfully loaded 248 rows for BA
+2025-09-19 00:58:18,702 - INFO - Fetching data for CAT
+2025-09-19 00:58:18,865 - INFO - Successfully loaded 251 rows for CAT
+2025-09-19 00:58:18,866 - INFO - Fetching data for GE
+2025-09-19 00:58:19,026 - INFO - Successfully loaded 251 rows for GE
+2025-09-19 00:58:19,026 - INFO - Fetching data for MMM
+2025-09-19 00:58:19,177 - INFO - Successfully loaded 251 rows for MMM
+2025-09-19 00:58:19,177 - INFO - Fetching data for DIS
+2025-09-19 00:58:19,343 - INFO - Successfully loaded 251 rows for DIS
+2025-09-19 00:58:19,343 - INFO - Fetching data for CMCSA
+2025-09-19 00:58:19,478 - INFO - Successfully loaded 251 rows for CMCSA
+2025-09-19 00:58:19,479 - INFO - Fetching data for T
+2025-09-19 00:58:19,636 - INFO - Successfully loaded 251 rows for T
+2025-09-19 00:58:19,636 - INFO - Fetching data for VZ
+2025-09-19 00:58:19,777 - INFO - Successfully loaded 251 rows for VZ
+2025-09-19 00:58:19,777 - INFO - Fetching data for ORCL
+2025-09-19 00:58:19,882 - INFO - Successfully loaded 251 rows for ORCL
+2025-09-19 00:58:19,882 - INFO - Fetching data for ADBE
+2025-09-19 00:58:19,984 - INFO - Successfully loaded 251 rows for ADBE
+2025-09-19 00:58:19,984 - INFO - Fetching data for CRM
+2025-09-19 00:58:20,073 - INFO - Successfully loaded 251 rows for CRM
+2025-09-19 00:58:20,073 - INFO - Fetching data for INTC
+2025-09-19 00:58:20,188 - INFO - Successfully loaded 251 rows for INTC
+2025-09-19 00:58:20,189 - INFO - Fetching data for AMD
+2025-09-19 00:58:20,261 - INFO - Successfully loaded 251 rows for AMD
+2025-09-19 00:58:21,334 - INFO - Saved combined daily data: 11041 rows
+2025-09-19 00:58:21,335 - WARNING - Failed to load data for: ['BRK.B']
+2025-09-19 00:58:21,336 - INFO - Starting comprehensive analysis for all stocks
+2025-09-19 00:58:21,336 - INFO - Analyzing AAPL
+2025-09-19 00:58:21,345 - INFO - Analyzing MSFT
+2025-09-19 00:58:21,354 - INFO - Analyzing GOOGL
+2025-09-19 00:58:21,361 - INFO - Analyzing AMZN
+2025-09-19 00:58:21,368 - INFO - Analyzing TSLA
+2025-09-19 00:58:21,376 - INFO - Analyzing NVDA
+2025-09-19 00:58:21,382 - INFO - Analyzing META
+2025-09-19 00:58:21,389 - INFO - Analyzing NFLX
+2025-09-19 00:58:21,397 - INFO - Analyzing JPM
+2025-09-19 00:58:21,403 - INFO - Analyzing BAC
+2025-09-19 00:58:21,414 - INFO - Analyzing GS
+2025-09-19 00:58:21,420 - INFO - Analyzing MS
+2025-09-19 00:58:21,427 - INFO - Analyzing C
+2025-09-19 00:58:21,434 - INFO - Analyzing V
+2025-09-19 00:58:21,440 - INFO - Analyzing MA
+2025-09-19 00:58:21,448 - INFO - Analyzing PYPL
+2025-09-19 00:58:21,454 - INFO - Analyzing JNJ
+2025-09-19 00:58:21,462 - INFO - Analyzing PFE
+2025-09-19 00:58:21,471 - INFO - Analyzing MRK
+2025-09-19 00:58:21,480 - INFO - Analyzing UNH
+2025-09-19 00:58:21,486 - INFO - Analyzing ABBV
+2025-09-19 00:58:21,494 - INFO - Analyzing WMT
+2025-09-19 00:58:21,501 - INFO - Analyzing COST
+2025-09-19 00:58:21,509 - INFO - Analyzing PG
+2025-09-19 00:58:21,518 - INFO - Analyzing KO
+2025-09-19 00:58:21,525 - INFO - Analyzing PEP
+2025-09-19 00:58:21,533 - INFO - Analyzing MCD
+2025-09-19 00:58:21,540 - INFO - Analyzing TGT
+2025-09-19 00:58:21,548 - INFO - Analyzing XOM
+2025-09-19 00:58:21,554 - INFO - Analyzing CVX
+2025-09-19 00:58:21,560 - INFO - Analyzing COP
+2025-09-19 00:58:21,567 - INFO - Analyzing BA
+2025-09-19 00:58:21,574 - INFO - Analyzing CAT
+2025-09-19 00:58:21,582 - INFO - Analyzing GE
+2025-09-19 00:58:21,589 - INFO - Analyzing MMM
+2025-09-19 00:58:21,596 - INFO - Analyzing DIS
+2025-09-19 00:58:21,603 - INFO - Analyzing CMCSA
+2025-09-19 00:58:21,609 - INFO - Analyzing T
+2025-09-19 00:58:21,616 - INFO - Analyzing VZ
+2025-09-19 00:58:21,622 - INFO - Analyzing ORCL
+2025-09-19 00:58:21,629 - INFO - Analyzing ADBE
+2025-09-19 00:58:21,637 - INFO - Analyzing CRM
+2025-09-19 00:58:21,644 - INFO - Analyzing INTC
+2025-09-19 00:58:21,653 - INFO - Analyzing AMD
+2025-09-19 00:58:21,662 - INFO - Saved SMA analysis to multi_stock_analysis/sma_analysis.csv
+2025-09-19 00:58:21,664 - INFO - Saved runs analysis to multi_stock_analysis/runs_analysis.csv
+2025-09-19 00:58:21,669 - INFO - Saved returns analysis to multi_stock_analysis/returns_analysis.csv
+2025-09-19 00:58:21,675 - INFO - Saved profit analysis to multi_stock_analysis/profit_analysis.csv
+2025-09-19 00:58:21,736 - INFO - Saved correlation matrix to multi_stock_analysis/correlation_matrix.csv
+2025-09-19 00:58:21,739 - INFO - Saved portfolio summary to multi_stock_analysis/portfolio_summary.csv
+2025-09-19 00:58:21,739 - INFO - Running comprehensive validation tests
+2025-09-19 00:58:21,739 - INFO - Validating analysis for AAPL
+2025-09-19 00:58:21,741 - INFO - Validating analysis for MSFT
+2025-09-19 00:58:21,742 - INFO - Validating analysis for GOOGL
+2025-09-19 00:58:21,743 - INFO - Validating analysis for AMZN
+2025-09-19 00:58:21,744 - INFO - Validating analysis for TSLA
+2025-09-19 00:58:21,746 - INFO - Validating analysis for NVDA
+2025-09-19 00:58:21,747 - INFO - Validating analysis for META
+2025-09-19 00:58:21,749 - INFO - Validating analysis for NFLX
+2025-09-19 00:58:21,751 - INFO - Validating analysis for JPM
+2025-09-19 00:58:21,753 - INFO - Validating analysis for BAC
+2025-09-19 00:58:21,754 - INFO - Validating analysis for GS
+2025-09-19 00:58:21,755 - INFO - Validating analysis for MS
+2025-09-19 00:58:21,756 - INFO - Validating analysis for C
+2025-09-19 00:58:21,758 - INFO - Validating analysis for V
+2025-09-19 00:58:21,759 - INFO - Validating analysis for MA
+2025-09-19 00:58:21,760 - INFO - Validating analysis for PYPL
+2025-09-19 00:58:21,761 - INFO - Validating analysis for JNJ
+2025-09-19 00:58:21,762 - INFO - Validating analysis for PFE
+2025-09-19 00:58:21,763 - INFO - Validating analysis for MRK
+2025-09-19 00:58:21,764 - INFO - Validating analysis for UNH
+2025-09-19 00:58:21,765 - INFO - Validating analysis for ABBV
+2025-09-19 00:58:21,767 - INFO - Validating analysis for WMT
+2025-09-19 00:58:21,768 - INFO - Validating analysis for COST
+2025-09-19 00:58:21,771 - INFO - Validating analysis for PG
+2025-09-19 00:58:21,772 - INFO - Validating analysis for KO
+2025-09-19 00:58:21,774 - INFO - Validating analysis for PEP
+2025-09-19 00:58:21,775 - INFO - Validating analysis for MCD
+2025-09-19 00:58:21,777 - INFO - Validating analysis for TGT
+2025-09-19 00:58:21,778 - INFO - Validating analysis for XOM
+2025-09-19 00:58:21,779 - INFO - Validating analysis for CVX
+2025-09-19 00:58:21,780 - INFO - Validating analysis for COP
+2025-09-19 00:58:21,782 - INFO - Validating analysis for BA
+2025-09-19 00:58:21,783 - INFO - Validating analysis for CAT
+2025-09-19 00:58:21,784 - INFO - Validating analysis for GE
+2025-09-19 00:58:21,786 - INFO - Validating analysis for MMM
+2025-09-19 00:58:21,788 - INFO - Validating analysis for DIS
+2025-09-19 00:58:21,789 - INFO - Validating analysis for CMCSA
+2025-09-19 00:58:21,790 - INFO - Validating analysis for T
+2025-09-19 00:58:21,791 - INFO - Validating analysis for VZ
+2025-09-19 00:58:21,792 - INFO - Validating analysis for ORCL
+2025-09-19 00:58:21,794 - INFO - Validating analysis for ADBE
+2025-09-19 00:58:21,795 - INFO - Validating analysis for CRM
+2025-09-19 00:58:21,796 - INFO - Validating analysis for INTC
+2025-09-19 00:58:21,797 - INFO - Validating analysis for AMD
+2025-09-19 00:58:21,800 - INFO - Saved validation results to multi_stock_analysis/validation_results.csv
+2025-09-19 00:58:32,300 - INFO - Saved comprehensive dashboard to multi_stock_analysis/comprehensive_dashboard.png
+2025-09-19 00:58:32,300 - INFO - Creating individual chart for AAPL
+2025-09-19 00:58:34,476 - INFO - Saved AAPL chart to multi_stock_analysis/AAPL_detailed_analysis.png
+2025-09-19 00:58:34,476 - INFO - Creating individual chart for MSFT
+2025-09-19 00:58:36,968 - INFO - Saved MSFT chart to multi_stock_analysis/MSFT_detailed_analysis.png
+2025-09-19 00:58:36,968 - INFO - Creating individual chart for GOOGL
+2025-09-19 00:58:38,680 - INFO - Saved GOOGL chart to multi_stock_analysis/GOOGL_detailed_analysis.png
+2025-09-19 00:58:38,681 - INFO - Creating individual chart for AMZN
+2025-09-19 00:58:40,919 - INFO - Saved AMZN chart to multi_stock_analysis/AMZN_detailed_analysis.png
+2025-09-19 00:58:40,920 - INFO - Creating individual chart for TSLA
+2025-09-19 00:58:43,520 - INFO - Saved TSLA chart to multi_stock_analysis/TSLA_detailed_analysis.png
+2025-09-19 00:58:43,520 - INFO - Creating individual chart for NVDA
+2025-09-19 00:58:45,903 - INFO - Saved NVDA chart to multi_stock_analysis/NVDA_detailed_analysis.png
+2025-09-19 00:58:45,903 - INFO - Creating individual chart for META
+2025-09-19 00:58:48,129 - INFO - Saved META chart to multi_stock_analysis/META_detailed_analysis.png
+2025-09-19 00:58:48,130 - INFO - Creating individual chart for NFLX
+2025-09-19 00:58:50,670 - INFO - Saved NFLX chart to multi_stock_analysis/NFLX_detailed_analysis.png
+2025-09-19 00:58:50,670 - INFO - Creating individual chart for JPM
+2025-09-19 00:58:52,952 - INFO - Saved JPM chart to multi_stock_analysis/JPM_detailed_analysis.png
+2025-09-19 00:58:52,953 - INFO - Creating individual chart for BAC
+2025-09-19 00:58:55,197 - INFO - Saved BAC chart to multi_stock_analysis/BAC_detailed_analysis.png
+2025-09-19 00:58:55,198 - INFO - Creating individual chart for GS
+2025-09-19 00:58:57,343 - INFO - Saved GS chart to multi_stock_analysis/GS_detailed_analysis.png
+2025-09-19 00:58:57,343 - INFO - Creating individual chart for MS
+2025-09-19 00:58:59,891 - INFO - Saved MS chart to multi_stock_analysis/MS_detailed_analysis.png
+2025-09-19 00:58:59,891 - INFO - Creating individual chart for C
+2025-09-19 00:59:01,991 - INFO - Saved C chart to multi_stock_analysis/C_detailed_analysis.png
+2025-09-19 00:59:01,991 - INFO - Creating individual chart for V
+2025-09-19 00:59:04,152 - INFO - Saved V chart to multi_stock_analysis/V_detailed_analysis.png
+2025-09-19 00:59:04,153 - INFO - Creating individual chart for MA
+2025-09-19 00:59:06,350 - INFO - Saved MA chart to multi_stock_analysis/MA_detailed_analysis.png
+2025-09-19 00:59:06,350 - INFO - Creating individual chart for PYPL
+2025-09-19 00:59:08,530 - INFO - Saved PYPL chart to multi_stock_analysis/PYPL_detailed_analysis.png
+2025-09-19 00:59:08,531 - INFO - Creating individual chart for JNJ
+2025-09-19 00:59:10,550 - INFO - Saved JNJ chart to multi_stock_analysis/JNJ_detailed_analysis.png
+2025-09-19 00:59:10,550 - INFO - Creating individual chart for PFE
+2025-09-19 00:59:12,740 - INFO - Saved PFE chart to multi_stock_analysis/PFE_detailed_analysis.png
+2025-09-19 00:59:12,741 - INFO - Creating individual chart for MRK
+2025-09-19 00:59:14,900 - INFO - Saved MRK chart to multi_stock_analysis/MRK_detailed_analysis.png
+2025-09-19 00:59:14,901 - INFO - Creating individual chart for UNH
+2025-09-19 00:59:17,083 - INFO - Saved UNH chart to multi_stock_analysis/UNH_detailed_analysis.png
+2025-09-19 00:59:17,083 - INFO - Creating individual chart for ABBV
+2025-09-19 00:59:19,398 - INFO - Saved ABBV chart to multi_stock_analysis/ABBV_detailed_analysis.png
+2025-09-19 00:59:19,399 - INFO - Creating individual chart for WMT
+2025-09-19 00:59:21,793 - INFO - Saved WMT chart to multi_stock_analysis/WMT_detailed_analysis.png
+2025-09-19 00:59:21,794 - INFO - Creating individual chart for COST
+2025-09-19 00:59:24,647 - INFO - Saved COST chart to multi_stock_analysis/COST_detailed_analysis.png
+2025-09-19 00:59:24,648 - INFO - Creating individual chart for PG
+2025-09-19 00:59:26,852 - INFO - Saved PG chart to multi_stock_analysis/PG_detailed_analysis.png
+2025-09-19 00:59:26,853 - INFO - Creating individual chart for KO
+2025-09-19 00:59:29,031 - INFO - Saved KO chart to multi_stock_analysis/KO_detailed_analysis.png
+2025-09-19 00:59:29,031 - INFO - Creating individual chart for PEP
+2025-09-19 00:59:31,273 - INFO - Saved PEP chart to multi_stock_analysis/PEP_detailed_analysis.png
+2025-09-19 00:59:31,273 - INFO - Creating individual chart for MCD
+2025-09-19 00:59:33,449 - INFO - Saved MCD chart to multi_stock_analysis/MCD_detailed_analysis.png
+2025-09-19 00:59:33,450 - INFO - Creating individual chart for TGT
+2025-09-19 00:59:35,690 - INFO - Saved TGT chart to multi_stock_analysis/TGT_detailed_analysis.png
+2025-09-19 00:59:35,691 - INFO - Creating individual chart for XOM
+2025-09-19 00:59:37,876 - INFO - Saved XOM chart to multi_stock_analysis/XOM_detailed_analysis.png
+2025-09-19 00:59:37,876 - INFO - Creating individual chart for CVX
+2025-09-19 00:59:40,122 - INFO - Saved CVX chart to multi_stock_analysis/CVX_detailed_analysis.png
+2025-09-19 00:59:40,122 - INFO - Creating individual chart for COP
+2025-09-19 00:59:42,341 - INFO - Saved COP chart to multi_stock_analysis/COP_detailed_analysis.png
+2025-09-19 00:59:42,342 - INFO - Creating individual chart for BA
+2025-09-19 00:59:44,493 - INFO - Saved BA chart to multi_stock_analysis/BA_detailed_analysis.png
+2025-09-19 00:59:44,493 - INFO - Creating individual chart for CAT
+2025-09-19 00:59:46,706 - INFO - Saved CAT chart to multi_stock_analysis/CAT_detailed_analysis.png
+2025-09-19 00:59:46,707 - INFO - Creating individual chart for GE
+2025-09-19 00:59:48,961 - INFO - Saved GE chart to multi_stock_analysis/GE_detailed_analysis.png
+2025-09-19 00:59:48,962 - INFO - Creating individual chart for MMM
+2025-09-19 00:59:51,427 - INFO - Saved MMM chart to multi_stock_analysis/MMM_detailed_analysis.png
+2025-09-19 00:59:51,428 - INFO - Creating individual chart for DIS
+2025-09-19 00:59:53,654 - INFO - Saved DIS chart to multi_stock_analysis/DIS_detailed_analysis.png
+2025-09-19 00:59:53,655 - INFO - Creating individual chart for CMCSA
+2025-09-19 00:59:55,924 - INFO - Saved CMCSA chart to multi_stock_analysis/CMCSA_detailed_analysis.png
+2025-09-19 00:59:55,925 - INFO - Creating individual chart for T
+2025-09-19 00:59:58,092 - INFO - Saved T chart to multi_stock_analysis/T_detailed_analysis.png
+2025-09-19 00:59:58,093 - INFO - Creating individual chart for VZ
+2025-09-19 01:00:00,366 - INFO - Saved VZ chart to multi_stock_analysis/VZ_detailed_analysis.png
+2025-09-19 01:00:00,367 - INFO - Creating individual chart for ORCL
+2025-09-19 01:00:03,444 - INFO - Saved ORCL chart to multi_stock_analysis/ORCL_detailed_analysis.png
+2025-09-19 01:00:03,445 - INFO - Creating individual chart for ADBE
+2025-09-19 01:00:05,623 - INFO - Saved ADBE chart to multi_stock_analysis/ADBE_detailed_analysis.png
+2025-09-19 01:00:05,624 - INFO - Creating individual chart for CRM
+2025-09-19 01:00:07,851 - INFO - Saved CRM chart to multi_stock_analysis/CRM_detailed_analysis.png
+2025-09-19 01:00:07,853 - INFO - Creating individual chart for INTC
+2025-09-19 01:00:10,107 - INFO - Saved INTC chart to multi_stock_analysis/INTC_detailed_analysis.png
+2025-09-19 01:00:10,108 - INFO - Creating individual chart for AMD
+2025-09-19 01:00:12,367 - INFO - Saved AMD chart to multi_stock_analysis/AMD_detailed_analysis.png
+2025-09-19 01:00:12,368 - INFO - Generating comprehensive HTML report
+2025-09-19 01:00:12,369 - INFO - Generating comprehensive interactive HTML report
+2025-09-19 01:00:12,436 - INFO - Saved enhanced interactive report to multi_stock_analysis/comprehensive_report.html
+2025-09-26 21:37:08,963 - INFO - Loading data for 45 stocks with period: 1y
+2025-09-26 21:37:08,964 - INFO - Fetching data for AAPL
+2025-09-26 21:37:09,434 - INFO - Successfully loaded 251 rows for AAPL
+2025-09-26 21:37:09,434 - INFO - Fetching data for MSFT
+2025-09-26 21:37:09,542 - INFO - Successfully loaded 251 rows for MSFT
+2025-09-26 21:37:09,543 - INFO - Fetching data for GOOGL
+2025-09-26 21:37:09,642 - INFO - Successfully loaded 251 rows for GOOGL
+2025-09-26 21:37:09,642 - INFO - Fetching data for AMZN
+2025-09-26 21:37:09,726 - INFO - Successfully loaded 251 rows for AMZN
+2025-09-26 21:37:09,727 - INFO - Fetching data for TSLA
+2025-09-26 21:37:09,836 - INFO - Successfully loaded 251 rows for TSLA
+2025-09-26 21:37:09,836 - INFO - Fetching data for NVDA
+2025-09-26 21:37:09,924 - INFO - Successfully loaded 251 rows for NVDA
+2025-09-26 21:37:09,925 - INFO - Fetching data for META
+2025-09-26 21:37:10,003 - INFO - Successfully loaded 251 rows for META
+2025-09-26 21:37:10,004 - INFO - Fetching data for NFLX
+2025-09-26 21:37:10,091 - INFO - Successfully loaded 251 rows for NFLX
+2025-09-26 21:37:10,092 - INFO - Fetching data for BRK.B
+2025-09-26 21:37:10,814 - ERROR - 
+1 Failed download:
+2025-09-26 21:37:10,815 - ERROR - ['BRK.B']: YFPricesMissingError('possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")')
+2025-09-26 21:37:10,818 - WARNING - No data received for BRK.B
+2025-09-26 21:37:10,818 - INFO - Fetching data for JPM
+2025-09-26 21:37:11,005 - INFO - Successfully loaded 251 rows for JPM
+2025-09-26 21:37:11,005 - INFO - Fetching data for BAC
+2025-09-26 21:37:11,145 - INFO - Successfully loaded 251 rows for BAC
+2025-09-26 21:37:11,146 - INFO - Fetching data for GS
+2025-09-26 21:37:11,281 - INFO - Successfully loaded 251 rows for GS
+2025-09-26 21:37:11,281 - INFO - Fetching data for MS
+2025-09-26 21:37:11,435 - INFO - Successfully loaded 251 rows for MS
+2025-09-26 21:37:11,436 - INFO - Fetching data for C
+2025-09-26 21:37:11,618 - INFO - Successfully loaded 251 rows for C
+2025-09-26 21:37:11,619 - INFO - Fetching data for V
+2025-09-26 21:37:11,733 - INFO - Successfully loaded 251 rows for V
+2025-09-26 21:37:11,734 - INFO - Fetching data for MA
+2025-09-26 21:37:11,834 - INFO - Successfully loaded 251 rows for MA
+2025-09-26 21:37:11,835 - INFO - Fetching data for PYPL
+2025-09-26 21:37:11,917 - INFO - Successfully loaded 251 rows for PYPL
+2025-09-26 21:37:11,917 - INFO - Fetching data for JNJ
+2025-09-26 21:37:12,082 - INFO - Successfully loaded 251 rows for JNJ
+2025-09-26 21:37:12,083 - INFO - Fetching data for PFE
+2025-09-26 21:37:12,243 - INFO - Successfully loaded 251 rows for PFE
+2025-09-26 21:37:12,243 - INFO - Fetching data for MRK
+2025-09-26 21:37:12,438 - INFO - Successfully loaded 251 rows for MRK
+2025-09-26 21:37:12,439 - INFO - Fetching data for UNH
+2025-09-26 21:37:12,595 - INFO - Successfully loaded 251 rows for UNH
+2025-09-26 21:37:12,595 - INFO - Fetching data for ABBV
+2025-09-26 21:37:12,708 - INFO - Successfully loaded 251 rows for ABBV
+2025-09-26 21:37:12,708 - INFO - Fetching data for WMT
+2025-09-26 21:37:12,869 - INFO - Successfully loaded 251 rows for WMT
+2025-09-26 21:37:12,869 - INFO - Fetching data for COST
+2025-09-26 21:37:12,977 - INFO - Successfully loaded 251 rows for COST
+2025-09-26 21:37:12,977 - INFO - Fetching data for PG
+2025-09-26 21:37:13,169 - INFO - Successfully loaded 251 rows for PG
+2025-09-26 21:37:13,169 - INFO - Fetching data for KO
+2025-09-26 21:37:13,353 - INFO - Successfully loaded 251 rows for KO
+2025-09-26 21:37:13,353 - INFO - Fetching data for PEP
+2025-09-26 21:37:13,521 - INFO - Successfully loaded 251 rows for PEP
+2025-09-26 21:37:13,521 - INFO - Fetching data for MCD
+2025-09-26 21:37:13,695 - INFO - Successfully loaded 251 rows for MCD
+2025-09-26 21:37:13,695 - INFO - Fetching data for TGT
+2025-09-26 21:37:13,829 - INFO - Successfully loaded 251 rows for TGT
+2025-09-26 21:37:13,829 - INFO - Fetching data for XOM
+2025-09-26 21:37:14,017 - INFO - Successfully loaded 251 rows for XOM
+2025-09-26 21:37:14,018 - INFO - Fetching data for CVX
+2025-09-26 21:37:14,184 - INFO - Successfully loaded 251 rows for CVX
+2025-09-26 21:37:14,184 - INFO - Fetching data for COP
+2025-09-26 21:37:14,317 - INFO - Successfully loaded 251 rows for COP
+2025-09-26 21:37:14,318 - INFO - Fetching data for BA
+2025-09-26 21:37:14,497 - INFO - Successfully loaded 251 rows for BA
+2025-09-26 21:37:14,497 - INFO - Fetching data for CAT
+2025-09-26 21:37:14,667 - INFO - Successfully loaded 251 rows for CAT
+2025-09-26 21:37:14,667 - INFO - Fetching data for GE
+2025-09-26 21:37:14,829 - INFO - Successfully loaded 251 rows for GE
+2025-09-26 21:37:14,829 - INFO - Fetching data for MMM
+2025-09-26 21:37:15,039 - INFO - Successfully loaded 251 rows for MMM
+2025-09-26 21:37:15,039 - INFO - Fetching data for DIS
+2025-09-26 21:37:15,222 - INFO - Successfully loaded 251 rows for DIS
+2025-09-26 21:37:15,223 - INFO - Fetching data for CMCSA
+2025-09-26 21:37:15,336 - INFO - Successfully loaded 251 rows for CMCSA
+2025-09-26 21:37:15,336 - INFO - Fetching data for T
+2025-09-26 21:37:15,459 - INFO - Successfully loaded 251 rows for T
+2025-09-26 21:37:15,459 - INFO - Fetching data for VZ
+2025-09-26 21:37:15,636 - INFO - Successfully loaded 251 rows for VZ
+2025-09-26 21:37:15,636 - INFO - Fetching data for ORCL
+2025-09-26 21:37:15,766 - INFO - Successfully loaded 251 rows for ORCL
+2025-09-26 21:37:15,766 - INFO - Fetching data for ADBE
+2025-09-26 21:37:15,870 - INFO - Successfully loaded 251 rows for ADBE
+2025-09-26 21:37:15,870 - INFO - Fetching data for CRM
+2025-09-26 21:37:15,967 - INFO - Successfully loaded 251 rows for CRM
+2025-09-26 21:37:15,967 - INFO - Fetching data for INTC
+2025-09-26 21:37:16,137 - INFO - Successfully loaded 251 rows for INTC
+2025-09-26 21:37:16,138 - INFO - Fetching data for AMD
+2025-09-26 21:37:16,239 - INFO - Successfully loaded 251 rows for AMD
+2025-09-26 21:37:17,380 - INFO - Saved combined daily data: 11044 rows
+2025-09-26 21:37:17,380 - WARNING - Failed to load data for: ['BRK.B']
+2025-09-26 21:37:17,380 - INFO - Starting comprehensive analysis for all stocks
+2025-09-26 21:37:17,380 - INFO - Analyzing AAPL
+2025-09-26 21:37:17,389 - INFO - Analyzing MSFT
+2025-09-26 21:37:17,396 - INFO - Analyzing GOOGL
+2025-09-26 21:37:17,402 - INFO - Analyzing AMZN
+2025-09-26 21:37:17,416 - INFO - Analyzing TSLA
+2025-09-26 21:37:17,426 - INFO - Analyzing NVDA
+2025-09-26 21:37:17,435 - INFO - Analyzing META
+2025-09-26 21:37:17,442 - INFO - Analyzing NFLX
+2025-09-26 21:37:17,452 - INFO - Analyzing JPM
+2025-09-26 21:37:17,459 - INFO - Analyzing BAC
+2025-09-26 21:37:17,469 - INFO - Analyzing GS
+2025-09-26 21:37:17,475 - INFO - Analyzing MS
+2025-09-26 21:37:17,484 - INFO - Analyzing C
+2025-09-26 21:37:17,491 - INFO - Analyzing V
+2025-09-26 21:37:17,499 - INFO - Analyzing MA
+2025-09-26 21:37:17,507 - INFO - Analyzing PYPL
+2025-09-26 21:37:17,517 - INFO - Analyzing JNJ
+2025-09-26 21:37:17,524 - INFO - Analyzing PFE
+2025-09-26 21:37:17,533 - INFO - Analyzing MRK
+2025-09-26 21:37:17,540 - INFO - Analyzing UNH
+2025-09-26 21:37:17,549 - INFO - Analyzing ABBV
+2025-09-26 21:37:17,556 - INFO - Analyzing WMT
+2025-09-26 21:37:17,565 - INFO - Analyzing COST
+2025-09-26 21:37:17,571 - INFO - Analyzing PG
+2025-09-26 21:37:17,579 - INFO - Analyzing KO
+2025-09-26 21:37:17,587 - INFO - Analyzing PEP
+2025-09-26 21:37:17,594 - INFO - Analyzing MCD
+2025-09-26 21:37:17,603 - INFO - Analyzing TGT
+2025-09-26 21:37:17,610 - INFO - Analyzing XOM
+2025-09-26 21:37:17,620 - INFO - Analyzing CVX
+2025-09-26 21:37:17,628 - INFO - Analyzing COP
+2025-09-26 21:37:17,638 - INFO - Analyzing BA
+2025-09-26 21:37:17,644 - INFO - Analyzing CAT
+2025-09-26 21:37:17,651 - INFO - Analyzing GE
+2025-09-26 21:37:17,659 - INFO - Analyzing MMM
+2025-09-26 21:37:17,668 - INFO - Analyzing DIS
+2025-09-26 21:37:17,675 - INFO - Analyzing CMCSA
+2025-09-26 21:37:17,684 - INFO - Analyzing T
+2025-09-26 21:37:17,691 - INFO - Analyzing VZ
+2025-09-26 21:37:17,700 - INFO - Analyzing ORCL
+2025-09-26 21:37:17,706 - INFO - Analyzing ADBE
+2025-09-26 21:37:17,717 - INFO - Analyzing CRM
+2025-09-26 21:37:17,724 - INFO - Analyzing INTC
+2025-09-26 21:37:17,735 - INFO - Analyzing AMD
+2025-09-26 21:37:17,746 - INFO - Saved SMA analysis to multi_stock_analysis/sma_analysis.csv
+2025-09-26 21:37:17,750 - INFO - Saved runs analysis to multi_stock_analysis/runs_analysis.csv
+2025-09-26 21:37:17,752 - INFO - Saved returns analysis to multi_stock_analysis/returns_analysis.csv
+2025-09-26 21:37:17,755 - INFO - Saved profit analysis to multi_stock_analysis/profit_analysis.csv
+2025-09-26 21:37:17,817 - INFO - Saved correlation matrix to multi_stock_analysis/correlation_matrix.csv
+2025-09-26 21:37:17,820 - INFO - Saved portfolio summary to multi_stock_analysis/portfolio_summary.csv
+2025-09-26 21:37:17,820 - INFO - Running comprehensive validation tests
+2025-09-26 21:37:17,820 - INFO - Validating analysis for AAPL
+2025-09-26 21:37:17,822 - INFO - Validating analysis for MSFT
+2025-09-26 21:37:17,825 - INFO - Validating analysis for GOOGL
+2025-09-26 21:37:17,827 - INFO - Validating analysis for AMZN
+2025-09-26 21:37:17,828 - INFO - Validating analysis for TSLA
+2025-09-26 21:37:17,830 - INFO - Validating analysis for NVDA
+2025-09-26 21:37:17,832 - INFO - Validating analysis for META
+2025-09-26 21:37:17,833 - INFO - Validating analysis for NFLX
+2025-09-26 21:37:17,835 - INFO - Validating analysis for JPM
+2025-09-26 21:37:17,836 - INFO - Validating analysis for BAC
+2025-09-26 21:37:17,838 - INFO - Validating analysis for GS
+2025-09-26 21:37:17,839 - INFO - Validating analysis for MS
+2025-09-26 21:37:17,840 - INFO - Validating analysis for C
+2025-09-26 21:37:17,842 - INFO - Validating analysis for V
+2025-09-26 21:37:17,843 - INFO - Validating analysis for MA
+2025-09-26 21:37:17,845 - INFO - Validating analysis for PYPL
+2025-09-26 21:37:17,847 - INFO - Validating analysis for JNJ
+2025-09-26 21:37:17,849 - INFO - Validating analysis for PFE
+2025-09-26 21:37:17,852 - INFO - Validating analysis for MRK
+2025-09-26 21:37:17,853 - INFO - Validating analysis for UNH
+2025-09-26 21:37:17,855 - INFO - Validating analysis for ABBV
+2025-09-26 21:37:17,856 - INFO - Validating analysis for WMT
+2025-09-26 21:37:17,858 - INFO - Validating analysis for COST
+2025-09-26 21:37:17,860 - INFO - Validating analysis for PG
+2025-09-26 21:37:17,861 - INFO - Validating analysis for KO
+2025-09-26 21:37:17,863 - INFO - Validating analysis for PEP
+2025-09-26 21:37:17,865 - INFO - Validating analysis for MCD
+2025-09-26 21:37:17,866 - INFO - Validating analysis for TGT
+2025-09-26 21:37:17,869 - INFO - Validating analysis for XOM
+2025-09-26 21:37:17,872 - INFO - Validating analysis for CVX
+2025-09-26 21:37:17,874 - INFO - Validating analysis for COP
+2025-09-26 21:37:17,875 - INFO - Validating analysis for BA
+2025-09-26 21:37:17,876 - INFO - Validating analysis for CAT
+2025-09-26 21:37:17,877 - INFO - Validating analysis for GE
+2025-09-26 21:37:17,879 - INFO - Validating analysis for MMM
+2025-09-26 21:37:17,880 - INFO - Validating analysis for DIS
+2025-09-26 21:37:17,881 - INFO - Validating analysis for CMCSA
+2025-09-26 21:37:17,883 - INFO - Validating analysis for T
+2025-09-26 21:37:17,885 - INFO - Validating analysis for VZ
+2025-09-26 21:37:17,886 - INFO - Validating analysis for ORCL
+2025-09-26 21:37:17,888 - INFO - Validating analysis for ADBE
+2025-09-26 21:37:17,889 - INFO - Validating analysis for CRM
+2025-09-26 21:37:17,890 - INFO - Validating analysis for INTC
+2025-09-26 21:37:17,891 - INFO - Validating analysis for AMD
+2025-09-26 21:37:17,895 - INFO - Saved validation results to multi_stock_analysis/validation_results.csv
+2025-09-26 21:37:28,910 - INFO - Saved comprehensive dashboard to multi_stock_analysis/comprehensive_dashboard.png
+2025-09-26 21:37:28,910 - INFO - Creating individual chart for AAPL
+2025-09-26 21:37:31,247 - INFO - Saved AAPL chart to multi_stock_analysis/AAPL_detailed_analysis.png
+2025-09-26 21:37:31,248 - INFO - Creating individual chart for MSFT
+2025-09-26 21:37:33,830 - INFO - Saved MSFT chart to multi_stock_analysis/MSFT_detailed_analysis.png
+2025-09-26 21:37:33,830 - INFO - Creating individual chart for GOOGL
+2025-09-26 21:37:35,972 - INFO - Saved GOOGL chart to multi_stock_analysis/GOOGL_detailed_analysis.png
+2025-09-26 21:37:35,973 - INFO - Creating individual chart for AMZN
+2025-09-26 21:37:38,244 - INFO - Saved AMZN chart to multi_stock_analysis/AMZN_detailed_analysis.png
+2025-09-26 21:37:38,244 - INFO - Creating individual chart for TSLA
+2025-09-26 21:37:40,694 - INFO - Saved TSLA chart to multi_stock_analysis/TSLA_detailed_analysis.png
+2025-09-26 21:37:40,695 - INFO - Creating individual chart for NVDA
+2025-09-26 21:37:42,869 - INFO - Saved NVDA chart to multi_stock_analysis/NVDA_detailed_analysis.png
+2025-09-26 21:37:42,870 - INFO - Creating individual chart for META
+2025-09-26 21:37:45,042 - INFO - Saved META chart to multi_stock_analysis/META_detailed_analysis.png
+2025-09-26 21:37:45,043 - INFO - Creating individual chart for NFLX
+2025-09-26 21:37:47,507 - INFO - Saved NFLX chart to multi_stock_analysis/NFLX_detailed_analysis.png
+2025-09-26 21:37:47,509 - INFO - Creating individual chart for JPM
+2025-09-26 21:37:49,764 - INFO - Saved JPM chart to multi_stock_analysis/JPM_detailed_analysis.png
+2025-09-26 21:37:49,765 - INFO - Creating individual chart for BAC
+2025-09-26 21:37:51,977 - INFO - Saved BAC chart to multi_stock_analysis/BAC_detailed_analysis.png
+2025-09-26 21:37:51,977 - INFO - Creating individual chart for GS
+2025-09-26 21:37:54,281 - INFO - Saved GS chart to multi_stock_analysis/GS_detailed_analysis.png
+2025-09-26 21:37:54,282 - INFO - Creating individual chart for MS
+2025-09-26 21:37:57,421 - INFO - Saved MS chart to multi_stock_analysis/MS_detailed_analysis.png
+2025-09-26 21:37:57,422 - INFO - Creating individual chart for C
+2025-09-26 21:37:59,770 - INFO - Saved C chart to multi_stock_analysis/C_detailed_analysis.png
+2025-09-26 21:37:59,771 - INFO - Creating individual chart for V
+2025-09-26 21:38:02,132 - INFO - Saved V chart to multi_stock_analysis/V_detailed_analysis.png
+2025-09-26 21:38:02,132 - INFO - Creating individual chart for MA
+2025-09-26 21:38:04,541 - INFO - Saved MA chart to multi_stock_analysis/MA_detailed_analysis.png
+2025-09-26 21:38:04,541 - INFO - Creating individual chart for PYPL
+2025-09-26 21:38:06,837 - INFO - Saved PYPL chart to multi_stock_analysis/PYPL_detailed_analysis.png
+2025-09-26 21:38:06,837 - INFO - Creating individual chart for JNJ
+2025-09-26 21:38:09,671 - INFO - Saved JNJ chart to multi_stock_analysis/JNJ_detailed_analysis.png
+2025-09-26 21:38:09,671 - INFO - Creating individual chart for PFE
+2025-09-26 21:38:12,030 - INFO - Saved PFE chart to multi_stock_analysis/PFE_detailed_analysis.png
+2025-09-26 21:38:12,031 - INFO - Creating individual chart for MRK
+2025-09-26 21:38:14,340 - INFO - Saved MRK chart to multi_stock_analysis/MRK_detailed_analysis.png
+2025-09-26 21:38:14,341 - INFO - Creating individual chart for UNH
+2025-09-26 21:38:16,692 - INFO - Saved UNH chart to multi_stock_analysis/UNH_detailed_analysis.png
+2025-09-26 21:38:16,692 - INFO - Creating individual chart for ABBV
+2025-09-26 21:38:19,011 - INFO - Saved ABBV chart to multi_stock_analysis/ABBV_detailed_analysis.png
+2025-09-26 21:38:19,011 - INFO - Creating individual chart for WMT
+2025-09-26 21:38:21,400 - INFO - Saved WMT chart to multi_stock_analysis/WMT_detailed_analysis.png
+2025-09-26 21:38:21,401 - INFO - Creating individual chart for COST
+2025-09-26 21:38:24,438 - INFO - Saved COST chart to multi_stock_analysis/COST_detailed_analysis.png
+2025-09-26 21:38:24,439 - INFO - Creating individual chart for PG
+2025-09-26 21:38:26,740 - INFO - Saved PG chart to multi_stock_analysis/PG_detailed_analysis.png
+2025-09-26 21:38:26,740 - INFO - Creating individual chart for KO
+2025-09-26 21:38:28,968 - INFO - Saved KO chart to multi_stock_analysis/KO_detailed_analysis.png
+2025-09-26 21:38:28,969 - INFO - Creating individual chart for PEP
+2025-09-26 21:38:31,266 - INFO - Saved PEP chart to multi_stock_analysis/PEP_detailed_analysis.png
+2025-09-26 21:38:31,267 - INFO - Creating individual chart for MCD
+2025-09-26 21:38:33,423 - INFO - Saved MCD chart to multi_stock_analysis/MCD_detailed_analysis.png
+2025-09-26 21:38:33,423 - INFO - Creating individual chart for TGT
+2025-09-26 21:38:35,642 - INFO - Saved TGT chart to multi_stock_analysis/TGT_detailed_analysis.png
+2025-09-26 21:38:35,643 - INFO - Creating individual chart for XOM
+2025-09-26 21:38:37,753 - INFO - Saved XOM chart to multi_stock_analysis/XOM_detailed_analysis.png
+2025-09-26 21:38:37,753 - INFO - Creating individual chart for CVX
+2025-09-26 21:38:40,067 - INFO - Saved CVX chart to multi_stock_analysis/CVX_detailed_analysis.png
+2025-09-26 21:38:40,068 - INFO - Creating individual chart for COP
+2025-09-26 21:38:43,166 - INFO - Saved COP chart to multi_stock_analysis/COP_detailed_analysis.png
+2025-09-26 21:38:43,166 - INFO - Creating individual chart for BA
+2025-09-26 21:38:45,366 - INFO - Saved BA chart to multi_stock_analysis/BA_detailed_analysis.png
+2025-09-26 21:38:45,367 - INFO - Creating individual chart for CAT
+2025-09-26 21:38:47,673 - INFO - Saved CAT chart to multi_stock_analysis/CAT_detailed_analysis.png
+2025-09-26 21:38:47,673 - INFO - Creating individual chart for GE
+2025-09-26 21:38:49,849 - INFO - Saved GE chart to multi_stock_analysis/GE_detailed_analysis.png
+2025-09-26 21:38:49,850 - INFO - Creating individual chart for MMM
+2025-09-26 21:38:52,216 - INFO - Saved MMM chart to multi_stock_analysis/MMM_detailed_analysis.png
+2025-09-26 21:38:52,216 - INFO - Creating individual chart for DIS
+2025-09-26 21:38:54,412 - INFO - Saved DIS chart to multi_stock_analysis/DIS_detailed_analysis.png
+2025-09-26 21:38:54,413 - INFO - Creating individual chart for CMCSA
+2025-09-26 21:38:56,703 - INFO - Saved CMCSA chart to multi_stock_analysis/CMCSA_detailed_analysis.png
+2025-09-26 21:38:56,704 - INFO - Creating individual chart for T
+2025-09-26 21:38:58,882 - INFO - Saved T chart to multi_stock_analysis/T_detailed_analysis.png
+2025-09-26 21:38:58,882 - INFO - Creating individual chart for VZ
+2025-09-26 21:39:01,075 - INFO - Saved VZ chart to multi_stock_analysis/VZ_detailed_analysis.png
+2025-09-26 21:39:01,076 - INFO - Creating individual chart for ORCL
+2025-09-26 21:39:03,246 - INFO - Saved ORCL chart to multi_stock_analysis/ORCL_detailed_analysis.png
+2025-09-26 21:39:03,247 - INFO - Creating individual chart for ADBE
+2025-09-26 21:39:06,525 - INFO - Saved ADBE chart to multi_stock_analysis/ADBE_detailed_analysis.png
+2025-09-26 21:39:06,526 - INFO - Creating individual chart for CRM
+2025-09-26 21:39:08,794 - INFO - Saved CRM chart to multi_stock_analysis/CRM_detailed_analysis.png
+2025-09-26 21:39:08,795 - INFO - Creating individual chart for INTC
+2025-09-26 21:39:11,066 - INFO - Saved INTC chart to multi_stock_analysis/INTC_detailed_analysis.png
+2025-09-26 21:39:11,067 - INFO - Creating individual chart for AMD
+2025-09-26 21:39:13,185 - INFO - Saved AMD chart to multi_stock_analysis/AMD_detailed_analysis.png
+2025-09-26 21:39:13,186 - INFO - Generating comprehensive HTML report
+2025-09-26 22:13:27,625 - INFO - Loading data for 45 stocks with period: 1y
+2025-09-26 22:13:27,626 - INFO - Fetching data for AAPL
+2025-09-26 22:13:28,136 - INFO - Successfully loaded 251 rows for AAPL
+2025-09-26 22:13:28,136 - INFO - Fetching data for MSFT
+2025-09-26 22:13:28,264 - INFO - Successfully loaded 251 rows for MSFT
+2025-09-26 22:13:28,264 - INFO - Fetching data for GOOGL
+2025-09-26 22:13:28,349 - INFO - Successfully loaded 251 rows for GOOGL
+2025-09-26 22:13:28,349 - INFO - Fetching data for AMZN
+2025-09-26 22:13:28,441 - INFO - Successfully loaded 251 rows for AMZN
+2025-09-26 22:13:28,441 - INFO - Fetching data for TSLA
+2025-09-26 22:13:28,529 - INFO - Successfully loaded 251 rows for TSLA
+2025-09-26 22:13:28,530 - INFO - Fetching data for NVDA
+2025-09-26 22:13:28,683 - INFO - Successfully loaded 251 rows for NVDA
+2025-09-26 22:13:28,683 - INFO - Fetching data for META
+2025-09-26 22:13:28,771 - INFO - Successfully loaded 251 rows for META
+2025-09-26 22:13:28,771 - INFO - Fetching data for NFLX
+2025-09-26 22:13:28,852 - INFO - Successfully loaded 251 rows for NFLX
+2025-09-26 22:13:28,852 - INFO - Fetching data for BRK.B
+2025-09-26 22:13:29,514 - ERROR - 
+1 Failed download:
+2025-09-26 22:13:29,515 - ERROR - ['BRK.B']: YFPricesMissingError('possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")')
+2025-09-26 22:13:29,519 - WARNING - No data received for BRK.B
+2025-09-26 22:13:29,520 - INFO - Fetching data for JPM
+2025-09-26 22:13:29,695 - INFO - Successfully loaded 251 rows for JPM
+2025-09-26 22:13:29,695 - INFO - Fetching data for BAC
+2025-09-26 22:13:29,835 - INFO - Successfully loaded 251 rows for BAC
+2025-09-26 22:13:29,835 - INFO - Fetching data for GS
+2025-09-26 22:13:29,971 - INFO - Successfully loaded 251 rows for GS
+2025-09-26 22:13:29,971 - INFO - Fetching data for MS
+2025-09-26 22:13:30,112 - INFO - Successfully loaded 251 rows for MS
+2025-09-26 22:13:30,112 - INFO - Fetching data for C
+2025-09-26 22:13:30,273 - INFO - Successfully loaded 251 rows for C
+2025-09-26 22:13:30,273 - INFO - Fetching data for V
+2025-09-26 22:13:30,412 - INFO - Successfully loaded 251 rows for V
+2025-09-26 22:13:30,412 - INFO - Fetching data for MA
+2025-09-26 22:13:30,558 - INFO - Successfully loaded 251 rows for MA
+2025-09-26 22:13:30,558 - INFO - Fetching data for PYPL
+2025-09-26 22:13:30,651 - INFO - Successfully loaded 251 rows for PYPL
+2025-09-26 22:13:30,651 - INFO - Fetching data for JNJ
+2025-09-26 22:13:30,836 - INFO - Successfully loaded 251 rows for JNJ
+2025-09-26 22:13:30,837 - INFO - Fetching data for PFE
+2025-09-26 22:13:31,019 - INFO - Successfully loaded 251 rows for PFE
+2025-09-26 22:13:31,019 - INFO - Fetching data for MRK
+2025-09-26 22:13:31,210 - INFO - Successfully loaded 251 rows for MRK
+2025-09-26 22:13:31,211 - INFO - Fetching data for UNH
+2025-09-26 22:13:31,366 - INFO - Successfully loaded 251 rows for UNH
+2025-09-26 22:13:31,366 - INFO - Fetching data for ABBV
+2025-09-26 22:13:31,485 - INFO - Successfully loaded 251 rows for ABBV
+2025-09-26 22:13:31,486 - INFO - Fetching data for WMT
+2025-09-26 22:13:31,644 - INFO - Successfully loaded 251 rows for WMT
+2025-09-26 22:13:31,644 - INFO - Fetching data for COST
+2025-09-26 22:13:31,770 - INFO - Successfully loaded 251 rows for COST
+2025-09-26 22:13:31,770 - INFO - Fetching data for PG
+2025-09-26 22:13:31,953 - INFO - Successfully loaded 251 rows for PG
+2025-09-26 22:13:31,954 - INFO - Fetching data for KO
+2025-09-26 22:13:32,138 - INFO - Successfully loaded 251 rows for KO
+2025-09-26 22:13:32,139 - INFO - Fetching data for PEP
+2025-09-26 22:13:32,275 - INFO - Successfully loaded 251 rows for PEP
+2025-09-26 22:13:32,276 - INFO - Fetching data for MCD
+2025-09-26 22:13:32,459 - INFO - Successfully loaded 251 rows for MCD
+2025-09-26 22:13:32,459 - INFO - Fetching data for TGT
+2025-09-26 22:13:32,590 - INFO - Successfully loaded 251 rows for TGT
+2025-09-26 22:13:32,590 - INFO - Fetching data for XOM
+2025-09-26 22:13:32,789 - INFO - Successfully loaded 251 rows for XOM
+2025-09-26 22:13:32,789 - INFO - Fetching data for CVX
+2025-09-26 22:13:32,974 - INFO - Successfully loaded 251 rows for CVX
+2025-09-26 22:13:32,975 - INFO - Fetching data for COP
+2025-09-26 22:13:33,159 - INFO - Successfully loaded 251 rows for COP
+2025-09-26 22:13:33,159 - INFO - Fetching data for BA
+2025-09-26 22:13:33,339 - INFO - Successfully loaded 251 rows for BA
+2025-09-26 22:13:33,340 - INFO - Fetching data for CAT
+2025-09-26 22:13:33,517 - INFO - Successfully loaded 251 rows for CAT
+2025-09-26 22:13:33,517 - INFO - Fetching data for GE
+2025-09-26 22:13:33,698 - INFO - Successfully loaded 251 rows for GE
+2025-09-26 22:13:33,699 - INFO - Fetching data for MMM
+2025-09-26 22:13:33,903 - INFO - Successfully loaded 251 rows for MMM
+2025-09-26 22:13:33,903 - INFO - Fetching data for DIS
+2025-09-26 22:13:34,101 - INFO - Successfully loaded 251 rows for DIS
+2025-09-26 22:13:34,102 - INFO - Fetching data for CMCSA
+2025-09-26 22:13:34,243 - INFO - Successfully loaded 251 rows for CMCSA
+2025-09-26 22:13:34,243 - INFO - Fetching data for T
+2025-09-26 22:13:34,386 - INFO - Successfully loaded 251 rows for T
+2025-09-26 22:13:34,386 - INFO - Fetching data for VZ
+2025-09-26 22:13:34,530 - INFO - Successfully loaded 251 rows for VZ
+2025-09-26 22:13:34,531 - INFO - Fetching data for ORCL
+2025-09-26 22:13:34,650 - INFO - Successfully loaded 251 rows for ORCL
+2025-09-26 22:13:34,650 - INFO - Fetching data for ADBE
+2025-09-26 22:13:34,788 - INFO - Successfully loaded 251 rows for ADBE
+2025-09-26 22:13:34,789 - INFO - Fetching data for CRM
+2025-09-26 22:13:34,904 - INFO - Successfully loaded 251 rows for CRM
+2025-09-26 22:13:34,905 - INFO - Fetching data for INTC
+2025-09-26 22:13:35,053 - INFO - Successfully loaded 251 rows for INTC
+2025-09-26 22:13:35,053 - INFO - Fetching data for AMD
+2025-09-26 22:13:35,141 - INFO - Successfully loaded 251 rows for AMD
+2025-09-26 22:13:36,315 - INFO - Saved combined daily data: 11044 rows
+2025-09-26 22:13:36,316 - WARNING - Failed to load data for: ['BRK.B']
+2025-09-26 22:13:36,317 - INFO - Starting comprehensive analysis for all stocks
+2025-09-26 22:13:36,318 - INFO - Analyzing AAPL
+2025-09-26 22:13:36,326 - INFO - Analyzing MSFT
+2025-09-26 22:13:36,339 - INFO - Analyzing GOOGL
+2025-09-26 22:13:36,348 - INFO - Analyzing AMZN
+2025-09-26 22:13:36,357 - INFO - Analyzing TSLA
+2025-09-26 22:13:36,373 - INFO - Analyzing NVDA
+2025-09-26 22:13:36,383 - INFO - Analyzing META
+2025-09-26 22:13:36,390 - INFO - Analyzing NFLX
+2025-09-26 22:13:36,399 - INFO - Analyzing JPM
+2025-09-26 22:13:36,410 - INFO - Analyzing BAC
+2025-09-26 22:13:36,420 - INFO - Analyzing GS
+2025-09-26 22:13:36,427 - INFO - Analyzing MS
+2025-09-26 22:13:36,434 - INFO - Analyzing C
+2025-09-26 22:13:36,444 - INFO - Analyzing V
+2025-09-26 22:13:36,451 - INFO - Analyzing MA
+2025-09-26 22:13:36,459 - INFO - Analyzing PYPL
+2025-09-26 22:13:36,467 - INFO - Analyzing JNJ
+2025-09-26 22:13:36,475 - INFO - Analyzing PFE
+2025-09-26 22:13:36,482 - INFO - Analyzing MRK
+2025-09-26 22:13:36,489 - INFO - Analyzing UNH
+2025-09-26 22:13:36,497 - INFO - Analyzing ABBV
+2025-09-26 22:13:36,505 - INFO - Analyzing WMT
+2025-09-26 22:13:36,515 - INFO - Analyzing COST
+2025-09-26 22:13:36,529 - INFO - Analyzing PG
+2025-09-26 22:13:36,539 - INFO - Analyzing KO
+2025-09-26 22:13:36,547 - INFO - Analyzing PEP
+2025-09-26 22:13:36,555 - INFO - Analyzing MCD
+2025-09-26 22:13:36,563 - INFO - Analyzing TGT
+2025-09-26 22:13:36,570 - INFO - Analyzing XOM
+2025-09-26 22:13:36,578 - INFO - Analyzing CVX
+2025-09-26 22:13:36,588 - INFO - Analyzing COP
+2025-09-26 22:13:36,596 - INFO - Analyzing BA
+2025-09-26 22:13:36,604 - INFO - Analyzing CAT
+2025-09-26 22:13:36,612 - INFO - Analyzing GE
+2025-09-26 22:13:36,620 - INFO - Analyzing MMM
+2025-09-26 22:13:36,629 - INFO - Analyzing DIS
+2025-09-26 22:13:36,637 - INFO - Analyzing CMCSA
+2025-09-26 22:13:36,646 - INFO - Analyzing T
+2025-09-26 22:13:36,653 - INFO - Analyzing VZ
+2025-09-26 22:13:36,662 - INFO - Analyzing ORCL
+2025-09-26 22:13:36,670 - INFO - Analyzing ADBE
+2025-09-26 22:13:36,678 - INFO - Analyzing CRM
+2025-09-26 22:13:36,688 - INFO - Analyzing INTC
+2025-09-26 22:13:36,699 - INFO - Analyzing AMD
+2025-09-26 22:13:36,709 - INFO - Saved SMA analysis to multi_stock_analysis/sma_analysis.csv
+2025-09-26 22:13:36,713 - INFO - Saved runs analysis to multi_stock_analysis/runs_analysis.csv
+2025-09-26 22:13:36,717 - INFO - Saved returns analysis to multi_stock_analysis/returns_analysis.csv
+2025-09-26 22:13:36,720 - INFO - Saved profit analysis to multi_stock_analysis/profit_analysis.csv
+2025-09-26 22:13:36,778 - INFO - Saved correlation matrix to multi_stock_analysis/correlation_matrix.csv
+2025-09-26 22:13:36,781 - INFO - Saved portfolio summary to multi_stock_analysis/portfolio_summary.csv
+2025-09-26 22:13:36,781 - INFO - Running comprehensive validation tests
+2025-09-26 22:13:36,781 - INFO - Validating analysis for AAPL
+2025-09-26 22:13:36,783 - INFO - Validating analysis for MSFT
+2025-09-26 22:13:36,784 - INFO - Validating analysis for GOOGL
+2025-09-26 22:13:36,785 - INFO - Validating analysis for AMZN
+2025-09-26 22:13:36,786 - INFO - Validating analysis for TSLA
+2025-09-26 22:13:36,788 - INFO - Validating analysis for NVDA
+2025-09-26 22:13:36,789 - INFO - Validating analysis for META
+2025-09-26 22:13:36,791 - INFO - Validating analysis for NFLX
+2025-09-26 22:13:36,793 - INFO - Validating analysis for JPM
+2025-09-26 22:13:36,795 - INFO - Validating analysis for BAC
+2025-09-26 22:13:36,796 - INFO - Validating analysis for GS
+2025-09-26 22:13:36,798 - INFO - Validating analysis for MS
+2025-09-26 22:13:36,799 - INFO - Validating analysis for C
+2025-09-26 22:13:36,801 - INFO - Validating analysis for V
+2025-09-26 22:13:36,803 - INFO - Validating analysis for MA
+2025-09-26 22:13:36,805 - INFO - Validating analysis for PYPL
+2025-09-26 22:13:36,806 - INFO - Validating analysis for JNJ
+2025-09-26 22:13:36,808 - INFO - Validating analysis for PFE
+2025-09-26 22:13:36,809 - INFO - Validating analysis for MRK
+2025-09-26 22:13:36,810 - INFO - Validating analysis for UNH
+2025-09-26 22:13:36,812 - INFO - Validating analysis for ABBV
+2025-09-26 22:13:36,813 - INFO - Validating analysis for WMT
+2025-09-26 22:13:36,815 - INFO - Validating analysis for COST
+2025-09-26 22:13:36,816 - INFO - Validating analysis for PG
+2025-09-26 22:13:36,817 - INFO - Validating analysis for KO
+2025-09-26 22:13:36,819 - INFO - Validating analysis for PEP
+2025-09-26 22:13:36,821 - INFO - Validating analysis for MCD
+2025-09-26 22:13:36,823 - INFO - Validating analysis for TGT
+2025-09-26 22:13:36,826 - INFO - Validating analysis for XOM
+2025-09-26 22:13:36,827 - INFO - Validating analysis for CVX
+2025-09-26 22:13:36,830 - INFO - Validating analysis for COP
+2025-09-26 22:13:36,831 - INFO - Validating analysis for BA
+2025-09-26 22:13:36,833 - INFO - Validating analysis for CAT
+2025-09-26 22:13:36,835 - INFO - Validating analysis for GE
+2025-09-26 22:13:36,837 - INFO - Validating analysis for MMM
+2025-09-26 22:13:36,839 - INFO - Validating analysis for DIS
+2025-09-26 22:13:36,841 - INFO - Validating analysis for CMCSA
+2025-09-26 22:13:36,843 - INFO - Validating analysis for T
+2025-09-26 22:13:36,845 - INFO - Validating analysis for VZ
+2025-09-26 22:13:36,848 - INFO - Validating analysis for ORCL
+2025-09-26 22:13:36,849 - INFO - Validating analysis for ADBE
+2025-09-26 22:13:36,851 - INFO - Validating analysis for CRM
+2025-09-26 22:13:36,853 - INFO - Validating analysis for INTC
+2025-09-26 22:13:36,855 - INFO - Validating analysis for AMD
+2025-09-26 22:13:36,859 - INFO - Saved validation results to multi_stock_analysis/validation_results.csv
+2025-09-26 22:13:49,418 - INFO - Saved comprehensive dashboard to multi_stock_analysis/comprehensive_dashboard.png
+2025-09-26 22:13:49,419 - INFO - Creating individual chart for AAPL
+2025-09-26 22:13:52,004 - INFO - Saved AAPL chart to multi_stock_analysis/AAPL_detailed_analysis.png
+2025-09-26 22:13:52,005 - INFO - Creating individual chart for MSFT
+2025-09-26 22:13:55,029 - INFO - Saved MSFT chart to multi_stock_analysis/MSFT_detailed_analysis.png
+2025-09-26 22:13:55,030 - INFO - Creating individual chart for GOOGL
+2025-09-26 22:13:57,552 - INFO - Saved GOOGL chart to multi_stock_analysis/GOOGL_detailed_analysis.png
+2025-09-26 22:13:57,553 - INFO - Creating individual chart for AMZN
+2025-09-26 22:14:00,149 - INFO - Saved AMZN chart to multi_stock_analysis/AMZN_detailed_analysis.png
+2025-09-26 22:14:00,150 - INFO - Creating individual chart for TSLA
+2025-09-26 22:14:02,988 - INFO - Saved TSLA chart to multi_stock_analysis/TSLA_detailed_analysis.png
+2025-09-26 22:14:02,988 - INFO - Creating individual chart for NVDA
+2025-09-26 22:14:05,434 - INFO - Saved NVDA chart to multi_stock_analysis/NVDA_detailed_analysis.png
+2025-09-26 22:14:05,435 - INFO - Creating individual chart for META
+2025-09-26 22:14:07,940 - INFO - Saved META chart to multi_stock_analysis/META_detailed_analysis.png
+2025-09-26 22:14:07,942 - INFO - Creating individual chart for NFLX
+2025-09-26 22:14:10,838 - INFO - Saved NFLX chart to multi_stock_analysis/NFLX_detailed_analysis.png
+2025-09-26 22:14:10,838 - INFO - Creating individual chart for JPM
+2025-09-26 22:14:13,337 - INFO - Saved JPM chart to multi_stock_analysis/JPM_detailed_analysis.png
+2025-09-26 22:14:13,338 - INFO - Creating individual chart for BAC
+2025-09-26 22:14:15,800 - INFO - Saved BAC chart to multi_stock_analysis/BAC_detailed_analysis.png
+2025-09-26 22:14:15,800 - INFO - Creating individual chart for GS
+2025-09-26 22:14:18,191 - INFO - Saved GS chart to multi_stock_analysis/GS_detailed_analysis.png
+2025-09-26 22:14:18,192 - INFO - Creating individual chart for MS
+2025-09-26 22:14:21,319 - INFO - Saved MS chart to multi_stock_analysis/MS_detailed_analysis.png
+2025-09-26 22:14:21,320 - INFO - Creating individual chart for C
+2025-09-26 22:14:23,702 - INFO - Saved C chart to multi_stock_analysis/C_detailed_analysis.png
+2025-09-26 22:14:23,703 - INFO - Creating individual chart for V
+2025-09-26 22:14:26,113 - INFO - Saved V chart to multi_stock_analysis/V_detailed_analysis.png
+2025-09-26 22:14:26,113 - INFO - Creating individual chart for MA
+2025-09-26 22:14:28,648 - INFO - Saved MA chart to multi_stock_analysis/MA_detailed_analysis.png
+2025-09-26 22:14:28,648 - INFO - Creating individual chart for PYPL
+2025-09-26 22:14:31,108 - INFO - Saved PYPL chart to multi_stock_analysis/PYPL_detailed_analysis.png
+2025-09-26 22:14:31,108 - INFO - Creating individual chart for JNJ
+2025-09-26 22:14:34,206 - INFO - Saved JNJ chart to multi_stock_analysis/JNJ_detailed_analysis.png
+2025-09-26 22:14:34,206 - INFO - Creating individual chart for PFE
+2025-09-26 22:14:36,862 - INFO - Saved PFE chart to multi_stock_analysis/PFE_detailed_analysis.png
+2025-09-26 22:14:36,862 - INFO - Creating individual chart for MRK
+2025-09-26 22:14:39,558 - INFO - Saved MRK chart to multi_stock_analysis/MRK_detailed_analysis.png
+2025-09-26 22:14:39,560 - INFO - Creating individual chart for UNH
+2025-09-26 22:14:41,998 - INFO - Saved UNH chart to multi_stock_analysis/UNH_detailed_analysis.png
+2025-09-26 22:14:41,999 - INFO - Creating individual chart for ABBV
+2025-09-26 22:14:44,443 - INFO - Saved ABBV chart to multi_stock_analysis/ABBV_detailed_analysis.png
+2025-09-26 22:14:44,444 - INFO - Creating individual chart for WMT
+2025-09-26 22:14:46,757 - INFO - Saved WMT chart to multi_stock_analysis/WMT_detailed_analysis.png
+2025-09-26 22:14:46,757 - INFO - Creating individual chart for COST
+2025-09-26 22:14:49,921 - INFO - Saved COST chart to multi_stock_analysis/COST_detailed_analysis.png
+2025-09-26 22:14:49,922 - INFO - Creating individual chart for PG
+2025-09-26 22:14:52,189 - INFO - Saved PG chart to multi_stock_analysis/PG_detailed_analysis.png
+2025-09-26 22:14:52,190 - INFO - Creating individual chart for KO
+2025-09-26 22:14:54,448 - INFO - Saved KO chart to multi_stock_analysis/KO_detailed_analysis.png
+2025-09-26 22:14:54,449 - INFO - Creating individual chart for PEP
+2025-09-26 22:14:56,770 - INFO - Saved PEP chart to multi_stock_analysis/PEP_detailed_analysis.png
+2025-09-26 22:14:56,771 - INFO - Creating individual chart for MCD
+2025-09-26 22:14:59,120 - INFO - Saved MCD chart to multi_stock_analysis/MCD_detailed_analysis.png
+2025-09-26 22:14:59,121 - INFO - Creating individual chart for TGT
+2025-09-26 22:15:01,575 - INFO - Saved TGT chart to multi_stock_analysis/TGT_detailed_analysis.png
+2025-09-26 22:15:01,576 - INFO - Creating individual chart for XOM
+2025-09-26 22:15:03,918 - INFO - Saved XOM chart to multi_stock_analysis/XOM_detailed_analysis.png
+2025-09-26 22:15:03,923 - INFO - Creating individual chart for CVX
+2025-09-26 22:15:06,340 - INFO - Saved CVX chart to multi_stock_analysis/CVX_detailed_analysis.png
+2025-09-26 22:15:06,341 - INFO - Creating individual chart for COP
+2025-09-26 22:15:09,813 - INFO - Saved COP chart to multi_stock_analysis/COP_detailed_analysis.png
+2025-09-26 22:15:09,814 - INFO - Creating individual chart for BA
+2025-09-26 22:15:12,226 - INFO - Saved BA chart to multi_stock_analysis/BA_detailed_analysis.png
+2025-09-26 22:15:12,227 - INFO - Creating individual chart for CAT
+2025-09-26 22:15:14,686 - INFO - Saved CAT chart to multi_stock_analysis/CAT_detailed_analysis.png
+2025-09-26 22:15:14,687 - INFO - Creating individual chart for GE
+2025-09-26 22:15:17,147 - INFO - Saved GE chart to multi_stock_analysis/GE_detailed_analysis.png
+2025-09-26 22:15:17,148 - INFO - Creating individual chart for MMM
+2025-09-26 22:15:19,706 - INFO - Saved MMM chart to multi_stock_analysis/MMM_detailed_analysis.png
+2025-09-26 22:15:19,707 - INFO - Creating individual chart for DIS
+2025-09-26 22:15:22,221 - INFO - Saved DIS chart to multi_stock_analysis/DIS_detailed_analysis.png
+2025-09-26 22:15:22,222 - INFO - Creating individual chart for CMCSA
+2025-09-26 22:15:24,725 - INFO - Saved CMCSA chart to multi_stock_analysis/CMCSA_detailed_analysis.png
+2025-09-26 22:15:24,727 - INFO - Creating individual chart for T
+2025-09-26 22:15:27,134 - INFO - Saved T chart to multi_stock_analysis/T_detailed_analysis.png
+2025-09-26 22:15:27,135 - INFO - Creating individual chart for VZ
+2025-09-26 22:15:29,553 - INFO - Saved VZ chart to multi_stock_analysis/VZ_detailed_analysis.png
+2025-09-26 22:15:29,554 - INFO - Creating individual chart for ORCL
+2025-09-26 22:15:31,956 - INFO - Saved ORCL chart to multi_stock_analysis/ORCL_detailed_analysis.png
+2025-09-26 22:15:31,957 - INFO - Creating individual chart for ADBE
+2025-09-26 22:15:35,969 - INFO - Saved ADBE chart to multi_stock_analysis/ADBE_detailed_analysis.png
+2025-09-26 22:15:35,969 - INFO - Creating individual chart for CRM
+2025-09-26 22:15:38,393 - INFO - Saved CRM chart to multi_stock_analysis/CRM_detailed_analysis.png
+2025-09-26 22:15:38,393 - INFO - Creating individual chart for INTC
+2025-09-26 22:15:40,844 - INFO - Saved INTC chart to multi_stock_analysis/INTC_detailed_analysis.png
+2025-09-26 22:15:40,845 - INFO - Creating individual chart for AMD
+2025-09-26 22:15:43,180 - INFO - Saved AMD chart to multi_stock_analysis/AMD_detailed_analysis.png
+2025-09-26 22:15:43,181 - INFO - Generating comprehensive HTML report
+2025-09-26 22:15:43,182 - INFO - Generating comprehensive interactive HTML report
+2025-09-26 22:15:43,262 - INFO - Saved enhanced interactive report to multi_stock_analysis/comprehensive_report.html
+2025-09-26 22:18:35,656 - INFO - Loading data for 44 stocks with period: 1y
+2025-09-26 22:18:35,656 - INFO - Fetching data for AAPL
+2025-09-26 22:18:36,093 - INFO - Successfully loaded 251 rows for AAPL
+2025-09-26 22:18:36,094 - INFO - Fetching data for MSFT
+2025-09-26 22:18:36,219 - INFO - Successfully loaded 251 rows for MSFT
+2025-09-26 22:18:36,219 - INFO - Fetching data for GOOGL
+2025-09-26 22:18:36,313 - INFO - Successfully loaded 251 rows for GOOGL
+2025-09-26 22:18:36,314 - INFO - Fetching data for AMZN
+2025-09-26 22:18:36,396 - INFO - Successfully loaded 251 rows for AMZN
+2025-09-26 22:18:36,396 - INFO - Fetching data for TSLA
+2025-09-26 22:18:36,479 - INFO - Successfully loaded 251 rows for TSLA
+2025-09-26 22:18:36,479 - INFO - Fetching data for NVDA
+2025-09-26 22:18:36,573 - INFO - Successfully loaded 251 rows for NVDA
+2025-09-26 22:18:36,573 - INFO - Fetching data for META
+2025-09-26 22:18:36,663 - INFO - Successfully loaded 251 rows for META
+2025-09-26 22:18:36,664 - INFO - Fetching data for NFLX
+2025-09-26 22:18:36,748 - INFO - Successfully loaded 251 rows for NFLX
+2025-09-26 22:18:36,748 - INFO - Fetching data for JPM
+2025-09-26 22:18:36,919 - INFO - Successfully loaded 251 rows for JPM
+2025-09-26 22:18:36,920 - INFO - Fetching data for BAC
+2025-09-26 22:18:37,043 - INFO - Successfully loaded 251 rows for BAC
+2025-09-26 22:18:37,043 - INFO - Fetching data for GS
+2025-09-26 22:18:37,192 - INFO - Successfully loaded 251 rows for GS
+2025-09-26 22:18:37,192 - INFO - Fetching data for MS
+2025-09-26 22:18:37,314 - INFO - Successfully loaded 251 rows for MS
+2025-09-26 22:18:37,314 - INFO - Fetching data for C
+2025-09-26 22:18:37,451 - INFO - Successfully loaded 251 rows for C
+2025-09-26 22:18:37,451 - INFO - Fetching data for V
+2025-09-26 22:18:37,554 - INFO - Successfully loaded 251 rows for V
+2025-09-26 22:18:37,554 - INFO - Fetching data for MA
+2025-09-26 22:18:37,650 - INFO - Successfully loaded 251 rows for MA
+2025-09-26 22:18:37,650 - INFO - Fetching data for PYPL
+2025-09-26 22:18:37,740 - INFO - Successfully loaded 251 rows for PYPL
+2025-09-26 22:18:37,740 - INFO - Fetching data for JNJ
+2025-09-26 22:18:37,896 - INFO - Successfully loaded 251 rows for JNJ
+2025-09-26 22:18:37,896 - INFO - Fetching data for PFE
+2025-09-26 22:18:38,060 - INFO - Successfully loaded 251 rows for PFE
+2025-09-26 22:18:38,060 - INFO - Fetching data for MRK
+2025-09-26 22:18:38,223 - INFO - Successfully loaded 251 rows for MRK
+2025-09-26 22:18:38,223 - INFO - Fetching data for UNH
+2025-09-26 22:18:38,354 - INFO - Successfully loaded 251 rows for UNH
+2025-09-26 22:18:38,354 - INFO - Fetching data for ABBV
+2025-09-26 22:18:38,453 - INFO - Successfully loaded 251 rows for ABBV
+2025-09-26 22:18:38,453 - INFO - Fetching data for WMT
+2025-09-26 22:18:38,634 - INFO - Successfully loaded 251 rows for WMT
+2025-09-26 22:18:38,634 - INFO - Fetching data for COST
+2025-09-26 22:18:38,771 - INFO - Successfully loaded 251 rows for COST
+2025-09-26 22:18:38,771 - INFO - Fetching data for PG
+2025-09-26 22:18:38,981 - INFO - Successfully loaded 251 rows for PG
+2025-09-26 22:18:38,981 - INFO - Fetching data for KO
+2025-09-26 22:18:39,149 - INFO - Successfully loaded 251 rows for KO
+2025-09-26 22:18:39,150 - INFO - Fetching data for PEP
+2025-09-26 22:18:39,320 - INFO - Successfully loaded 251 rows for PEP
+2025-09-26 22:18:39,321 - INFO - Fetching data for MCD
+2025-09-26 22:18:39,548 - INFO - Successfully loaded 251 rows for MCD
+2025-09-26 22:18:39,548 - INFO - Fetching data for TGT
+2025-09-26 22:18:39,703 - INFO - Successfully loaded 251 rows for TGT
+2025-09-26 22:18:39,704 - INFO - Fetching data for XOM
+2025-09-26 22:18:39,865 - INFO - Successfully loaded 251 rows for XOM
+2025-09-26 22:18:39,865 - INFO - Fetching data for CVX
+2025-09-26 22:18:40,055 - INFO - Successfully loaded 251 rows for CVX
+2025-09-26 22:18:40,055 - INFO - Fetching data for COP
+2025-09-26 22:18:45,127 - INFO - Successfully loaded 251 rows for COP
+2025-09-26 22:18:45,127 - INFO - Fetching data for BA
+2025-09-26 22:18:45,427 - INFO - Successfully loaded 251 rows for BA
+2025-09-26 22:18:45,427 - INFO - Fetching data for CAT
+2025-09-26 22:18:45,592 - INFO - Successfully loaded 251 rows for CAT
+2025-09-26 22:18:45,592 - INFO - Fetching data for GE
+2025-09-26 22:18:45,745 - INFO - Successfully loaded 251 rows for GE
+2025-09-26 22:18:45,745 - INFO - Fetching data for MMM
+2025-09-26 22:18:45,941 - INFO - Successfully loaded 251 rows for MMM
+2025-09-26 22:18:45,941 - INFO - Fetching data for DIS
+2025-09-26 22:18:46,105 - INFO - Successfully loaded 251 rows for DIS
+2025-09-26 22:18:46,106 - INFO - Fetching data for CMCSA
+2025-09-26 22:18:46,265 - INFO - Successfully loaded 251 rows for CMCSA
+2025-09-26 22:18:46,265 - INFO - Fetching data for T
+2025-09-26 22:18:46,415 - INFO - Successfully loaded 251 rows for T
+2025-09-26 22:18:46,415 - INFO - Fetching data for VZ
+2025-09-26 22:18:46,588 - INFO - Successfully loaded 251 rows for VZ
+2025-09-26 22:18:46,588 - INFO - Fetching data for ORCL
+2025-09-26 22:18:46,703 - INFO - Successfully loaded 251 rows for ORCL
+2025-09-26 22:18:46,703 - INFO - Fetching data for ADBE
+2025-09-26 22:18:46,806 - INFO - Successfully loaded 251 rows for ADBE
+2025-09-26 22:18:46,806 - INFO - Fetching data for CRM
+2025-09-26 22:18:46,919 - INFO - Successfully loaded 251 rows for CRM
+2025-09-26 22:18:46,919 - INFO - Fetching data for INTC
+2025-09-26 22:18:47,037 - INFO - Successfully loaded 251 rows for INTC
+2025-09-26 22:18:47,037 - INFO - Fetching data for AMD
+2025-09-26 22:18:47,127 - INFO - Successfully loaded 251 rows for AMD
+2025-09-26 22:18:48,268 - INFO - Saved combined daily data: 11044 rows
+2025-09-26 22:18:48,269 - INFO - Starting comprehensive analysis for all stocks
+2025-09-26 22:18:48,269 - INFO - Analyzing AAPL
+2025-09-26 22:18:48,276 - INFO - Analyzing MSFT
+2025-09-26 22:18:48,282 - INFO - Analyzing GOOGL
+2025-09-26 22:18:48,289 - INFO - Analyzing AMZN
+2025-09-26 22:18:48,297 - INFO - Analyzing TSLA
+2025-09-26 22:18:48,309 - INFO - Analyzing NVDA
+2025-09-26 22:18:48,319 - INFO - Analyzing META
+2025-09-26 22:18:48,327 - INFO - Analyzing NFLX
+2025-09-26 22:18:48,338 - INFO - Analyzing JPM
+2025-09-26 22:18:48,346 - INFO - Analyzing BAC
+2025-09-26 22:18:48,356 - INFO - Analyzing GS
+2025-09-26 22:18:48,367 - INFO - Analyzing MS
+2025-09-26 22:18:48,378 - INFO - Analyzing C
+2025-09-26 22:18:48,391 - INFO - Analyzing V
+2025-09-26 22:18:48,400 - INFO - Analyzing MA
+2025-09-26 22:18:48,408 - INFO - Analyzing PYPL
+2025-09-26 22:18:48,419 - INFO - Analyzing JNJ
+2025-09-26 22:18:48,428 - INFO - Analyzing PFE
+2025-09-26 22:18:48,437 - INFO - Analyzing MRK
+2025-09-26 22:18:48,444 - INFO - Analyzing UNH
+2025-09-26 22:18:48,454 - INFO - Analyzing ABBV
+2025-09-26 22:18:48,461 - INFO - Analyzing WMT
+2025-09-26 22:18:48,471 - INFO - Analyzing COST
+2025-09-26 22:18:48,477 - INFO - Analyzing PG
+2025-09-26 22:18:48,487 - INFO - Analyzing KO
+2025-09-26 22:18:48,493 - INFO - Analyzing PEP
+2025-09-26 22:18:48,503 - INFO - Analyzing MCD
+2025-09-26 22:18:48,511 - INFO - Analyzing TGT
+2025-09-26 22:18:48,520 - INFO - Analyzing XOM
+2025-09-26 22:18:48,527 - INFO - Analyzing CVX
+2025-09-26 22:18:48,537 - INFO - Analyzing COP
+2025-09-26 22:18:48,544 - INFO - Analyzing BA
+2025-09-26 22:18:48,554 - INFO - Analyzing CAT
+2025-09-26 22:18:48,563 - INFO - Analyzing GE
+2025-09-26 22:18:48,571 - INFO - Analyzing MMM
+2025-09-26 22:18:48,578 - INFO - Analyzing DIS
+2025-09-26 22:18:48,587 - INFO - Analyzing CMCSA
+2025-09-26 22:18:48,594 - INFO - Analyzing T
+2025-09-26 22:18:48,602 - INFO - Analyzing VZ
+2025-09-26 22:18:48,609 - INFO - Analyzing ORCL
+2025-09-26 22:18:48,615 - INFO - Analyzing ADBE
+2025-09-26 22:18:48,624 - INFO - Analyzing CRM
+2025-09-26 22:18:48,631 - INFO - Analyzing INTC
+2025-09-26 22:18:48,640 - INFO - Analyzing AMD
+2025-09-26 22:18:48,649 - INFO - Saved SMA analysis to multi_stock_analysis/sma_analysis.csv
+2025-09-26 22:18:48,651 - INFO - Saved runs analysis to multi_stock_analysis/runs_analysis.csv
+2025-09-26 22:18:48,654 - INFO - Saved returns analysis to multi_stock_analysis/returns_analysis.csv
+2025-09-26 22:18:48,657 - INFO - Saved profit analysis to multi_stock_analysis/profit_analysis.csv
+2025-09-26 22:18:48,723 - INFO - Saved correlation matrix to multi_stock_analysis/correlation_matrix.csv
+2025-09-26 22:18:48,726 - INFO - Saved portfolio summary to multi_stock_analysis/portfolio_summary.csv
+2025-09-26 22:18:48,726 - INFO - Running comprehensive validation tests
+2025-09-26 22:18:48,727 - INFO - Validating analysis for AAPL
+2025-09-26 22:18:48,729 - INFO - Validating analysis for MSFT
+2025-09-26 22:18:48,730 - INFO - Validating analysis for GOOGL
+2025-09-26 22:18:48,732 - INFO - Validating analysis for AMZN
+2025-09-26 22:18:48,734 - INFO - Validating analysis for TSLA
+2025-09-26 22:18:48,735 - INFO - Validating analysis for NVDA
+2025-09-26 22:18:48,737 - INFO - Validating analysis for META
+2025-09-26 22:18:48,738 - INFO - Validating analysis for NFLX
+2025-09-26 22:18:48,739 - INFO - Validating analysis for JPM
+2025-09-26 22:18:48,741 - INFO - Validating analysis for BAC
+2025-09-26 22:18:48,742 - INFO - Validating analysis for GS
+2025-09-26 22:18:48,744 - INFO - Validating analysis for MS
+2025-09-26 22:18:48,745 - INFO - Validating analysis for C
+2025-09-26 22:18:48,746 - INFO - Validating analysis for V
+2025-09-26 22:18:48,748 - INFO - Validating analysis for MA
+2025-09-26 22:18:48,749 - INFO - Validating analysis for PYPL
+2025-09-26 22:18:48,751 - INFO - Validating analysis for JNJ
+2025-09-26 22:18:48,753 - INFO - Validating analysis for PFE
+2025-09-26 22:18:48,755 - INFO - Validating analysis for MRK
+2025-09-26 22:18:48,756 - INFO - Validating analysis for UNH
+2025-09-26 22:18:48,758 - INFO - Validating analysis for ABBV
+2025-09-26 22:18:48,760 - INFO - Validating analysis for WMT
+2025-09-26 22:18:48,761 - INFO - Validating analysis for COST
+2025-09-26 22:18:48,763 - INFO - Validating analysis for PG
+2025-09-26 22:18:48,764 - INFO - Validating analysis for KO
+2025-09-26 22:18:48,766 - INFO - Validating analysis for PEP
+2025-09-26 22:18:48,768 - INFO - Validating analysis for MCD
+2025-09-26 22:18:48,769 - INFO - Validating analysis for TGT
+2025-09-26 22:18:48,771 - INFO - Validating analysis for XOM
+2025-09-26 22:18:48,772 - INFO - Validating analysis for CVX
+2025-09-26 22:18:48,774 - INFO - Validating analysis for COP
+2025-09-26 22:18:48,776 - INFO - Validating analysis for BA
+2025-09-26 22:18:48,778 - INFO - Validating analysis for CAT
+2025-09-26 22:18:48,780 - INFO - Validating analysis for GE
+2025-09-26 22:18:48,782 - INFO - Validating analysis for MMM
+2025-09-26 22:18:48,783 - INFO - Validating analysis for DIS
+2025-09-26 22:18:48,786 - INFO - Validating analysis for CMCSA
+2025-09-26 22:18:48,787 - INFO - Validating analysis for T
+2025-09-26 22:18:48,789 - INFO - Validating analysis for VZ
+2025-09-26 22:18:48,791 - INFO - Validating analysis for ORCL
+2025-09-26 22:18:48,793 - INFO - Validating analysis for ADBE
+2025-09-26 22:18:48,794 - INFO - Validating analysis for CRM
+2025-09-26 22:18:48,796 - INFO - Validating analysis for INTC
+2025-09-26 22:18:48,798 - INFO - Validating analysis for AMD
+2025-09-26 22:18:48,802 - INFO - Saved validation results to multi_stock_analysis/validation_results.csv
+2025-09-26 22:19:00,535 - INFO - Saved comprehensive dashboard to multi_stock_analysis/comprehensive_dashboard.png
+2025-09-26 22:19:00,536 - INFO - Creating individual chart for AAPL
+2025-09-26 22:19:02,945 - INFO - Saved AAPL chart to multi_stock_analysis/AAPL_detailed_analysis.png
+2025-09-26 22:19:02,946 - INFO - Creating individual chart for MSFT
+2025-09-26 22:19:05,469 - INFO - Saved MSFT chart to multi_stock_analysis/MSFT_detailed_analysis.png
+2025-09-26 22:19:05,470 - INFO - Creating individual chart for GOOGL
+2025-09-26 22:19:07,829 - INFO - Saved GOOGL chart to multi_stock_analysis/GOOGL_detailed_analysis.png
+2025-09-26 22:19:07,830 - INFO - Creating individual chart for AMZN
+2025-09-26 22:19:10,184 - INFO - Saved AMZN chart to multi_stock_analysis/AMZN_detailed_analysis.png
+2025-09-26 22:19:10,185 - INFO - Creating individual chart for TSLA
+2025-09-26 22:19:12,834 - INFO - Saved TSLA chart to multi_stock_analysis/TSLA_detailed_analysis.png
+2025-09-26 22:19:12,835 - INFO - Creating individual chart for NVDA
+2025-09-26 22:19:15,182 - INFO - Saved NVDA chart to multi_stock_analysis/NVDA_detailed_analysis.png
+2025-09-26 22:19:15,182 - INFO - Creating individual chart for META
+2025-09-26 22:19:17,566 - INFO - Saved META chart to multi_stock_analysis/META_detailed_analysis.png
+2025-09-26 22:19:17,567 - INFO - Creating individual chart for NFLX
+2025-09-26 22:19:20,304 - INFO - Saved NFLX chart to multi_stock_analysis/NFLX_detailed_analysis.png
+2025-09-26 22:19:20,304 - INFO - Creating individual chart for JPM
+2025-09-26 22:19:23,077 - INFO - Saved JPM chart to multi_stock_analysis/JPM_detailed_analysis.png
+2025-09-26 22:19:23,078 - INFO - Creating individual chart for BAC
+2025-09-26 22:19:25,638 - INFO - Saved BAC chart to multi_stock_analysis/BAC_detailed_analysis.png
+2025-09-26 22:19:25,639 - INFO - Creating individual chart for GS
+2025-09-26 22:19:28,216 - INFO - Saved GS chart to multi_stock_analysis/GS_detailed_analysis.png
+2025-09-26 22:19:28,217 - INFO - Creating individual chart for MS
+2025-09-26 22:19:31,219 - INFO - Saved MS chart to multi_stock_analysis/MS_detailed_analysis.png
+2025-09-26 22:19:31,219 - INFO - Creating individual chart for C
+2025-09-26 22:19:33,800 - INFO - Saved C chart to multi_stock_analysis/C_detailed_analysis.png
+2025-09-26 22:19:33,801 - INFO - Creating individual chart for V
+2025-09-26 22:19:36,245 - INFO - Saved V chart to multi_stock_analysis/V_detailed_analysis.png
+2025-09-26 22:19:36,246 - INFO - Creating individual chart for MA
+2025-09-26 22:19:38,875 - INFO - Saved MA chart to multi_stock_analysis/MA_detailed_analysis.png
+2025-09-26 22:19:38,875 - INFO - Creating individual chart for PYPL
+2025-09-26 22:19:41,436 - INFO - Saved PYPL chart to multi_stock_analysis/PYPL_detailed_analysis.png
+2025-09-26 22:19:41,436 - INFO - Creating individual chart for JNJ
+2025-09-26 22:19:44,524 - INFO - Saved JNJ chart to multi_stock_analysis/JNJ_detailed_analysis.png
+2025-09-26 22:19:44,525 - INFO - Creating individual chart for PFE
+2025-09-26 22:19:46,986 - INFO - Saved PFE chart to multi_stock_analysis/PFE_detailed_analysis.png
+2025-09-26 22:19:46,987 - INFO - Creating individual chart for MRK
+2025-09-26 22:19:49,425 - INFO - Saved MRK chart to multi_stock_analysis/MRK_detailed_analysis.png
+2025-09-26 22:19:49,426 - INFO - Creating individual chart for UNH
+2025-09-26 22:19:51,989 - INFO - Saved UNH chart to multi_stock_analysis/UNH_detailed_analysis.png
+2025-09-26 22:19:51,990 - INFO - Creating individual chart for ABBV
+2025-09-26 22:19:54,553 - INFO - Saved ABBV chart to multi_stock_analysis/ABBV_detailed_analysis.png
+2025-09-26 22:19:54,553 - INFO - Creating individual chart for WMT
+2025-09-26 22:19:57,009 - INFO - Saved WMT chart to multi_stock_analysis/WMT_detailed_analysis.png
+2025-09-26 22:19:57,010 - INFO - Creating individual chart for COST
+2025-09-26 22:20:00,298 - INFO - Saved COST chart to multi_stock_analysis/COST_detailed_analysis.png
+2025-09-26 22:20:00,299 - INFO - Creating individual chart for PG
+2025-09-26 22:20:02,744 - INFO - Saved PG chart to multi_stock_analysis/PG_detailed_analysis.png
+2025-09-26 22:20:02,745 - INFO - Creating individual chart for KO
+2025-09-26 22:20:05,351 - INFO - Saved KO chart to multi_stock_analysis/KO_detailed_analysis.png
+2025-09-26 22:20:05,351 - INFO - Creating individual chart for PEP
+2025-09-26 22:20:07,940 - INFO - Saved PEP chart to multi_stock_analysis/PEP_detailed_analysis.png
+2025-09-26 22:20:07,941 - INFO - Creating individual chart for MCD
+2025-09-26 22:20:10,288 - INFO - Saved MCD chart to multi_stock_analysis/MCD_detailed_analysis.png
+2025-09-26 22:20:10,289 - INFO - Creating individual chart for TGT
+2025-09-26 22:20:12,711 - INFO - Saved TGT chart to multi_stock_analysis/TGT_detailed_analysis.png
+2025-09-26 22:20:12,712 - INFO - Creating individual chart for XOM
+2025-09-26 22:20:15,009 - INFO - Saved XOM chart to multi_stock_analysis/XOM_detailed_analysis.png
+2025-09-26 22:20:15,010 - INFO - Creating individual chart for CVX
+2025-09-26 22:20:17,488 - INFO - Saved CVX chart to multi_stock_analysis/CVX_detailed_analysis.png
+2025-09-26 22:20:17,489 - INFO - Creating individual chart for COP
+2025-09-26 22:20:20,746 - INFO - Saved COP chart to multi_stock_analysis/COP_detailed_analysis.png
+2025-09-26 22:20:20,747 - INFO - Creating individual chart for BA
+2025-09-26 22:20:23,090 - INFO - Saved BA chart to multi_stock_analysis/BA_detailed_analysis.png
+2025-09-26 22:20:23,091 - INFO - Creating individual chart for CAT
+2025-09-26 22:20:25,412 - INFO - Saved CAT chart to multi_stock_analysis/CAT_detailed_analysis.png
+2025-09-26 22:20:25,412 - INFO - Creating individual chart for GE
+2025-09-26 22:20:27,867 - INFO - Saved GE chart to multi_stock_analysis/GE_detailed_analysis.png
+2025-09-26 22:20:27,867 - INFO - Creating individual chart for MMM
+2025-09-26 22:20:30,484 - INFO - Saved MMM chart to multi_stock_analysis/MMM_detailed_analysis.png
+2025-09-26 22:20:30,485 - INFO - Creating individual chart for DIS
+2025-09-26 22:20:33,018 - INFO - Saved DIS chart to multi_stock_analysis/DIS_detailed_analysis.png
+2025-09-26 22:20:33,019 - INFO - Creating individual chart for CMCSA
+2025-09-26 22:20:35,601 - INFO - Saved CMCSA chart to multi_stock_analysis/CMCSA_detailed_analysis.png
+2025-09-26 22:20:35,603 - INFO - Creating individual chart for T
+2025-09-26 22:20:37,979 - INFO - Saved T chart to multi_stock_analysis/T_detailed_analysis.png
+2025-09-26 22:20:37,980 - INFO - Creating individual chart for VZ
+2025-09-26 22:20:40,240 - INFO - Saved VZ chart to multi_stock_analysis/VZ_detailed_analysis.png
+2025-09-26 22:20:40,241 - INFO - Creating individual chart for ORCL
+2025-09-26 22:20:42,495 - INFO - Saved ORCL chart to multi_stock_analysis/ORCL_detailed_analysis.png
+2025-09-26 22:20:42,496 - INFO - Creating individual chart for ADBE
+2025-09-26 22:20:46,506 - INFO - Saved ADBE chart to multi_stock_analysis/ADBE_detailed_analysis.png
+2025-09-26 22:20:46,507 - INFO - Creating individual chart for CRM
+2025-09-26 22:20:48,948 - INFO - Saved CRM chart to multi_stock_analysis/CRM_detailed_analysis.png
+2025-09-26 22:20:48,949 - INFO - Creating individual chart for INTC
+2025-09-26 22:20:51,429 - INFO - Saved INTC chart to multi_stock_analysis/INTC_detailed_analysis.png
+2025-09-26 22:20:51,430 - INFO - Creating individual chart for AMD
+2025-09-26 22:20:53,719 - INFO - Saved AMD chart to multi_stock_analysis/AMD_detailed_analysis.png
+2025-09-26 22:20:53,721 - INFO - Generating comprehensive HTML report
+2025-09-26 22:20:53,721 - INFO - Generating comprehensive interactive HTML report
+2025-09-26 22:20:53,803 - INFO - Saved enhanced interactive report to multi_stock_analysis/comprehensive_report.html
+2025-09-26 22:23:35,608 - INFO - Loading data for 44 stocks with period: 1y
+2025-09-26 22:23:35,608 - INFO - Fetching data for AAPL
+2025-09-26 22:23:36,024 - INFO - Successfully loaded 251 rows for AAPL
+2025-09-26 22:23:36,024 - INFO - Fetching data for MSFT
+2025-09-26 22:23:36,133 - INFO - Successfully loaded 251 rows for MSFT
+2025-09-26 22:23:36,134 - INFO - Fetching data for GOOGL
+2025-09-26 22:23:36,234 - INFO - Successfully loaded 251 rows for GOOGL
+2025-09-26 22:23:36,234 - INFO - Fetching data for AMZN
+2025-09-26 22:23:36,310 - INFO - Successfully loaded 251 rows for AMZN
+2025-09-26 22:23:36,310 - INFO - Fetching data for TSLA
+2025-09-26 22:23:36,385 - INFO - Successfully loaded 251 rows for TSLA
+2025-09-26 22:23:36,385 - INFO - Fetching data for NVDA
+2025-09-26 22:23:36,497 - INFO - Successfully loaded 251 rows for NVDA
+2025-09-26 22:23:36,497 - INFO - Fetching data for META
+2025-09-26 22:23:36,578 - INFO - Successfully loaded 251 rows for META
+2025-09-26 22:23:36,578 - INFO - Fetching data for NFLX
+2025-09-26 22:23:36,669 - INFO - Successfully loaded 251 rows for NFLX
+2025-09-26 22:23:36,669 - INFO - Fetching data for JPM
+2025-09-26 22:23:36,811 - INFO - Successfully loaded 251 rows for JPM
+2025-09-26 22:23:36,811 - INFO - Fetching data for BAC
+2025-09-26 22:23:36,970 - INFO - Successfully loaded 251 rows for BAC
+2025-09-26 22:23:36,970 - INFO - Fetching data for GS
+2025-09-26 22:23:37,086 - INFO - Successfully loaded 251 rows for GS
+2025-09-26 22:23:37,086 - INFO - Fetching data for MS
+2025-09-26 22:23:37,245 - INFO - Successfully loaded 251 rows for MS
+2025-09-26 22:23:37,246 - INFO - Fetching data for C
+2025-09-26 22:23:37,416 - INFO - Successfully loaded 251 rows for C
+2025-09-26 22:23:37,416 - INFO - Fetching data for V
+2025-09-26 22:23:37,515 - INFO - Successfully loaded 251 rows for V
+2025-09-26 22:23:37,516 - INFO - Fetching data for MA
+2025-09-26 22:23:37,626 - INFO - Successfully loaded 251 rows for MA
+2025-09-26 22:23:37,626 - INFO - Fetching data for PYPL
+2025-09-26 22:23:37,709 - INFO - Successfully loaded 251 rows for PYPL
+2025-09-26 22:23:37,709 - INFO - Fetching data for JNJ
+2025-09-26 22:23:37,911 - INFO - Successfully loaded 251 rows for JNJ
+2025-09-26 22:23:37,911 - INFO - Fetching data for PFE
+2025-09-26 22:23:38,083 - INFO - Successfully loaded 251 rows for PFE
+2025-09-26 22:23:38,083 - INFO - Fetching data for MRK
+2025-09-26 22:23:38,244 - INFO - Successfully loaded 251 rows for MRK
+2025-09-26 22:23:38,244 - INFO - Fetching data for UNH
+2025-09-26 22:23:38,390 - INFO - Successfully loaded 251 rows for UNH
+2025-09-26 22:23:38,390 - INFO - Fetching data for ABBV
+2025-09-26 22:23:38,486 - INFO - Successfully loaded 251 rows for ABBV
+2025-09-26 22:23:38,487 - INFO - Fetching data for WMT
+2025-09-26 22:23:38,634 - INFO - Successfully loaded 251 rows for WMT
+2025-09-26 22:23:38,635 - INFO - Fetching data for COST
+2025-09-26 22:23:38,794 - INFO - Successfully loaded 251 rows for COST
+2025-09-26 22:23:38,794 - INFO - Fetching data for PG
+2025-09-26 22:23:38,985 - INFO - Successfully loaded 251 rows for PG
+2025-09-26 22:23:38,985 - INFO - Fetching data for KO
+2025-09-26 22:23:39,173 - INFO - Successfully loaded 251 rows for KO
+2025-09-26 22:23:39,174 - INFO - Fetching data for PEP
+2025-09-26 22:23:39,335 - INFO - Successfully loaded 251 rows for PEP
+2025-09-26 22:23:39,336 - INFO - Fetching data for MCD
+2025-09-26 22:23:39,494 - INFO - Successfully loaded 251 rows for MCD
+2025-09-26 22:23:39,494 - INFO - Fetching data for TGT
+2025-09-26 22:23:39,627 - INFO - Successfully loaded 251 rows for TGT
+2025-09-26 22:23:39,627 - INFO - Fetching data for XOM
+2025-09-26 22:23:39,804 - INFO - Successfully loaded 251 rows for XOM
+2025-09-26 22:23:39,804 - INFO - Fetching data for CVX
+2025-09-26 22:23:39,973 - INFO - Successfully loaded 251 rows for CVX
+2025-09-26 22:23:39,973 - INFO - Fetching data for COP
+2025-09-26 22:23:40,153 - INFO - Successfully loaded 251 rows for COP
+2025-09-26 22:23:40,153 - INFO - Fetching data for BA
+2025-09-26 22:23:40,331 - INFO - Successfully loaded 251 rows for BA
+2025-09-26 22:23:40,331 - INFO - Fetching data for CAT
+2025-09-26 22:23:40,568 - INFO - Successfully loaded 251 rows for CAT
+2025-09-26 22:23:40,568 - INFO - Fetching data for GE
+2025-09-26 22:23:40,758 - INFO - Successfully loaded 251 rows for GE
+2025-09-26 22:23:40,758 - INFO - Fetching data for MMM
+2025-09-26 22:23:40,917 - INFO - Successfully loaded 251 rows for MMM
+2025-09-26 22:23:40,917 - INFO - Fetching data for DIS
+2025-09-26 22:23:41,076 - INFO - Successfully loaded 251 rows for DIS
+2025-09-26 22:23:41,077 - INFO - Fetching data for CMCSA
+2025-09-26 22:23:41,207 - INFO - Successfully loaded 251 rows for CMCSA
+2025-09-26 22:23:41,207 - INFO - Fetching data for T
+2025-09-26 22:23:41,343 - INFO - Successfully loaded 251 rows for T
+2025-09-26 22:23:41,343 - INFO - Fetching data for VZ
+2025-09-26 22:23:41,479 - INFO - Successfully loaded 251 rows for VZ
+2025-09-26 22:23:41,479 - INFO - Fetching data for ORCL
+2025-09-26 22:23:41,595 - INFO - Successfully loaded 251 rows for ORCL
+2025-09-26 22:23:41,595 - INFO - Fetching data for ADBE
+2025-09-26 22:23:41,720 - INFO - Successfully loaded 251 rows for ADBE
+2025-09-26 22:23:41,721 - INFO - Fetching data for CRM
+2025-09-26 22:23:41,813 - INFO - Successfully loaded 251 rows for CRM
+2025-09-26 22:23:41,813 - INFO - Fetching data for INTC
+2025-09-26 22:23:41,943 - INFO - Successfully loaded 251 rows for INTC
+2025-09-26 22:23:41,943 - INFO - Fetching data for AMD
+2025-09-26 22:23:42,040 - INFO - Successfully loaded 251 rows for AMD
+2025-09-26 22:23:43,155 - INFO - Saved combined daily data: 11044 rows
+2025-09-26 22:23:43,155 - INFO - Starting comprehensive analysis for all stocks
+2025-09-26 22:23:43,156 - INFO - Analyzing AAPL
+2025-09-26 22:23:43,162 - INFO - Analyzing MSFT
+2025-09-26 22:23:43,173 - INFO - Analyzing GOOGL
+2025-09-26 22:23:43,182 - INFO - Analyzing AMZN
+2025-09-26 22:23:43,190 - INFO - Analyzing TSLA
+2025-09-26 22:23:43,198 - INFO - Analyzing NVDA
+2025-09-26 22:23:43,205 - INFO - Analyzing META
+2025-09-26 22:23:43,211 - INFO - Analyzing NFLX
+2025-09-26 22:23:43,219 - INFO - Analyzing JPM
+2025-09-26 22:23:43,225 - INFO - Analyzing BAC
+2025-09-26 22:23:43,233 - INFO - Analyzing GS
+2025-09-26 22:23:43,241 - INFO - Analyzing MS
+2025-09-26 22:23:43,250 - INFO - Analyzing C
+2025-09-26 22:23:43,256 - INFO - Analyzing V
+2025-09-26 22:23:43,265 - INFO - Analyzing MA
+2025-09-26 22:23:43,273 - INFO - Analyzing PYPL
+2025-09-26 22:23:43,283 - INFO - Analyzing JNJ
+2025-09-26 22:23:43,290 - INFO - Analyzing PFE
+2025-09-26 22:23:43,300 - INFO - Analyzing MRK
+2025-09-26 22:23:43,311 - INFO - Analyzing UNH
+2025-09-26 22:23:43,324 - INFO - Analyzing ABBV
+2025-09-26 22:23:43,336 - INFO - Analyzing WMT
+2025-09-26 22:23:43,344 - INFO - Analyzing COST
+2025-09-26 22:23:43,354 - INFO - Analyzing PG
+2025-09-26 22:23:43,362 - INFO - Analyzing KO
+2025-09-26 22:23:43,370 - INFO - Analyzing PEP
+2025-09-26 22:23:43,378 - INFO - Analyzing MCD
+2025-09-26 22:23:43,387 - INFO - Analyzing TGT
+2025-09-26 22:23:43,395 - INFO - Analyzing XOM
+2025-09-26 22:23:43,405 - INFO - Analyzing CVX
+2025-09-26 22:23:43,412 - INFO - Analyzing COP
+2025-09-26 22:23:43,421 - INFO - Analyzing BA
+2025-09-26 22:23:43,428 - INFO - Analyzing CAT
+2025-09-26 22:23:43,436 - INFO - Analyzing GE
+2025-09-26 22:23:43,443 - INFO - Analyzing MMM
+2025-09-26 22:23:43,452 - INFO - Analyzing DIS
+2025-09-26 22:23:43,458 - INFO - Analyzing CMCSA
+2025-09-26 22:23:43,466 - INFO - Analyzing T
+2025-09-26 22:23:43,473 - INFO - Analyzing VZ
+2025-09-26 22:23:43,483 - INFO - Analyzing ORCL
+2025-09-26 22:23:43,489 - INFO - Analyzing ADBE
+2025-09-26 22:23:43,497 - INFO - Analyzing CRM
+2025-09-26 22:23:43,504 - INFO - Analyzing INTC
+2025-09-26 22:23:43,514 - INFO - Analyzing AMD
+2025-09-26 22:23:43,528 - INFO - Saved SMA analysis to multi_stock_analysis/sma_analysis.csv
+2025-09-26 22:23:43,531 - INFO - Saved runs analysis to multi_stock_analysis/runs_analysis.csv
+2025-09-26 22:23:43,535 - INFO - Saved returns analysis to multi_stock_analysis/returns_analysis.csv
+2025-09-26 22:23:43,538 - INFO - Saved profit analysis to multi_stock_analysis/profit_analysis.csv
+2025-09-26 22:23:43,595 - INFO - Saved correlation matrix to multi_stock_analysis/correlation_matrix.csv
+2025-09-26 22:23:43,600 - INFO - Saved portfolio summary to multi_stock_analysis/portfolio_summary.csv
+2025-09-26 22:23:43,600 - INFO - Running comprehensive validation tests
+2025-09-26 22:23:43,600 - INFO - Validating analysis for AAPL
+2025-09-26 22:23:43,603 - INFO - Validating analysis for MSFT
+2025-09-26 22:23:43,604 - INFO - Validating analysis for GOOGL
+2025-09-26 22:23:43,606 - INFO - Validating analysis for AMZN
+2025-09-26 22:23:43,607 - INFO - Validating analysis for TSLA
+2025-09-26 22:23:43,609 - INFO - Validating analysis for NVDA
+2025-09-26 22:23:43,610 - INFO - Validating analysis for META
+2025-09-26 22:23:43,611 - INFO - Validating analysis for NFLX
+2025-09-26 22:23:43,613 - INFO - Validating analysis for JPM
+2025-09-26 22:23:43,614 - INFO - Validating analysis for BAC
+2025-09-26 22:23:43,615 - INFO - Validating analysis for GS
+2025-09-26 22:23:43,617 - INFO - Validating analysis for MS
+2025-09-26 22:23:43,618 - INFO - Validating analysis for C
+2025-09-26 22:23:43,620 - INFO - Validating analysis for V
+2025-09-26 22:23:43,621 - INFO - Validating analysis for MA
+2025-09-26 22:23:43,623 - INFO - Validating analysis for PYPL
+2025-09-26 22:23:43,625 - INFO - Validating analysis for JNJ
+2025-09-26 22:23:43,626 - INFO - Validating analysis for PFE
+2025-09-26 22:23:43,627 - INFO - Validating analysis for MRK
+2025-09-26 22:23:43,629 - INFO - Validating analysis for UNH
+2025-09-26 22:23:43,630 - INFO - Validating analysis for ABBV
+2025-09-26 22:23:43,632 - INFO - Validating analysis for WMT
+2025-09-26 22:23:43,634 - INFO - Validating analysis for COST
+2025-09-26 22:23:43,636 - INFO - Validating analysis for PG
+2025-09-26 22:23:43,637 - INFO - Validating analysis for KO
+2025-09-26 22:23:43,638 - INFO - Validating analysis for PEP
+2025-09-26 22:23:43,640 - INFO - Validating analysis for MCD
+2025-09-26 22:23:43,641 - INFO - Validating analysis for TGT
+2025-09-26 22:23:43,643 - INFO - Validating analysis for XOM
+2025-09-26 22:23:43,644 - INFO - Validating analysis for CVX
+2025-09-26 22:23:43,646 - INFO - Validating analysis for COP
+2025-09-26 22:23:43,648 - INFO - Validating analysis for BA
+2025-09-26 22:23:43,649 - INFO - Validating analysis for CAT
+2025-09-26 22:23:43,652 - INFO - Validating analysis for GE
+2025-09-26 22:23:43,653 - INFO - Validating analysis for MMM
+2025-09-26 22:23:43,655 - INFO - Validating analysis for DIS
+2025-09-26 22:23:43,656 - INFO - Validating analysis for CMCSA
+2025-09-26 22:23:43,657 - INFO - Validating analysis for T
+2025-09-26 22:23:43,659 - INFO - Validating analysis for VZ
+2025-09-26 22:23:43,660 - INFO - Validating analysis for ORCL
+2025-09-26 22:23:43,662 - INFO - Validating analysis for ADBE
+2025-09-26 22:23:43,663 - INFO - Validating analysis for CRM
+2025-09-26 22:23:43,665 - INFO - Validating analysis for INTC
+2025-09-26 22:23:43,668 - INFO - Validating analysis for AMD
+2025-09-26 22:23:43,674 - INFO - Saved validation results to multi_stock_analysis/validation_results.csv
+2025-09-26 22:23:54,820 - INFO - Saved comprehensive dashboard to multi_stock_analysis/comprehensive_dashboard.png
+2025-09-26 22:23:54,820 - INFO - Creating individual chart for AAPL
+2025-09-26 22:23:57,141 - INFO - Saved AAPL chart to multi_stock_analysis/AAPL_detailed_analysis.png
+2025-09-26 22:23:57,142 - INFO - Creating individual chart for MSFT
+2025-09-26 22:23:59,909 - INFO - Saved MSFT chart to multi_stock_analysis/MSFT_detailed_analysis.png
+2025-09-26 22:23:59,910 - INFO - Creating individual chart for GOOGL
+2025-09-26 22:24:02,369 - INFO - Saved GOOGL chart to multi_stock_analysis/GOOGL_detailed_analysis.png
+2025-09-26 22:24:02,370 - INFO - Creating individual chart for AMZN
+2025-09-26 22:24:04,819 - INFO - Saved AMZN chart to multi_stock_analysis/AMZN_detailed_analysis.png
+2025-09-26 22:24:04,820 - INFO - Creating individual chart for TSLA
+2025-09-26 22:24:07,479 - INFO - Saved TSLA chart to multi_stock_analysis/TSLA_detailed_analysis.png
+2025-09-26 22:24:07,480 - INFO - Creating individual chart for NVDA
+2025-09-26 22:24:09,976 - INFO - Saved NVDA chart to multi_stock_analysis/NVDA_detailed_analysis.png
+2025-09-26 22:24:09,976 - INFO - Creating individual chart for META
+2025-09-26 22:24:12,452 - INFO - Saved META chart to multi_stock_analysis/META_detailed_analysis.png
+2025-09-26 22:24:12,453 - INFO - Creating individual chart for NFLX
+2025-09-26 22:24:15,359 - INFO - Saved NFLX chart to multi_stock_analysis/NFLX_detailed_analysis.png
+2025-09-26 22:24:15,359 - INFO - Creating individual chart for JPM
+2025-09-26 22:24:17,839 - INFO - Saved JPM chart to multi_stock_analysis/JPM_detailed_analysis.png
+2025-09-26 22:24:17,840 - INFO - Creating individual chart for BAC
+2025-09-26 22:24:20,242 - INFO - Saved BAC chart to multi_stock_analysis/BAC_detailed_analysis.png
+2025-09-26 22:24:20,243 - INFO - Creating individual chart for GS
+2025-09-26 22:24:22,706 - INFO - Saved GS chart to multi_stock_analysis/GS_detailed_analysis.png
+2025-09-26 22:24:22,706 - INFO - Creating individual chart for MS
+2025-09-26 22:24:25,565 - INFO - Saved MS chart to multi_stock_analysis/MS_detailed_analysis.png
+2025-09-26 22:24:25,566 - INFO - Creating individual chart for C
+2025-09-26 22:24:27,995 - INFO - Saved C chart to multi_stock_analysis/C_detailed_analysis.png
+2025-09-26 22:24:27,996 - INFO - Creating individual chart for V
+2025-09-26 22:24:30,392 - INFO - Saved V chart to multi_stock_analysis/V_detailed_analysis.png
+2025-09-26 22:24:30,393 - INFO - Creating individual chart for MA
+2025-09-26 22:24:32,844 - INFO - Saved MA chart to multi_stock_analysis/MA_detailed_analysis.png
+2025-09-26 22:24:32,844 - INFO - Creating individual chart for PYPL
+2025-09-26 22:24:35,329 - INFO - Saved PYPL chart to multi_stock_analysis/PYPL_detailed_analysis.png
+2025-09-26 22:24:35,330 - INFO - Creating individual chart for JNJ
+2025-09-26 22:24:38,394 - INFO - Saved JNJ chart to multi_stock_analysis/JNJ_detailed_analysis.png
+2025-09-26 22:24:38,395 - INFO - Creating individual chart for PFE
+2025-09-26 22:24:40,856 - INFO - Saved PFE chart to multi_stock_analysis/PFE_detailed_analysis.png
+2025-09-26 22:24:40,857 - INFO - Creating individual chart for MRK
+2025-09-26 22:24:43,244 - INFO - Saved MRK chart to multi_stock_analysis/MRK_detailed_analysis.png
+2025-09-26 22:24:43,245 - INFO - Creating individual chart for UNH
+2025-09-26 22:24:45,839 - INFO - Saved UNH chart to multi_stock_analysis/UNH_detailed_analysis.png
+2025-09-26 22:24:45,840 - INFO - Creating individual chart for ABBV
+2025-09-26 22:24:48,346 - INFO - Saved ABBV chart to multi_stock_analysis/ABBV_detailed_analysis.png
+2025-09-26 22:24:48,347 - INFO - Creating individual chart for WMT
+2025-09-26 22:24:50,917 - INFO - Saved WMT chart to multi_stock_analysis/WMT_detailed_analysis.png
+2025-09-26 22:24:50,918 - INFO - Creating individual chart for COST
+2025-09-26 22:24:54,137 - INFO - Saved COST chart to multi_stock_analysis/COST_detailed_analysis.png
+2025-09-26 22:24:54,137 - INFO - Creating individual chart for PG
+2025-09-26 22:24:56,503 - INFO - Saved PG chart to multi_stock_analysis/PG_detailed_analysis.png
+2025-09-26 22:24:56,504 - INFO - Creating individual chart for KO
+2025-09-26 22:24:58,918 - INFO - Saved KO chart to multi_stock_analysis/KO_detailed_analysis.png
+2025-09-26 22:24:58,919 - INFO - Creating individual chart for PEP
+2025-09-26 22:25:01,321 - INFO - Saved PEP chart to multi_stock_analysis/PEP_detailed_analysis.png
+2025-09-26 22:25:01,321 - INFO - Creating individual chart for MCD
+2025-09-26 22:25:03,690 - INFO - Saved MCD chart to multi_stock_analysis/MCD_detailed_analysis.png
+2025-09-26 22:25:03,691 - INFO - Creating individual chart for TGT
+2025-09-26 22:25:06,155 - INFO - Saved TGT chart to multi_stock_analysis/TGT_detailed_analysis.png
+2025-09-26 22:25:06,156 - INFO - Creating individual chart for XOM
+2025-09-26 22:25:08,658 - INFO - Saved XOM chart to multi_stock_analysis/XOM_detailed_analysis.png
+2025-09-26 22:25:08,659 - INFO - Creating individual chart for CVX
+2025-09-26 22:25:11,240 - INFO - Saved CVX chart to multi_stock_analysis/CVX_detailed_analysis.png
+2025-09-26 22:25:11,241 - INFO - Creating individual chart for COP
+2025-09-26 22:25:14,709 - INFO - Saved COP chart to multi_stock_analysis/COP_detailed_analysis.png
+2025-09-26 22:25:14,710 - INFO - Creating individual chart for BA
+2025-09-26 22:25:17,169 - INFO - Saved BA chart to multi_stock_analysis/BA_detailed_analysis.png
+2025-09-26 22:25:17,170 - INFO - Creating individual chart for CAT
+2025-09-26 22:25:19,663 - INFO - Saved CAT chart to multi_stock_analysis/CAT_detailed_analysis.png
+2025-09-26 22:25:19,664 - INFO - Creating individual chart for GE
+2025-09-26 22:25:22,074 - INFO - Saved GE chart to multi_stock_analysis/GE_detailed_analysis.png
+2025-09-26 22:25:22,075 - INFO - Creating individual chart for MMM
+2025-09-26 22:25:24,560 - INFO - Saved MMM chart to multi_stock_analysis/MMM_detailed_analysis.png
+2025-09-26 22:25:24,562 - INFO - Creating individual chart for DIS
+2025-09-26 22:25:27,042 - INFO - Saved DIS chart to multi_stock_analysis/DIS_detailed_analysis.png
+2025-09-26 22:25:27,043 - INFO - Creating individual chart for CMCSA
+2025-09-26 22:25:29,526 - INFO - Saved CMCSA chart to multi_stock_analysis/CMCSA_detailed_analysis.png
+2025-09-26 22:25:29,527 - INFO - Creating individual chart for T
+2025-09-26 22:25:31,968 - INFO - Saved T chart to multi_stock_analysis/T_detailed_analysis.png
+2025-09-26 22:25:31,969 - INFO - Creating individual chart for VZ
+2025-09-26 22:25:34,326 - INFO - Saved VZ chart to multi_stock_analysis/VZ_detailed_analysis.png
+2025-09-26 22:25:34,327 - INFO - Creating individual chart for ORCL
+2025-09-26 22:25:36,723 - INFO - Saved ORCL chart to multi_stock_analysis/ORCL_detailed_analysis.png
+2025-09-26 22:25:36,724 - INFO - Creating individual chart for ADBE
+2025-09-26 22:25:40,881 - INFO - Saved ADBE chart to multi_stock_analysis/ADBE_detailed_analysis.png
+2025-09-26 22:25:40,881 - INFO - Creating individual chart for CRM
+2025-09-26 22:25:43,493 - INFO - Saved CRM chart to multi_stock_analysis/CRM_detailed_analysis.png
+2025-09-26 22:25:43,493 - INFO - Creating individual chart for INTC
+2025-09-26 22:25:45,909 - INFO - Saved INTC chart to multi_stock_analysis/INTC_detailed_analysis.png
+2025-09-26 22:25:45,910 - INFO - Creating individual chart for AMD
+2025-09-26 22:25:48,272 - INFO - Saved AMD chart to multi_stock_analysis/AMD_detailed_analysis.png
+2025-09-26 22:25:48,273 - INFO - Generating comprehensive HTML report
+2025-09-26 22:25:48,273 - INFO - Generating comprehensive interactive HTML report
+2025-09-26 22:25:48,344 - INFO - Saved enhanced interactive report to multi_stock_analysis/comprehensive_report.html
+2025-09-26 22:32:02,073 - INFO - Loading data for 44 stocks with period: 1y
+2025-09-26 22:32:02,074 - INFO - Fetching data for AAPL
+2025-09-26 22:32:02,532 - INFO - Successfully loaded 251 rows for AAPL
+2025-09-26 22:32:02,532 - INFO - Fetching data for MSFT
+2025-09-26 22:32:02,655 - INFO - Successfully loaded 251 rows for MSFT
+2025-09-26 22:32:02,655 - INFO - Fetching data for GOOGL
+2025-09-26 22:32:02,735 - INFO - Successfully loaded 251 rows for GOOGL
+2025-09-26 22:32:02,735 - INFO - Fetching data for AMZN
+2025-09-26 22:32:02,815 - INFO - Successfully loaded 251 rows for AMZN
+2025-09-26 22:32:02,816 - INFO - Fetching data for TSLA
+2025-09-26 22:32:02,893 - INFO - Successfully loaded 251 rows for TSLA
+2025-09-26 22:32:02,893 - INFO - Fetching data for NVDA
+2025-09-26 22:32:02,996 - INFO - Successfully loaded 251 rows for NVDA
+2025-09-26 22:32:02,996 - INFO - Fetching data for META
+2025-09-26 22:32:03,085 - INFO - Successfully loaded 251 rows for META
+2025-09-26 22:32:03,085 - INFO - Fetching data for NFLX
+2025-09-26 22:32:03,177 - INFO - Successfully loaded 251 rows for NFLX
+2025-09-26 22:32:03,177 - INFO - Fetching data for JPM
+2025-09-26 22:32:03,296 - INFO - Successfully loaded 251 rows for JPM
+2025-09-26 22:32:03,296 - INFO - Fetching data for BAC
+2025-09-26 22:32:03,445 - INFO - Successfully loaded 251 rows for BAC
+2025-09-26 22:32:03,445 - INFO - Fetching data for GS
+2025-09-26 22:32:03,563 - INFO - Successfully loaded 251 rows for GS
+2025-09-26 22:32:03,563 - INFO - Fetching data for MS
+2025-09-26 22:32:03,706 - INFO - Successfully loaded 251 rows for MS
+2025-09-26 22:32:03,707 - INFO - Fetching data for C
+2025-09-26 22:32:03,843 - INFO - Successfully loaded 251 rows for C
+2025-09-26 22:32:03,843 - INFO - Fetching data for V
+2025-09-26 22:32:03,940 - INFO - Successfully loaded 251 rows for V
+2025-09-26 22:32:03,940 - INFO - Fetching data for MA
+2025-09-26 22:32:04,040 - INFO - Successfully loaded 251 rows for MA
+2025-09-26 22:32:04,041 - INFO - Fetching data for PYPL
+2025-09-26 22:32:04,113 - INFO - Successfully loaded 251 rows for PYPL
+2025-09-26 22:32:04,113 - INFO - Fetching data for JNJ
+2025-09-26 22:32:04,287 - INFO - Successfully loaded 251 rows for JNJ
+2025-09-26 22:32:04,287 - INFO - Fetching data for PFE
+2025-09-26 22:32:04,466 - INFO - Successfully loaded 251 rows for PFE
+2025-09-26 22:32:04,467 - INFO - Fetching data for MRK
+2025-09-26 22:32:04,655 - INFO - Successfully loaded 251 rows for MRK
+2025-09-26 22:32:04,656 - INFO - Fetching data for UNH
+2025-09-26 22:32:04,789 - INFO - Successfully loaded 251 rows for UNH
+2025-09-26 22:32:04,790 - INFO - Fetching data for ABBV
+2025-09-26 22:32:04,902 - INFO - Successfully loaded 251 rows for ABBV
+2025-09-26 22:32:04,902 - INFO - Fetching data for WMT
+2025-09-26 22:32:05,070 - INFO - Successfully loaded 251 rows for WMT
+2025-09-26 22:32:05,071 - INFO - Fetching data for COST
+2025-09-26 22:32:05,181 - INFO - Successfully loaded 251 rows for COST
+2025-09-26 22:32:05,182 - INFO - Fetching data for PG
+2025-09-26 22:32:05,394 - INFO - Successfully loaded 251 rows for PG
+2025-09-26 22:32:05,394 - INFO - Fetching data for KO
+2025-09-26 22:32:05,571 - INFO - Successfully loaded 251 rows for KO
+2025-09-26 22:32:05,571 - INFO - Fetching data for PEP
+2025-09-26 22:32:05,747 - INFO - Successfully loaded 251 rows for PEP
+2025-09-26 22:32:05,747 - INFO - Fetching data for MCD
+2025-09-26 22:32:05,927 - INFO - Successfully loaded 251 rows for MCD
+2025-09-26 22:32:05,927 - INFO - Fetching data for TGT
+2025-09-26 22:32:06,050 - INFO - Successfully loaded 251 rows for TGT
+2025-09-26 22:32:06,051 - INFO - Fetching data for XOM
+2025-09-26 22:32:06,228 - INFO - Successfully loaded 251 rows for XOM
+2025-09-26 22:32:06,228 - INFO - Fetching data for CVX
+2025-09-26 22:32:06,421 - INFO - Successfully loaded 251 rows for CVX
+2025-09-26 22:32:06,421 - INFO - Fetching data for COP
+2025-09-26 22:32:06,585 - INFO - Successfully loaded 251 rows for COP
+2025-09-26 22:32:06,586 - INFO - Fetching data for BA
+2025-09-26 22:32:06,783 - INFO - Successfully loaded 251 rows for BA
+2025-09-26 22:32:06,784 - INFO - Fetching data for CAT
+2025-09-26 22:32:06,943 - INFO - Successfully loaded 251 rows for CAT
+2025-09-26 22:32:06,943 - INFO - Fetching data for GE
+2025-09-26 22:32:07,107 - INFO - Successfully loaded 251 rows for GE
+2025-09-26 22:32:07,107 - INFO - Fetching data for MMM
+2025-09-26 22:32:07,304 - INFO - Successfully loaded 251 rows for MMM
+2025-09-26 22:32:07,304 - INFO - Fetching data for DIS
+2025-09-26 22:32:07,467 - INFO - Successfully loaded 251 rows for DIS
+2025-09-26 22:32:07,467 - INFO - Fetching data for CMCSA
+2025-09-26 22:32:07,658 - INFO - Successfully loaded 251 rows for CMCSA
+2025-09-26 22:32:07,658 - INFO - Fetching data for T
+2025-09-26 22:32:07,818 - INFO - Successfully loaded 251 rows for T
+2025-09-26 22:32:07,818 - INFO - Fetching data for VZ
+2025-09-26 22:32:07,965 - INFO - Successfully loaded 251 rows for VZ
+2025-09-26 22:32:07,965 - INFO - Fetching data for ORCL
+2025-09-26 22:32:08,066 - INFO - Successfully loaded 251 rows for ORCL
+2025-09-26 22:32:08,066 - INFO - Fetching data for ADBE
+2025-09-26 22:32:08,181 - INFO - Successfully loaded 251 rows for ADBE
+2025-09-26 22:32:08,181 - INFO - Fetching data for CRM
+2025-09-26 22:32:08,257 - INFO - Successfully loaded 251 rows for CRM
+2025-09-26 22:32:08,258 - INFO - Fetching data for INTC
+2025-09-26 22:32:08,389 - INFO - Successfully loaded 251 rows for INTC
+2025-09-26 22:32:08,389 - INFO - Fetching data for AMD
+2025-09-26 22:32:08,461 - INFO - Successfully loaded 251 rows for AMD
+2025-09-26 22:32:09,736 - INFO - Saved combined daily data: 11044 rows
+2025-09-26 22:32:09,737 - INFO - Starting comprehensive analysis for all stocks
+2025-09-26 22:32:09,737 - INFO - Analyzing AAPL
+2025-09-26 22:32:09,744 - INFO - Analyzing MSFT
+2025-09-26 22:32:09,751 - INFO - Analyzing GOOGL
+2025-09-26 22:32:09,757 - INFO - Analyzing AMZN
+2025-09-26 22:32:09,764 - INFO - Analyzing TSLA
+2025-09-26 22:32:09,771 - INFO - Analyzing NVDA
+2025-09-26 22:32:09,778 - INFO - Analyzing META
+2025-09-26 22:32:09,785 - INFO - Analyzing NFLX
+2025-09-26 22:32:09,791 - INFO - Analyzing JPM
+2025-09-26 22:32:09,798 - INFO - Analyzing BAC
+2025-09-26 22:32:09,804 - INFO - Analyzing GS
+2025-09-26 22:32:09,812 - INFO - Analyzing MS
+2025-09-26 22:32:09,818 - INFO - Analyzing C
+2025-09-26 22:32:09,824 - INFO - Analyzing V
+2025-09-26 22:32:09,832 - INFO - Analyzing MA
+2025-09-26 22:32:09,839 - INFO - Analyzing PYPL
+2025-09-26 22:32:09,847 - INFO - Analyzing JNJ
+2025-09-26 22:32:09,857 - INFO - Analyzing PFE
+2025-09-26 22:32:09,864 - INFO - Analyzing MRK
+2025-09-26 22:32:09,879 - INFO - Analyzing UNH
+2025-09-26 22:32:09,889 - INFO - Analyzing ABBV
+2025-09-26 22:32:09,901 - INFO - Analyzing WMT
+2025-09-26 22:32:09,919 - INFO - Analyzing COST
+2025-09-26 22:32:09,929 - INFO - Analyzing PG
+2025-09-26 22:32:09,942 - INFO - Analyzing KO
+2025-09-26 22:32:09,953 - INFO - Analyzing PEP
+2025-09-26 22:32:09,959 - INFO - Analyzing MCD
+2025-09-26 22:32:09,967 - INFO - Analyzing TGT
+2025-09-26 22:32:09,973 - INFO - Analyzing XOM
+2025-09-26 22:32:09,980 - INFO - Analyzing CVX
+2025-09-26 22:32:09,986 - INFO - Analyzing COP
+2025-09-26 22:32:09,993 - INFO - Analyzing BA
+2025-09-26 22:32:10,000 - INFO - Analyzing CAT
+2025-09-26 22:32:10,006 - INFO - Analyzing GE
+2025-09-26 22:32:10,012 - INFO - Analyzing MMM
+2025-09-26 22:32:10,019 - INFO - Analyzing DIS
+2025-09-26 22:32:10,024 - INFO - Analyzing CMCSA
+2025-09-26 22:32:10,033 - INFO - Analyzing T
+2025-09-26 22:32:10,039 - INFO - Analyzing VZ
+2025-09-26 22:32:10,048 - INFO - Analyzing ORCL
+2025-09-26 22:32:10,055 - INFO - Analyzing ADBE
+2025-09-26 22:32:10,067 - INFO - Analyzing CRM
+2025-09-26 22:32:10,074 - INFO - Analyzing INTC
+2025-09-26 22:32:10,082 - INFO - Analyzing AMD
+2025-09-26 22:32:10,091 - INFO - Saved SMA analysis to multi_stock_analysis/sma_analysis.csv
+2025-09-26 22:32:10,093 - INFO - Saved runs analysis to multi_stock_analysis/runs_analysis.csv
+2025-09-26 22:32:10,096 - INFO - Saved returns analysis to multi_stock_analysis/returns_analysis.csv
+2025-09-26 22:32:10,099 - INFO - Saved profit analysis to multi_stock_analysis/profit_analysis.csv
+2025-09-26 22:32:10,158 - INFO - Saved correlation matrix to multi_stock_analysis/correlation_matrix.csv
+2025-09-26 22:32:10,162 - INFO - Saved portfolio summary to multi_stock_analysis/portfolio_summary.csv
+2025-09-26 22:32:10,162 - INFO - Running comprehensive validation tests
+2025-09-26 22:32:10,162 - INFO - Validating analysis for AAPL
+2025-09-26 22:32:10,164 - INFO - Validating analysis for MSFT
+2025-09-26 22:32:10,166 - INFO - Validating analysis for GOOGL
+2025-09-26 22:32:10,167 - INFO - Validating analysis for AMZN
+2025-09-26 22:32:10,169 - INFO - Validating analysis for TSLA
+2025-09-26 22:32:10,170 - INFO - Validating analysis for NVDA
+2025-09-26 22:32:10,172 - INFO - Validating analysis for META
+2025-09-26 22:32:10,173 - INFO - Validating analysis for NFLX
+2025-09-26 22:32:10,174 - INFO - Validating analysis for JPM
+2025-09-26 22:32:10,176 - INFO - Validating analysis for BAC
+2025-09-26 22:32:10,178 - INFO - Validating analysis for GS
+2025-09-26 22:32:10,180 - INFO - Validating analysis for MS
+2025-09-26 22:32:10,181 - INFO - Validating analysis for C
+2025-09-26 22:32:10,183 - INFO - Validating analysis for V
+2025-09-26 22:32:10,184 - INFO - Validating analysis for MA
+2025-09-26 22:32:10,186 - INFO - Validating analysis for PYPL
+2025-09-26 22:32:10,187 - INFO - Validating analysis for JNJ
+2025-09-26 22:32:10,189 - INFO - Validating analysis for PFE
+2025-09-26 22:32:10,190 - INFO - Validating analysis for MRK
+2025-09-26 22:32:10,192 - INFO - Validating analysis for UNH
+2025-09-26 22:32:10,194 - INFO - Validating analysis for ABBV
+2025-09-26 22:32:10,197 - INFO - Validating analysis for WMT
+2025-09-26 22:32:10,198 - INFO - Validating analysis for COST
+2025-09-26 22:32:10,200 - INFO - Validating analysis for PG
+2025-09-26 22:32:10,201 - INFO - Validating analysis for KO
+2025-09-26 22:32:10,203 - INFO - Validating analysis for PEP
+2025-09-26 22:32:10,204 - INFO - Validating analysis for MCD
+2025-09-26 22:32:10,205 - INFO - Validating analysis for TGT
+2025-09-26 22:32:10,206 - INFO - Validating analysis for XOM
+2025-09-26 22:32:10,208 - INFO - Validating analysis for CVX
+2025-09-26 22:32:10,210 - INFO - Validating analysis for COP
+2025-09-26 22:32:10,212 - INFO - Validating analysis for BA
+2025-09-26 22:32:10,214 - INFO - Validating analysis for CAT
+2025-09-26 22:32:10,216 - INFO - Validating analysis for GE
+2025-09-26 22:32:10,217 - INFO - Validating analysis for MMM
+2025-09-26 22:32:10,218 - INFO - Validating analysis for DIS
+2025-09-26 22:32:10,220 - INFO - Validating analysis for CMCSA
+2025-09-26 22:32:10,221 - INFO - Validating analysis for T
+2025-09-26 22:32:10,223 - INFO - Validating analysis for VZ
+2025-09-26 22:32:10,224 - INFO - Validating analysis for ORCL
+2025-09-26 22:32:10,225 - INFO - Validating analysis for ADBE
+2025-09-26 22:32:10,227 - INFO - Validating analysis for CRM
+2025-09-26 22:32:10,230 - INFO - Validating analysis for INTC
+2025-09-26 22:32:10,232 - INFO - Validating analysis for AMD
+2025-09-26 22:32:10,235 - INFO - Saved validation results to multi_stock_analysis/validation_results.csv
+2025-09-26 22:32:21,743 - INFO - Saved comprehensive dashboard to multi_stock_analysis/comprehensive_dashboard.png
+2025-09-26 22:32:21,744 - INFO - Creating individual chart for AAPL
+2025-09-26 22:32:24,289 - INFO - Saved AAPL chart to multi_stock_analysis/AAPL_detailed_analysis.png
+2025-09-26 22:32:24,289 - INFO - Creating individual chart for MSFT
+2025-09-26 22:32:27,231 - INFO - Saved MSFT chart to multi_stock_analysis/MSFT_detailed_analysis.png
+2025-09-26 22:32:27,231 - INFO - Creating individual chart for GOOGL
+2025-09-26 22:32:29,883 - INFO - Saved GOOGL chart to multi_stock_analysis/GOOGL_detailed_analysis.png
+2025-09-26 22:32:29,884 - INFO - Creating individual chart for AMZN
+2025-09-26 22:32:31,980 - INFO - Saved AMZN chart to multi_stock_analysis/AMZN_detailed_analysis.png
+2025-09-26 22:32:31,980 - INFO - Creating individual chart for TSLA
+2025-09-26 22:32:34,958 - INFO - Saved TSLA chart to multi_stock_analysis/TSLA_detailed_analysis.png
+2025-09-26 22:32:34,958 - INFO - Creating individual chart for NVDA
+2025-09-26 22:32:37,493 - INFO - Saved NVDA chart to multi_stock_analysis/NVDA_detailed_analysis.png
+2025-09-26 22:32:37,494 - INFO - Creating individual chart for META
+2025-09-26 22:32:40,152 - INFO - Saved META chart to multi_stock_analysis/META_detailed_analysis.png
+2025-09-26 22:32:40,152 - INFO - Creating individual chart for NFLX
+2025-09-26 22:32:43,239 - INFO - Saved NFLX chart to multi_stock_analysis/NFLX_detailed_analysis.png
+2025-09-26 22:32:43,240 - INFO - Creating individual chart for JPM
+2025-09-26 22:32:45,861 - INFO - Saved JPM chart to multi_stock_analysis/JPM_detailed_analysis.png
+2025-09-26 22:32:45,862 - INFO - Creating individual chart for BAC
+2025-09-26 22:32:48,430 - INFO - Saved BAC chart to multi_stock_analysis/BAC_detailed_analysis.png
+2025-09-26 22:32:48,431 - INFO - Creating individual chart for GS
+2025-09-26 22:32:51,082 - INFO - Saved GS chart to multi_stock_analysis/GS_detailed_analysis.png
+2025-09-26 22:32:51,083 - INFO - Creating individual chart for MS
+2025-09-26 22:32:54,089 - INFO - Saved MS chart to multi_stock_analysis/MS_detailed_analysis.png
+2025-09-26 22:32:54,089 - INFO - Creating individual chart for C
+2025-09-26 22:32:56,656 - INFO - Saved C chart to multi_stock_analysis/C_detailed_analysis.png
+2025-09-26 22:32:56,656 - INFO - Creating individual chart for V
+2025-09-26 22:32:59,282 - INFO - Saved V chart to multi_stock_analysis/V_detailed_analysis.png
+2025-09-26 22:32:59,283 - INFO - Creating individual chart for MA
+2025-09-26 22:33:01,849 - INFO - Saved MA chart to multi_stock_analysis/MA_detailed_analysis.png
+2025-09-26 22:33:01,849 - INFO - Creating individual chart for PYPL
+2025-09-26 22:33:04,227 - INFO - Saved PYPL chart to multi_stock_analysis/PYPL_detailed_analysis.png
+2025-09-26 22:33:04,227 - INFO - Creating individual chart for JNJ
+2025-09-26 22:33:07,433 - INFO - Saved JNJ chart to multi_stock_analysis/JNJ_detailed_analysis.png
+2025-09-26 22:33:07,433 - INFO - Creating individual chart for PFE
+2025-09-26 22:33:09,955 - INFO - Saved PFE chart to multi_stock_analysis/PFE_detailed_analysis.png
+2025-09-26 22:33:09,956 - INFO - Creating individual chart for MRK
+2025-09-26 22:33:12,611 - INFO - Saved MRK chart to multi_stock_analysis/MRK_detailed_analysis.png
+2025-09-26 22:33:12,612 - INFO - Creating individual chart for UNH
+2025-09-26 22:33:15,208 - INFO - Saved UNH chart to multi_stock_analysis/UNH_detailed_analysis.png
+2025-09-26 22:33:15,209 - INFO - Creating individual chart for ABBV
+2025-09-26 22:33:17,943 - INFO - Saved ABBV chart to multi_stock_analysis/ABBV_detailed_analysis.png
+2025-09-26 22:33:17,944 - INFO - Creating individual chart for WMT
+2025-09-26 22:33:20,442 - INFO - Saved WMT chart to multi_stock_analysis/WMT_detailed_analysis.png
+2025-09-26 22:33:20,443 - INFO - Creating individual chart for COST
+2025-09-26 22:33:23,873 - INFO - Saved COST chart to multi_stock_analysis/COST_detailed_analysis.png
+2025-09-26 22:33:23,873 - INFO - Creating individual chart for PG
+2025-09-26 22:33:26,235 - INFO - Saved PG chart to multi_stock_analysis/PG_detailed_analysis.png
+2025-09-26 22:33:26,237 - INFO - Creating individual chart for KO
+2025-09-26 22:33:28,740 - INFO - Saved KO chart to multi_stock_analysis/KO_detailed_analysis.png
+2025-09-26 22:33:28,740 - INFO - Creating individual chart for PEP
+2025-09-26 22:33:31,133 - INFO - Saved PEP chart to multi_stock_analysis/PEP_detailed_analysis.png
+2025-09-26 22:33:31,134 - INFO - Creating individual chart for MCD
+2025-09-26 22:33:33,569 - INFO - Saved MCD chart to multi_stock_analysis/MCD_detailed_analysis.png
+2025-09-26 22:33:33,569 - INFO - Creating individual chart for TGT
+2025-09-26 22:33:35,994 - INFO - Saved TGT chart to multi_stock_analysis/TGT_detailed_analysis.png
+2025-09-26 22:33:35,995 - INFO - Creating individual chart for XOM
+2025-09-26 22:33:38,274 - INFO - Saved XOM chart to multi_stock_analysis/XOM_detailed_analysis.png
+2025-09-26 22:33:38,275 - INFO - Creating individual chart for CVX
+2025-09-26 22:33:40,625 - INFO - Saved CVX chart to multi_stock_analysis/CVX_detailed_analysis.png
+2025-09-26 22:33:40,626 - INFO - Creating individual chart for COP
+2025-09-26 22:33:44,459 - INFO - Saved COP chart to multi_stock_analysis/COP_detailed_analysis.png
+2025-09-26 22:33:44,460 - INFO - Creating individual chart for BA
+2025-09-26 22:33:46,781 - INFO - Saved BA chart to multi_stock_analysis/BA_detailed_analysis.png
+2025-09-26 22:33:46,782 - INFO - Creating individual chart for CAT
+2025-09-26 22:33:49,170 - INFO - Saved CAT chart to multi_stock_analysis/CAT_detailed_analysis.png
+2025-09-26 22:33:49,171 - INFO - Creating individual chart for GE
+2025-09-26 22:33:51,500 - INFO - Saved GE chart to multi_stock_analysis/GE_detailed_analysis.png
+2025-09-26 22:33:51,501 - INFO - Creating individual chart for MMM
+2025-09-26 22:33:54,085 - INFO - Saved MMM chart to multi_stock_analysis/MMM_detailed_analysis.png
+2025-09-26 22:33:54,085 - INFO - Creating individual chart for DIS
+2025-09-26 22:33:56,430 - INFO - Saved DIS chart to multi_stock_analysis/DIS_detailed_analysis.png
+2025-09-26 22:33:56,432 - INFO - Creating individual chart for CMCSA
+2025-09-26 22:33:58,869 - INFO - Saved CMCSA chart to multi_stock_analysis/CMCSA_detailed_analysis.png
+2025-09-26 22:33:58,870 - INFO - Creating individual chart for T
+2025-09-26 22:34:01,292 - INFO - Saved T chart to multi_stock_analysis/T_detailed_analysis.png
+2025-09-26 22:34:01,293 - INFO - Creating individual chart for VZ
+2025-09-26 22:34:03,711 - INFO - Saved VZ chart to multi_stock_analysis/VZ_detailed_analysis.png
+2025-09-26 22:34:03,712 - INFO - Creating individual chart for ORCL
+2025-09-26 22:34:06,062 - INFO - Saved ORCL chart to multi_stock_analysis/ORCL_detailed_analysis.png
+2025-09-26 22:34:06,064 - INFO - Creating individual chart for ADBE
+2025-09-26 22:34:10,194 - INFO - Saved ADBE chart to multi_stock_analysis/ADBE_detailed_analysis.png
+2025-09-26 22:34:10,194 - INFO - Creating individual chart for CRM
+2025-09-26 22:34:12,600 - INFO - Saved CRM chart to multi_stock_analysis/CRM_detailed_analysis.png
+2025-09-26 22:34:12,601 - INFO - Creating individual chart for INTC
+2025-09-26 22:34:14,955 - INFO - Saved INTC chart to multi_stock_analysis/INTC_detailed_analysis.png
+2025-09-26 22:34:14,956 - INFO - Creating individual chart for AMD
+2025-09-26 22:34:17,344 - INFO - Saved AMD chart to multi_stock_analysis/AMD_detailed_analysis.png
+2025-09-26 22:34:17,345 - INFO - Generating comprehensive HTML report
+2025-09-26 22:34:17,345 - INFO - Generating comprehensive interactive HTML report
+2025-09-26 22:34:17,430 - INFO - Saved enhanced interactive report to multi_stock_analysis/comprehensive_report.html
+2025-09-26 22:40:12,519 - INFO - Loading data for 44 stocks with period: 1y
+2025-09-26 22:40:12,520 - INFO - Fetching data for AAPL
+2025-09-26 22:40:12,998 - INFO - Successfully loaded 251 rows for AAPL
+2025-09-26 22:40:12,998 - INFO - Fetching data for MSFT
+2025-09-26 22:40:13,129 - INFO - Successfully loaded 251 rows for MSFT
+2025-09-26 22:40:13,129 - INFO - Fetching data for GOOGL
+2025-09-26 22:40:13,221 - INFO - Successfully loaded 251 rows for GOOGL
+2025-09-26 22:40:13,222 - INFO - Fetching data for AMZN
+2025-09-26 22:40:13,302 - INFO - Successfully loaded 251 rows for AMZN
+2025-09-26 22:40:13,302 - INFO - Fetching data for TSLA
+2025-09-26 22:40:13,401 - INFO - Successfully loaded 251 rows for TSLA
+2025-09-26 22:40:13,401 - INFO - Fetching data for NVDA
+2025-09-26 22:40:13,504 - INFO - Successfully loaded 251 rows for NVDA
+2025-09-26 22:40:13,504 - INFO - Fetching data for META
+2025-09-26 22:40:13,692 - INFO - Successfully loaded 251 rows for META
+2025-09-26 22:40:13,693 - INFO - Fetching data for NFLX
+2025-09-26 22:40:13,795 - INFO - Successfully loaded 251 rows for NFLX
+2025-09-26 22:40:13,796 - INFO - Fetching data for JPM
+2025-09-26 22:40:14,028 - INFO - Successfully loaded 251 rows for JPM
+2025-09-26 22:40:14,028 - INFO - Fetching data for BAC
+2025-09-26 22:40:14,256 - INFO - Successfully loaded 251 rows for BAC
+2025-09-26 22:40:14,257 - INFO - Fetching data for GS
+2025-09-26 22:40:14,488 - INFO - Successfully loaded 251 rows for GS
+2025-09-26 22:40:14,489 - INFO - Fetching data for MS
+2025-09-26 22:40:14,636 - INFO - Successfully loaded 251 rows for MS
+2025-09-26 22:40:14,637 - INFO - Fetching data for C
+2025-09-26 22:40:14,801 - INFO - Successfully loaded 251 rows for C
+2025-09-26 22:40:14,801 - INFO - Fetching data for V
+2025-09-26 22:40:15,014 - INFO - Successfully loaded 251 rows for V
+2025-09-26 22:40:15,015 - INFO - Fetching data for MA
+2025-09-26 22:40:15,117 - INFO - Successfully loaded 251 rows for MA
+2025-09-26 22:40:15,117 - INFO - Fetching data for PYPL
+2025-09-26 22:40:15,210 - INFO - Successfully loaded 251 rows for PYPL
+2025-09-26 22:40:15,210 - INFO - Fetching data for JNJ
+2025-09-26 22:40:15,409 - INFO - Successfully loaded 251 rows for JNJ
+2025-09-26 22:40:15,410 - INFO - Fetching data for PFE
+2025-09-26 22:40:15,581 - INFO - Successfully loaded 251 rows for PFE
+2025-09-26 22:40:15,581 - INFO - Fetching data for MRK
+2025-09-26 22:40:15,801 - INFO - Successfully loaded 251 rows for MRK
+2025-09-26 22:40:15,802 - INFO - Fetching data for UNH
+2025-09-26 22:40:15,950 - INFO - Successfully loaded 251 rows for UNH
+2025-09-26 22:40:15,950 - INFO - Fetching data for ABBV
+2025-09-26 22:40:16,059 - INFO - Successfully loaded 251 rows for ABBV
+2025-09-26 22:40:16,059 - INFO - Fetching data for WMT
+2025-09-26 22:40:16,210 - INFO - Successfully loaded 251 rows for WMT
+2025-09-26 22:40:16,210 - INFO - Fetching data for COST
+2025-09-26 22:40:16,342 - INFO - Successfully loaded 251 rows for COST
+2025-09-26 22:40:16,342 - INFO - Fetching data for PG
+2025-09-26 22:40:16,540 - INFO - Successfully loaded 251 rows for PG
+2025-09-26 22:40:16,540 - INFO - Fetching data for KO
+2025-09-26 22:40:16,780 - INFO - Successfully loaded 251 rows for KO
+2025-09-26 22:40:16,780 - INFO - Fetching data for PEP
+2025-09-26 22:40:16,996 - INFO - Successfully loaded 251 rows for PEP
+2025-09-26 22:40:16,996 - INFO - Fetching data for MCD
+2025-09-26 22:40:17,159 - INFO - Successfully loaded 251 rows for MCD
+2025-09-26 22:40:17,160 - INFO - Fetching data for TGT
+2025-09-26 22:40:17,304 - INFO - Successfully loaded 251 rows for TGT
+2025-09-26 22:40:17,304 - INFO - Fetching data for XOM
+2025-09-26 22:40:17,467 - INFO - Successfully loaded 251 rows for XOM
+2025-09-26 22:40:17,467 - INFO - Fetching data for CVX
+2025-09-26 22:40:17,628 - INFO - Successfully loaded 251 rows for CVX
+2025-09-26 22:40:17,628 - INFO - Fetching data for COP
+2025-09-26 22:40:17,776 - INFO - Successfully loaded 251 rows for COP
+2025-09-26 22:40:17,777 - INFO - Fetching data for BA
+2025-09-26 22:40:17,979 - INFO - Successfully loaded 251 rows for BA
+2025-09-26 22:40:17,980 - INFO - Fetching data for CAT
+2025-09-26 22:40:18,302 - INFO - Successfully loaded 251 rows for CAT
+2025-09-26 22:40:18,302 - INFO - Fetching data for GE
+2025-09-26 22:40:18,498 - INFO - Successfully loaded 251 rows for GE
+2025-09-26 22:40:18,498 - INFO - Fetching data for MMM
+2025-09-26 22:40:18,742 - INFO - Successfully loaded 251 rows for MMM
+2025-09-26 22:40:18,743 - INFO - Fetching data for DIS
+2025-09-26 22:40:18,899 - INFO - Successfully loaded 251 rows for DIS
+2025-09-26 22:40:18,899 - INFO - Fetching data for CMCSA
+2025-09-26 22:40:19,030 - INFO - Successfully loaded 251 rows for CMCSA
+2025-09-26 22:40:19,030 - INFO - Fetching data for T
+2025-09-26 22:40:19,171 - INFO - Successfully loaded 251 rows for T
+2025-09-26 22:40:19,172 - INFO - Fetching data for VZ
+2025-09-26 22:40:19,327 - INFO - Successfully loaded 251 rows for VZ
+2025-09-26 22:40:19,327 - INFO - Fetching data for ORCL
+2025-09-26 22:40:19,439 - INFO - Successfully loaded 251 rows for ORCL
+2025-09-26 22:40:19,439 - INFO - Fetching data for ADBE
+2025-09-26 22:40:19,541 - INFO - Successfully loaded 251 rows for ADBE
+2025-09-26 22:40:19,542 - INFO - Fetching data for CRM
+2025-09-26 22:40:19,622 - INFO - Successfully loaded 251 rows for CRM
+2025-09-26 22:40:19,622 - INFO - Fetching data for INTC
+2025-09-26 22:40:19,743 - INFO - Successfully loaded 251 rows for INTC
+2025-09-26 22:40:19,743 - INFO - Fetching data for AMD
+2025-09-26 22:40:19,823 - INFO - Successfully loaded 251 rows for AMD
+2025-09-26 22:40:20,982 - INFO - Saved combined daily data: 11044 rows
+2025-09-26 22:40:20,983 - INFO - Starting comprehensive analysis for all stocks
+2025-09-26 22:40:20,983 - INFO - Analyzing AAPL
+2025-09-26 22:40:20,991 - INFO - Analyzing MSFT
+2025-09-26 22:40:20,999 - INFO - Analyzing GOOGL
+2025-09-26 22:40:21,008 - INFO - Analyzing AMZN
+2025-09-26 22:40:21,014 - INFO - Analyzing TSLA
+2025-09-26 22:40:21,022 - INFO - Analyzing NVDA
+2025-09-26 22:40:21,028 - INFO - Analyzing META
+2025-09-26 22:40:21,037 - INFO - Analyzing NFLX
+2025-09-26 22:40:21,046 - INFO - Analyzing JPM
+2025-09-26 22:40:21,054 - INFO - Analyzing BAC
+2025-09-26 22:40:21,063 - INFO - Analyzing GS
+2025-09-26 22:40:21,070 - INFO - Analyzing MS
+2025-09-26 22:40:21,082 - INFO - Analyzing C
+2025-09-26 22:40:21,091 - INFO - Analyzing V
+2025-09-26 22:40:21,099 - INFO - Analyzing MA
+2025-09-26 22:40:21,107 - INFO - Analyzing PYPL
+2025-09-26 22:40:21,115 - INFO - Analyzing JNJ
+2025-09-26 22:40:21,123 - INFO - Analyzing PFE
+2025-09-26 22:40:21,130 - INFO - Analyzing MRK
+2025-09-26 22:40:21,141 - INFO - Analyzing UNH
+2025-09-26 22:40:21,148 - INFO - Analyzing ABBV
+2025-09-26 22:40:21,161 - INFO - Analyzing WMT
+2025-09-26 22:40:21,168 - INFO - Analyzing COST
+2025-09-26 22:40:21,185 - INFO - Analyzing PG
+2025-09-26 22:40:21,208 - INFO - Analyzing KO
+2025-09-26 22:40:21,230 - INFO - Analyzing PEP
+2025-09-26 22:40:21,241 - INFO - Analyzing MCD
+2025-09-26 22:40:21,248 - INFO - Analyzing TGT
+2025-09-26 22:40:21,255 - INFO - Analyzing XOM
+2025-09-26 22:40:21,261 - INFO - Analyzing CVX
+2025-09-26 22:40:21,268 - INFO - Analyzing COP
+2025-09-26 22:40:21,275 - INFO - Analyzing BA
+2025-09-26 22:40:21,281 - INFO - Analyzing CAT
+2025-09-26 22:40:21,288 - INFO - Analyzing GE
+2025-09-26 22:40:21,294 - INFO - Analyzing MMM
+2025-09-26 22:40:21,300 - INFO - Analyzing DIS
+2025-09-26 22:40:21,306 - INFO - Analyzing CMCSA
+2025-09-26 22:40:21,312 - INFO - Analyzing T
+2025-09-26 22:40:21,318 - INFO - Analyzing VZ
+2025-09-26 22:40:21,325 - INFO - Analyzing ORCL
+2025-09-26 22:40:21,332 - INFO - Analyzing ADBE
+2025-09-26 22:40:21,338 - INFO - Analyzing CRM
+2025-09-26 22:40:21,345 - INFO - Analyzing INTC
+2025-09-26 22:40:21,352 - INFO - Analyzing AMD
+2025-09-26 22:40:21,360 - INFO - Saved SMA analysis to multi_stock_analysis/sma_analysis.csv
+2025-09-26 22:40:21,362 - INFO - Saved runs analysis to multi_stock_analysis/runs_analysis.csv
+2025-09-26 22:40:21,365 - INFO - Saved returns analysis to multi_stock_analysis/returns_analysis.csv
+2025-09-26 22:40:21,368 - INFO - Saved profit analysis to multi_stock_analysis/profit_analysis.csv
+2025-09-26 22:40:21,430 - INFO - Saved correlation matrix to multi_stock_analysis/correlation_matrix.csv
+2025-09-26 22:40:21,434 - INFO - Saved portfolio summary to multi_stock_analysis/portfolio_summary.csv
+2025-09-26 22:40:21,435 - INFO - Running comprehensive validation tests
+2025-09-26 22:40:21,435 - INFO - Validating analysis for AAPL
+2025-09-26 22:40:21,438 - INFO - Validating analysis for MSFT
+2025-09-26 22:40:21,440 - INFO - Validating analysis for GOOGL
+2025-09-26 22:40:21,441 - INFO - Validating analysis for AMZN
+2025-09-26 22:40:21,443 - INFO - Validating analysis for TSLA
+2025-09-26 22:40:21,444 - INFO - Validating analysis for NVDA
+2025-09-26 22:40:21,447 - INFO - Validating analysis for META
+2025-09-26 22:40:21,448 - INFO - Validating analysis for NFLX
+2025-09-26 22:40:21,450 - INFO - Validating analysis for JPM
+2025-09-26 22:40:21,451 - INFO - Validating analysis for BAC
+2025-09-26 22:40:21,453 - INFO - Validating analysis for GS
+2025-09-26 22:40:21,454 - INFO - Validating analysis for MS
+2025-09-26 22:40:21,456 - INFO - Validating analysis for C
+2025-09-26 22:40:21,457 - INFO - Validating analysis for V
+2025-09-26 22:40:21,458 - INFO - Validating analysis for MA
+2025-09-26 22:40:21,460 - INFO - Validating analysis for PYPL
+2025-09-26 22:40:21,462 - INFO - Validating analysis for JNJ
+2025-09-26 22:40:21,463 - INFO - Validating analysis for PFE
+2025-09-26 22:40:21,465 - INFO - Validating analysis for MRK
+2025-09-26 22:40:21,466 - INFO - Validating analysis for UNH
+2025-09-26 22:40:21,468 - INFO - Validating analysis for ABBV
+2025-09-26 22:40:21,469 - INFO - Validating analysis for WMT
+2025-09-26 22:40:21,470 - INFO - Validating analysis for COST
+2025-09-26 22:40:21,472 - INFO - Validating analysis for PG
+2025-09-26 22:40:21,473 - INFO - Validating analysis for KO
+2025-09-26 22:40:21,475 - INFO - Validating analysis for PEP
+2025-09-26 22:40:21,476 - INFO - Validating analysis for MCD
+2025-09-26 22:40:21,477 - INFO - Validating analysis for TGT
+2025-09-26 22:40:21,480 - INFO - Validating analysis for XOM
+2025-09-26 22:40:21,481 - INFO - Validating analysis for CVX
+2025-09-26 22:40:21,483 - INFO - Validating analysis for COP
+2025-09-26 22:40:21,485 - INFO - Validating analysis for BA
+2025-09-26 22:40:21,486 - INFO - Validating analysis for CAT
+2025-09-26 22:40:21,487 - INFO - Validating analysis for GE
+2025-09-26 22:40:21,489 - INFO - Validating analysis for MMM
+2025-09-26 22:40:21,490 - INFO - Validating analysis for DIS
+2025-09-26 22:40:21,491 - INFO - Validating analysis for CMCSA
+2025-09-26 22:40:21,493 - INFO - Validating analysis for T
+2025-09-26 22:40:21,495 - INFO - Validating analysis for VZ
+2025-09-26 22:40:21,498 - INFO - Validating analysis for ORCL
+2025-09-26 22:40:21,500 - INFO - Validating analysis for ADBE
+2025-09-26 22:40:21,501 - INFO - Validating analysis for CRM
+2025-09-26 22:40:21,502 - INFO - Validating analysis for INTC
+2025-09-26 22:40:21,504 - INFO - Validating analysis for AMD
+2025-09-26 22:40:21,508 - INFO - Saved validation results to multi_stock_analysis/validation_results.csv
+2025-09-26 22:40:32,677 - INFO - Saved comprehensive dashboard to multi_stock_analysis/comprehensive_dashboard.png
+2025-09-26 22:40:32,677 - INFO - Creating individual chart for AAPL
+2025-09-26 22:40:35,045 - INFO - Saved AAPL chart to multi_stock_analysis/AAPL_detailed_analysis.png
+2025-09-26 22:40:35,045 - INFO - Creating individual chart for MSFT
+2025-09-26 22:40:37,864 - INFO - Saved MSFT chart to multi_stock_analysis/MSFT_detailed_analysis.png
+2025-09-26 22:40:37,864 - INFO - Creating individual chart for GOOGL
+2025-09-26 22:40:40,192 - INFO - Saved GOOGL chart to multi_stock_analysis/GOOGL_detailed_analysis.png
+2025-09-26 22:40:40,193 - INFO - Creating individual chart for AMZN
+2025-09-26 22:40:42,615 - INFO - Saved AMZN chart to multi_stock_analysis/AMZN_detailed_analysis.png
+2025-09-26 22:40:42,615 - INFO - Creating individual chart for TSLA
+2025-09-26 22:40:45,370 - INFO - Saved TSLA chart to multi_stock_analysis/TSLA_detailed_analysis.png
+2025-09-26 22:40:45,370 - INFO - Creating individual chart for NVDA
+2025-09-26 22:40:47,811 - INFO - Saved NVDA chart to multi_stock_analysis/NVDA_detailed_analysis.png
+2025-09-26 22:40:47,812 - INFO - Creating individual chart for META
+2025-09-26 22:40:50,111 - INFO - Saved META chart to multi_stock_analysis/META_detailed_analysis.png
+2025-09-26 22:40:50,111 - INFO - Creating individual chart for NFLX
+2025-09-26 22:40:52,949 - INFO - Saved NFLX chart to multi_stock_analysis/NFLX_detailed_analysis.png
+2025-09-26 22:40:52,950 - INFO - Creating individual chart for JPM
+2025-09-26 22:40:55,906 - INFO - Saved JPM chart to multi_stock_analysis/JPM_detailed_analysis.png
+2025-09-26 22:40:55,907 - INFO - Creating individual chart for BAC
+2025-09-26 22:40:58,579 - INFO - Saved BAC chart to multi_stock_analysis/BAC_detailed_analysis.png
+2025-09-26 22:40:58,579 - INFO - Creating individual chart for GS
+2025-09-26 22:41:01,117 - INFO - Saved GS chart to multi_stock_analysis/GS_detailed_analysis.png
+2025-09-26 22:41:01,117 - INFO - Creating individual chart for MS
+2025-09-26 22:41:03,805 - INFO - Saved MS chart to multi_stock_analysis/MS_detailed_analysis.png
+2025-09-26 22:41:03,806 - INFO - Creating individual chart for C
+2025-09-26 22:41:06,327 - INFO - Saved C chart to multi_stock_analysis/C_detailed_analysis.png
+2025-09-26 22:41:06,327 - INFO - Creating individual chart for V
+2025-09-26 22:41:08,779 - INFO - Saved V chart to multi_stock_analysis/V_detailed_analysis.png
+2025-09-26 22:41:08,780 - INFO - Creating individual chart for MA
+2025-09-26 22:41:11,375 - INFO - Saved MA chart to multi_stock_analysis/MA_detailed_analysis.png
+2025-09-26 22:41:11,376 - INFO - Creating individual chart for PYPL
+2025-09-26 22:41:14,088 - INFO - Saved PYPL chart to multi_stock_analysis/PYPL_detailed_analysis.png
+2025-09-26 22:41:14,089 - INFO - Creating individual chart for JNJ
+2025-09-26 22:41:17,736 - INFO - Saved JNJ chart to multi_stock_analysis/JNJ_detailed_analysis.png
+2025-09-26 22:41:17,737 - INFO - Creating individual chart for PFE
+2025-09-26 22:41:20,441 - INFO - Saved PFE chart to multi_stock_analysis/PFE_detailed_analysis.png
+2025-09-26 22:41:20,442 - INFO - Creating individual chart for MRK
+2025-09-26 22:41:23,104 - INFO - Saved MRK chart to multi_stock_analysis/MRK_detailed_analysis.png
+2025-09-26 22:41:23,105 - INFO - Creating individual chart for UNH
+2025-09-26 22:41:25,797 - INFO - Saved UNH chart to multi_stock_analysis/UNH_detailed_analysis.png
+2025-09-26 22:41:25,798 - INFO - Creating individual chart for ABBV
+2025-09-26 22:41:28,347 - INFO - Saved ABBV chart to multi_stock_analysis/ABBV_detailed_analysis.png
+2025-09-26 22:41:28,348 - INFO - Creating individual chart for WMT
+2025-09-26 22:41:30,874 - INFO - Saved WMT chart to multi_stock_analysis/WMT_detailed_analysis.png
+2025-09-26 22:41:30,875 - INFO - Creating individual chart for COST
+2025-09-26 22:41:33,865 - INFO - Saved COST chart to multi_stock_analysis/COST_detailed_analysis.png
+2025-09-26 22:41:33,865 - INFO - Creating individual chart for PG
+2025-09-26 22:41:36,294 - INFO - Saved PG chart to multi_stock_analysis/PG_detailed_analysis.png
+2025-09-26 22:41:36,295 - INFO - Creating individual chart for KO
+2025-09-26 22:41:38,741 - INFO - Saved KO chart to multi_stock_analysis/KO_detailed_analysis.png
+2025-09-26 22:41:38,742 - INFO - Creating individual chart for PEP
+2025-09-26 22:41:41,300 - INFO - Saved PEP chart to multi_stock_analysis/PEP_detailed_analysis.png
+2025-09-26 22:41:41,301 - INFO - Creating individual chart for MCD
+2025-09-26 22:41:43,733 - INFO - Saved MCD chart to multi_stock_analysis/MCD_detailed_analysis.png
+2025-09-26 22:41:43,733 - INFO - Creating individual chart for TGT
+2025-09-26 22:41:46,341 - INFO - Saved TGT chart to multi_stock_analysis/TGT_detailed_analysis.png
+2025-09-26 22:41:46,342 - INFO - Creating individual chart for XOM
+2025-09-26 22:41:48,889 - INFO - Saved XOM chart to multi_stock_analysis/XOM_detailed_analysis.png
+2025-09-26 22:41:48,890 - INFO - Creating individual chart for CVX
+2025-09-26 22:41:51,518 - INFO - Saved CVX chart to multi_stock_analysis/CVX_detailed_analysis.png
+2025-09-26 22:41:51,519 - INFO - Creating individual chart for COP
+2025-09-26 22:41:55,620 - INFO - Saved COP chart to multi_stock_analysis/COP_detailed_analysis.png
+2025-09-26 22:41:55,621 - INFO - Creating individual chart for BA
+2025-09-26 22:41:58,388 - INFO - Saved BA chart to multi_stock_analysis/BA_detailed_analysis.png
+2025-09-26 22:41:58,389 - INFO - Creating individual chart for CAT
+2025-09-26 22:42:01,241 - INFO - Saved CAT chart to multi_stock_analysis/CAT_detailed_analysis.png
+2025-09-26 22:42:01,242 - INFO - Creating individual chart for GE
+2025-09-26 22:42:03,912 - INFO - Saved GE chart to multi_stock_analysis/GE_detailed_analysis.png
+2025-09-26 22:42:03,913 - INFO - Creating individual chart for MMM
+2025-09-26 22:42:06,092 - INFO - Saved MMM chart to multi_stock_analysis/MMM_detailed_analysis.png
+2025-09-26 22:42:06,093 - INFO - Creating individual chart for DIS
+2025-09-26 22:42:08,718 - INFO - Saved DIS chart to multi_stock_analysis/DIS_detailed_analysis.png
+2025-09-26 22:42:08,719 - INFO - Creating individual chart for CMCSA
+2025-09-26 22:42:11,468 - INFO - Saved CMCSA chart to multi_stock_analysis/CMCSA_detailed_analysis.png
+2025-09-26 22:42:11,469 - INFO - Creating individual chart for T
+2025-09-26 22:42:14,185 - INFO - Saved T chart to multi_stock_analysis/T_detailed_analysis.png
+2025-09-26 22:42:14,186 - INFO - Creating individual chart for VZ
+2025-09-26 22:42:16,832 - INFO - Saved VZ chart to multi_stock_analysis/VZ_detailed_analysis.png
+2025-09-26 22:42:16,833 - INFO - Creating individual chart for ORCL
+2025-09-26 22:42:19,565 - INFO - Saved ORCL chart to multi_stock_analysis/ORCL_detailed_analysis.png
+2025-09-26 22:42:19,566 - INFO - Creating individual chart for ADBE
+2025-09-26 22:42:23,544 - INFO - Saved ADBE chart to multi_stock_analysis/ADBE_detailed_analysis.png
+2025-09-26 22:42:23,545 - INFO - Creating individual chart for CRM
+2025-09-26 22:42:25,908 - INFO - Saved CRM chart to multi_stock_analysis/CRM_detailed_analysis.png
+2025-09-26 22:42:25,909 - INFO - Creating individual chart for INTC
+2025-09-26 22:42:28,400 - INFO - Saved INTC chart to multi_stock_analysis/INTC_detailed_analysis.png
+2025-09-26 22:42:28,401 - INFO - Creating individual chart for AMD
+2025-09-26 22:42:30,851 - INFO - Saved AMD chart to multi_stock_analysis/AMD_detailed_analysis.png
+2025-09-26 22:42:30,853 - INFO - Generating comprehensive HTML report
+2025-09-26 22:42:30,853 - INFO - Generating comprehensive interactive HTML report
+2025-09-26 22:42:30,945 - INFO - Saved enhanced interactive report to multi_stock_analysis/comprehensive_report.html
